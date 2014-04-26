@@ -1,0 +1,29 @@
+---
+layout: singleton
+title: Toilet Paper Animation
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - toiletpaper
+ - christophejordache
+ - DFFest
+ - filmfestival
+ - 2010
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
+video: //player.vimeo.com/video/10224948
+collections:
+ - 2010-3-24-competitive-shorts.txt
+blurb: Toilet Paper Animation, a film by Christophe Jordache.
+---
+
+<p>Toilet Paper Animation
+By Christophe Jordache</p>
+<p>Official Selection of Disposable Film Festival 2010</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

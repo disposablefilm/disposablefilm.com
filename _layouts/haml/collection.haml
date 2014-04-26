@@ -1,0 +1,45 @@
+\---
+layout: layout
+\---
+
+.row
+  .col-md-8
+    .collection
+      {% if page.video %}
+      .video
+        <iframe src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      {% else %}
+      .image
+        %img{src: "{{ page.image }}"}/
+      {% endif %}
+
+      {% include share_this.html %}
+
+      %h1.title {{ page.title}}
+      .content
+        {{ page.content}}
+
+      {% for post in site.posts %}
+      {% for collection in post.collections %}
+      {% capture collection_path %}_posts/{{ collection }}{% endcapture %}
+      {% if collection_path == page.path %}
+      .col-md-6
+        .feature-image{:style => "background-image: url({{ post.image }}); background-position: center;"}
+          %a{:href => "{{ post.url }}"}
+            %h3 {{ post.title }}
+      {% endif %}
+      {% endfor %}
+      {% endfor %}
+
+  .col-md-4
+    {% include sponsor_sidebar.html %}
+
+    {% include marketing_feature.html %}
+
+    %h2 Check this, too...
+
+    {% for post in site.related_posts %}
+    .feature-image{:style => "background-image: url({{ post.image }}); background-position: center;"}
+      %a{:href => "{{ post.url }}"}
+        %h3 {{ post.title }}
+    {% endfor %}

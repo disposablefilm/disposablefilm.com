@@ -1,0 +1,30 @@
+---
+layout: singleton
+title: Joey Ramone - NYC
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - joeyramone
+ - gregjardin
+ - DFFest
+ - filmfestival
+ - 2013
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/432/698/432698124_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/432/698/432698124_295.jpg
+
+video: //player.vimeo.com/video/62719571
+collections:
+ - 2013-3-24-competitive-shorts.txt
+blurb: Joey Ramone - NYC, a film by Greg Jardin.
+---
+
+<p>Joey Ramone - NYC
+By Greg Jardin</p>
+<p>Official Selection of Disposable Film Festival 2013</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

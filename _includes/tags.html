@@ -1,0 +1,13 @@
+<div class="post-tags">
+  <ul class="tags">
+    {% for tag in page.tags %}
+      {% if tag != 'featured' and tag != 'landingpage' %}
+        <li class="tag">
+          <a href="/search/{{ tag | slugize }}/">
+            {{ tag }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

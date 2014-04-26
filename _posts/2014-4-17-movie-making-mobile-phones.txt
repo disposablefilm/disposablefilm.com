@@ -1,0 +1,84 @@
+---
+layout: singleton
+title: 10 Best Smartphones For Video
+categories:
+  - culture
+  - news
+tags:
+  - iphone
+  - featured
+image: /images/posts/10-best-smartphones-for-filmmaking.jpg
+thumb: /images/posts/10-best-smartphones-for-filmmaking.jpg
+blurb: A review of the 10 most popular mobile cameras for making movies.
+---
+
+<div class="article" style="clear: both">
+  <h3>Apple iPhone 5S</h3>
+  <img src="/images/phones/iphone-5s.png" width="225" height="320" alt="iPhone 5S" align="right">
+  <p>Arguably one of the best two or three smartphone cameras on the market today. Forget what look like so-so specifications. The 5S has an 8 megapixel “iSight” camera with a f/2.2 lens and 3X zoom. All together they are capable of capturing amazing 1080p video at 30 frames per second. It also lets you take stills while you're shooting videos. Best of all, it's available for purchase from all four of the major U.S. carriers. <a href="http://www.apple.com/iphone-5s/" target="_blank">http://www.apple.com/iphone-5s/</a></p>
+</div>
+
+<div class="article" style="clear: both">
+  <h3>Apple iPhone 5C</h3>
+  <img align="right" src="/images/phones/iphone-5c.png" width="294" height="319" alt="iPhone 5C">
+  <p>OK, it's not an iPhone 5S. And it doesn't have the same advanced, 64-bit processor as in the 5S. But, while the 5C also has an 8 megapixel camera and the lens if f/2.4 it is also capable of 1080p video at 30 fps. And, the phone is a lot cheaper than the 5S. It's available from a large number of U.S. carriers and it comes in a rainbow of colors. http://www.apple.com/iphone-5c/</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>Nokia Lumia 1020</h3>
+  <img align="right" src="/images/phones/nokia-lumia-1020.png" width="317" height="320" alt="Nokia Lumia 1020">
+  <p>This phone has a 4.5-inch AMOLED screen, a monster 41-megapixel sensor mated to a 6-element Carl Zeiss lens and boasts optical image stabilization and Nokia's amazing Pro Camera app. Nokia phones run on Microsoft's Windows Phone operating system. Since it's release it has been an AT&T exclusive. They even make an optional camera grip to make shooting with the phone an easier task. http://www.nokia.com/us-en/phones/phone/lumia1020/</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>Nokia Lumia 1520</h3>
+  <img align="right" src="/images/phones/nokia-lumia-1520.png" width="193" height="319" alt="Nokia Lumia 1520">
+  <p>In this case the handset itself is the monster. It has a 6-inch, full HD (1920 by 1080 pixels), IPS touchscreen - huge for a smartphone/camera as well as a 20 MP PureView camera with a top-notch Zeiss lens. Runs on the Windows Phone OS. This phone is big and it's not really made for one-handed operation. But it is a great shooter. It;s also an AT&T exclusive. http://www.nokia.com/us-en/phones/phone/lumia1520/</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>Sony Xperia Z1s</h3>
+  <img align="right" src="/images/phones/sony-xperia-z1s.png" width="202" height="320" alt="Sony Xperia Z1s">
+  <p>Sony's flagship model is an Android phone with an amazing 20.7 megapixel camera system stuffed inside. Don't forget, in addition to making some terrific smartphones Sony is one of the top digital camera companies on the planet. It does 1080p videos with ease and the phone's 5-inch display is pretty special too. The Xperia Z1s is a T-Mobile exclusive. http://www.sonymobile.com/us/products/phones/xperia-z1s/specifications/#tabs</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>HTC One(M8)</h3>
+  <img align="right" src="/images/phones/htc-one-m8.png" width="230" height="320" alt="HTC One M8">
+  <p>This new HTC flagship phone is terrific and the camera is pretty amazing. Do not be fooled by the lack of published specs. HTC doesn't subscribe to the “my camera has more megapixels than your camera” theory. Instead, HTC claims the One's “UltraPixel” camera has larger pixels than the competition., Forget the war of words – the One has a great shooter which handles 1080p video with aplomb. The One(M8) is available from the four major phone carriers and directly from HTC. http://www.htc.com/us/smartphones/htc-one-m8/?PS=1&cid=sem157p2222685g-c</p>
+</div>
+
+
+<div class="article" style="clear: both">
+<h3>Samsung Galaxy S5</h3>
+<img align="right" src="/images/phones/samsung-galaxy-s5.png" width="269" height="320" alt="Samsung Galaxy S5">
+<p>The S5 is also a brand new entry into the marketplace. It sports a 16 megapixel shooter on the back which is also also capable of capturing 1080p video. Add in the beefy quad-Core Snapdragon processor and 2 GB of RAM into the equation and you have yourself a top-class smartphone/camera system. Early reviews say the S5 camera more than holds its own against competition like the iPhone 5S and HTC One(M8). Samsung's new Android flagship is available virtually everywhere. http://www.samsung.com/global/microsite/galaxys5/</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>Samsung Galaxy Note 3</h3>
+  <img align="right" src="/images/phones/samsung-galaxy-note-3.png" width="195" height="321" alt="Samsung Galaxy Note 3">
+  <p>This is Samsung's Android phablet. That means it has a huge screen – in this case 5.7-inches. That also means, like the Nokia Lumia 1520 it;s not really a one-handed camera phone. But there's a quad-core Snapdragon 800 processor and GB of RAM inside plus a 13 megapixel camera capable of 2160p video at 30 fps. A great phone available from all U.S. carriers. http://www.samsung.com/global/microsite/galaxynote3-gear/</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>Samsung Galaxy S4 Zoom</h3>
+  <img align="right" src="/images/phones/samsung-galaxy-s4-zoom.png" width="250" height="143" alt="Samsung Galaxy S4 Zoom">
+  <p>If you;re looking for a good smartphone camera without really caring about using the device as a phone then this strange device might just be perfect for you. It looks and feels like a somewhat bulky point-and-shoot digital camera, can make calls as well as send your photos into the cloud via a GSM (like T-Mobile) cellular connection. It also has a 24-240 mm zoom lens. http://www.samsung.com/global/microsite/galaxycamera/s4zoom/</p>
+</div>
+
+
+<div class="article" style="clear: both">
+  <h3>LG G2</h3>
+  <img align="right" src="/images/phones/lg-g2.png" width="193" height="320" alt="LG G2">
+  <p>This is LG's flagship smartphone model and as such you would expect a top-grade camera inside. Luckily, LG doesn't disappoint. This Android phone has a great 13 megapixel camera built inside “capable capturing 1080p, full HD videos. The G2 has something LG calls “OIS” (Optical Image Stabilizer) which really does help to smooth what could be shaky videos similar to what you sometimes see from other smartphones. The G2 is available now from the top four U.S. carriers. Http://www.lg.com/g2.</p>
+</div>
+
+<div class="article" style="clear: both">
+</div>

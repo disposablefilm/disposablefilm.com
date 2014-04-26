@@ -1,0 +1,66 @@
+---
+layout: layout
+---
+<div class='row'>
+  <div class='col-md-8'>
+    <div class='collection'>
+      {% if page.video %}
+      <div class='video'>
+        <iframe src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+      {% else %}
+      <div class='image' style="width: 750px; height: 300px; background-image: url({{ page.image }}); background-size: 100%;">
+      </div>
+      {% endif %}
+
+      <div class="share-single">
+        {% include share_this.html %}
+      </div>
+
+      <h1 class='title'>{{ page.title}}</h1>
+      {% include tags.html %}
+
+      <div class='post-body collection'>
+        {{ page.content}}
+      </div>
+
+      <div class="feature-posts">
+        {% for post in site.posts %}
+          {% for collection in post.collections %}
+            {% capture collection_path %}_posts/{{ collection }}{% endcapture %}
+              {% if collection_path == page.path %}
+                <div class='col-md-4'>
+                  <div class="feature-post">
+                    <a href='{{ post.url }}'>
+                      <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                      <div class="feature-title">{{ post.title }}</div>
+                      <div class='feature-category {{ post.categories }}'></div>
+                      <div class="feature-content">{{ post.blurb | truncatewords: 20 }}...</div>
+                      <div class="feature-link">Read more ></div>
+                    </a>
+                  </div>
+                </div>
+              {% endif %}
+          {% endfor %}
+        {% endfor %}
+      </div>
+
+      <div style="clear: both"></div>
+
+      <div class="related-content">
+        <h3>Related Content...</h3>
+        {% for post in site.related_posts limit:10 %}
+          <div class='feature-image related' style='background-image: url({{ post.image }}); background-position: center;'>
+            <a href='{{ post.url }}'>
+              <div class="title">{{ post.title }}</div>
+            </a>
+          </div>
+       {% endfor %}
+      </div>
+
+    </div>
+  </div>
+  <div class='col-md-4'>
+    {% include sponsor_sidebar.html %}
+  </div>
+</div>

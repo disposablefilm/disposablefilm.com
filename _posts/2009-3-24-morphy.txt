@@ -1,0 +1,29 @@
+---
+layout: singleton
+title: Morphy
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - morphy
+ - DFFest
+ - filmfestival
+ - 2009
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/255/559/2555597_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/255/559/2555597_295.jpg
+
+video: //player.vimeo.com/video/3371477
+collections:
+ - 2009-3-24-competitive-shorts.txt
+blurb: Morphy, a film by Justin Lincoln.
+---
+
+<p>Morphy
+By Justin Lincoln</p>
+<p>Official Selection of Disposable Film Festival 2009</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

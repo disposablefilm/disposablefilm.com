@@ -1,0 +1,29 @@
+---
+layout: singleton
+title: Dropped
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - dropped
+ - DFFest
+ - filmfestival
+ - 2009
+ - DFF
+image: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
+thumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
+
+video: //player.vimeo.com/video/3134256
+collections:
+ - 2009-3-24-competitive-shorts.txt
+blurb: Dropped, a film by Eric Mika.
+---
+
+<p>Dropped
+By Eric Mika</p>
+<p>Official Selection of Disposable Film Festival 2009</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

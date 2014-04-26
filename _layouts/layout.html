@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <title>Disposable Film - {{ page.title }}</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+
+      <!-- Custom CSS -->
+      {% stylesheet application %}
+
+      <!-- JS -->
+      {% javascript application %}
+
+  </head>
+
+  <body>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=119121714828796";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <div id="topbar" class="row">
+      <div class="col-md-3">
+        <a href="/"><img height="64" class="logo" src="/images/logo.png" border="0" alt="Disposable Film"></a>
+      </div>
+
+      <div class="col-md-9">
+        <img src="/images/ad-728x90.png">
+      </div>
+    </div>
+
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li class="item{% if page.url == '/index.html' %} active{% endif %}">
+              <a href="/" alt="Home">Home</a>
+            </li>
+
+            <li class="item{% if page.url contains '/events/' %} active{% endif %}">
+              <a href="/events" alt="DFF & Events">DFF & Events</a>
+            </li>
+
+            <li class="item{% if page.url contains '/films/' %} active{% endif %}">
+              <a href="/films" alt="Films">Films</a>
+            </li>
+
+            <li class="item{% if page.url contains '/news/' %} active{% endif %}">
+              <a href="/news" alt="News & Reviews">News & Reviews</a>
+            </li>
+
+            <li class="item{% if page.url contains '/culture/' %} active{% endif %}">
+              <a href="/culture" alt="Culture & Creation">Culture & Creation</a>
+            </li>
+
+            <li class="item"{% if page.url contains '/geek/' %} active{% endif %}>
+              <a href="http://disposablefilmfest.bigcartel.com" target="_blank" alt="DFF Merch Store" alt="Store">Store</a>
+            </li>
+
+            <li class="item{% if page.url contains '/sponsors/' %} active{% endif %}">
+              <a href="/sponsors" alt="Sponsors">Sponsors</a>
+            </li>
+          </ul>
+
+          <ul class="nav navbar-nav navbar-right">
+            <div class="dff-socials">
+              <div class="dff-social"><a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601" target="_blank"><span class="icon-facebook icon-large icon-white"></span></a></div>
+              <div class="dff-social"><a href="http://twitter.com/DFFest" target="_blank" alt="Twitter"><span class="icon-twitter icon-large icon-white"></span></a></div>
+              <div class="dff-social"><a href="http://statigr.am/disposablefilmfest" target="_blank"><span class="icon-camera icon-large icon-white"></span></a></div>
+              <div class="dff-social"><a href="https://pinterest.com/dffest/" target="_blank"><span class="icon-pinterest icon-large icon-white"></span></a></div>
+            </div>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+    <div class="content">
+
+      <!--
+      <div class="row">
+        <div class="col-md-12 ad-728x90">
+          {% include ad-728x90.html %}
+        </div>
+      </div>
+      -->
+
+      <div class="container">
+
+        {{ content }}
+
+      </div>
+
+      <div class="footer">
+        <div class="copyright">© Copyright 2014 Disposable Film Festival.</div>
+        <div class="item{% if page.url == '/about/contact/index.html' %} on{% endif %}">
+          <a href="/about/contact" alt="Contact Us">Contact Us</a>
+        </div>
+
+        <div class="separator">&nbsp;&nbsp;&nbsp;</div>
+
+        <div class="item{% if page.url == '/about/overview/index.html' %} on{% endif %}">
+          <a href="/about/overview" alt="Company Overview">Company Overview</a>
+        </div>
+
+        <div class="separator">&nbsp;&nbsp;&nbsp;</div>
+
+        <div class="item{% if page.url == '/about/advertising/index.html' %} on{% endif %}">
+          <a href="/about/advertising" alt="Advertising">Advertising</a>
+        </div>
+
+        <div class="separator">&nbsp;&nbsp;&nbsp;</div>
+
+        <div class="item{% if page.url == '/about/media/index.html' %} on{% endif %}">
+          <a href="/about/media" alt="Media Information">Media Information</a>
+        </div>
+
+        <div class="separator">&nbsp;&nbsp;&nbsp;</div>
+
+        <div class="item{% if page.url == '/about/pr/index.html' %} on{% endif %}">
+          <a href="/about/pr" alt="Public Relations">PR</a>
+        </div>
+      </div>
+
+    </div>
+  </body>
+</html>

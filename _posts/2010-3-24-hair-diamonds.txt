@@ -1,0 +1,28 @@
+---
+layout: singleton
+title: Hair and Diamonds
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - hairanddiamonds
+ - DFFest
+ - filmfestival
+ - 2010
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/529/066/52906619_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/529/066/52906619_295.jpg
+
+video: //player.vimeo.com/video/10225120
+collections:
+ - 2010-3-24-competitive-shorts.txt
+blurb: Hair and Diamonds, a film by DaveDunn.
+---
+
+<p>Hair and Diamonds</p>
+<p>Official Selection of Disposable Film Festival 2010</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

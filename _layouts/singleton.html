@@ -1,0 +1,45 @@
+---
+layout: layout
+---
+
+<div class='row'>
+  <div class='col-md-8'>
+    <div class='singleton'>
+      {% if page.video %}
+      <div class='video'>
+        <iframe src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+      {% else %}
+      <div class='image'>
+        <img src='{{ page.image }}'>
+      </div>
+      {% endif %}
+
+      <div class="share-single">
+        {% include share_this.html %}
+      </div>
+
+      <h1 class='title'>{{ page.title}}</h1>
+      {% include tags.html %}
+
+      <div class='post-body'>
+        {{ page.content}}
+      </div>
+
+      <div class="related-content">
+        <h3>Related Content...</h3>
+        {% for post in site.related_posts limit:10 %}
+        <div class='feature-image related' style='background-image: url({{ post.image }}); background-position: center;'>
+          <a href='{{ post.url }}'>
+            <div class="title">{{ post.title }}</div>
+          </a>
+        </div>
+        {% endfor %}
+      </div>
+
+    </div>
+  </div>
+  <div class='col-md-4'>
+    {% include sponsor_sidebar.html %}
+  </div>
+</div>

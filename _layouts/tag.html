@@ -1,0 +1,40 @@
+---
+layout: layout
+---
+
+<div class='row'>
+  <div class='col-md-8'>
+    <div class='tag-index'>
+      <h1 class='title'>Posts tagged with "{{ page.tag}}"</h1>
+
+      <div class="share-single">
+        {% include share_this.html %}
+      </div>
+
+      <div class="feature-posts">
+        {% for post in site.posts %}
+          {% if post.tags contains page.tag %}
+            <div class='col-md-4'>
+              <div class="feature-post">
+                <a href='{{ post.url }}'>
+                  <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                  <div class="feature-title">{{ post.title }}</div>
+                  <div class='feature-category {{ post.categories }}'></div>
+                  <div class="feature-content">{{ post.blurb | truncatewords: 20 }}...</div>
+                  <div class="feature-link">Read more ></div>
+                </a>
+              </div>
+            </div>
+          {% endif %}
+
+        {% endfor %}
+      </div>
+
+      <div style="clear: both"></div>
+
+    </div>
+  </div>
+  <div class='col-md-4'>
+    {% include sponsor_sidebar.html %}
+  </div>
+</div>

@@ -1,0 +1,29 @@
+---
+layout: singleton
+title: 30 Days of Shooting
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - 30daysofshooting
+ - DFFest
+ - filmfestival
+ - 2009
+ - DFF
+image: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
+thumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
+
+video: //player.vimeo.com/video/3124149
+collections:
+ - 2009-3-24-competitive-shorts.txt
+blurb: 30 Days of Shooting, a film by Kirsten Lepore.
+---
+
+<p>30 Days of Shooting
+By Kirsten Lepore</p>
+<p>Official Selection of Disposable Film Festival 2009</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

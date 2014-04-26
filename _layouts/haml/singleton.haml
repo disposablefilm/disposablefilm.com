@@ -1,0 +1,33 @@
+\---
+layout: layout
+\---
+
+.row
+  .col-md-8
+    .singleton
+      {% if page.video %}
+      .video
+        <iframe src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      {% else %}
+      .image
+        %img{src: "{{ page.image }}"}/
+      {% endif %}
+
+      {% include share_this.html %}
+
+      %h1.title {{ page.title}}
+      .content
+        {{ page.content}}
+
+  .col-md-4
+    {% include sponsor_sidebar.html %}
+
+    {% include marketing_feature.html %}
+
+    %h2 Check this, too...
+
+    {% for post in site.related_posts %}
+    .feature-image{:style => "background-image: url({{ post.image }}); background-position: center;"}
+      %a{:href => "{{ post.url }}"}
+        %h3 {{ post.title }}
+    {% endfor %}

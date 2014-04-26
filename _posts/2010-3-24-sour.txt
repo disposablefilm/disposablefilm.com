@@ -1,0 +1,28 @@
+---
+layout: singleton
+title: Sour
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - sour
+ - DFFest
+ - filmfestival
+ - 2011
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/529/060/52906071_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/529/060/52906071_295.jpg
+
+video: //player.vimeo.com/video/10225084
+collections:
+ - 2011-3-24-competitive-shorts.txt
+blurb: Sour, a film by ???.
+---
+
+<p>p>Sour</p>
+<p>Official Selection of Disposable Film Festival 2010</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>

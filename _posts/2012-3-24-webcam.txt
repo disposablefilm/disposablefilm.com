@@ -1,0 +1,33 @@
+---
+layout: singleton
+title: Webcam
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - webcam
+ - brandenkramer
+ - stefanhaverkamp
+ - janjaworksi
+ - tomkropp
+ - DFFest
+ - filmfestival
+ - 2012
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/271/972/271972173_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/271/972/271972173_295.jpg
+
+video: //player.vimeo.com/video/39431925
+collections:
+ - 2012-3-24-competitive-shorts.txt
+blurb: Webcam, a film by Branden Kramer, Stefan Haverkamp, Jan Jaworski, Tom Kropp.
+---
+
+<p>Webcam
+By Branden Kramer, Stefan Haverkamp, Jan Jaworski, Tom Kropp</p>
+<p>Official Selection of Disposable Film Festival 2012</p>
+<p>disposablefilmfest.com
+Twitter: @DFFest</p>
