@@ -55,27 +55,31 @@
               <a href="/" alt="Home">Home</a>
             </li>
 
-            <li class="item{% if page.url contains '/events/' %} active{% endif %}">
-              <a href="/events" alt="DFF & Events">DFF & Events</a>
+            <li class="item{% if page.url contains '/submit/' %} active{% endif %}">
+              <a href="/submit" alt="Submit">Submit</a>
             </li>
 
-            <li class="item{% if page.url contains '/films/' %} active{% endif %}">
+            <li class="item{% if page.url == '/events/index.html' %} active{% endif %}">
+              <a href="/events" alt="Events">Events</a>
+            </li>
+
+            <li class="item{% if page.url == '/films/index.html' %} active{% endif %}">
               <a href="/films" alt="Films">Films</a>
             </li>
 
-            <li class="item{% if page.url contains '/news/' %} active{% endif %}">
+            <li class="item{% if page.url == '/news/index.html' %} active{% endif %}">
               <a href="/news" alt="News & Reviews">News & Reviews</a>
             </li>
 
-            <li class="item{% if page.url contains '/culture/' %} active{% endif %}">
+            <li class="item{% if page.url == '/culture/index.html' %} active{% endif %}">
               <a href="/culture" alt="Culture & Creation">Culture & Creation</a>
             </li>
 
-            <li class="item"{% if page.url contains '/geek/' %} active{% endif %}>
+            <li class="item">
               <a href="http://disposablefilmfest.bigcartel.com" target="_blank" alt="DFF Merch Store" alt="Store">Store</a>
             </li>
 
-            <li class="item{% if page.url contains '/sponsors/' %} active{% endif %}">
+            <li class="item{% if page.url == '/sponsors/index.html' %} active{% endif %}">
               <a href="/sponsors" alt="Sponsors">Sponsors</a>
             </li>
           </ul>

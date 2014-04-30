@@ -1,0 +1,23 @@
+---
+layout: layout
+---
+
+<div class='row'>
+  <div class='col-md-8'>
+    <div class='singleton'>
+      <div class='image'>
+        <img src='{{ page.image }}'>
+      </div>
+
+      <div class="share-single">
+        {% include share_this.html %}
+      </div>
+
+      {{ page.content}}
+
+    </div>
+  </div>
+  <div class='col-md-4'>
+    {% include sponsor_sidebar.html %}
+  </div>
+</div>
