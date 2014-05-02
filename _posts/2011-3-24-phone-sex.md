@@ -1,0 +1,32 @@
+---
+layout: singleton
+title: Phone Sex
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - phonesex
+ - gabrielbissetsmith
+ - DFFest
+ - filmfestival
+ - 2011
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/141/931/141931761_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/141/931/141931761_295.jpg
+
+video: //player.vimeo.com/video/22008085
+collections:
+ - 2011-3-24-competitive-shorts.txt
+blurb: Phone Sex, a film by Skyler Buffmyer.
+---
+
+Phone Sex
+By Skyler Buffmyer
+
+Official Selection of Disposable Film Festival 2011
+
+disposablefilmfest.com
+Twitter: @DFFest

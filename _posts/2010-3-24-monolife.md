@@ -1,0 +1,31 @@
+---
+layout: singleton
+title: Monolife
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - monolife
+ - DFFest
+ - filmfestival
+ - 2010
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/529/034/52903442_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/529/034/52903442_295.jpg
+
+video: //player.vimeo.com/video/10224747
+collections:
+ - 2010-3-24-competitive-shorts.txt
+blurb: Monolife, a film by Salem Buur Nabulsi.
+---
+
+Monolife
+By Salem Buur Nabulsi
+
+Official Selection of Disposable Film Festival 2010
+
+disposablefilmfest.com
+Twitter: @DFFest

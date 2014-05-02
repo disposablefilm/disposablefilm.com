@@ -1,0 +1,32 @@
+---
+layout: singleton
+title: Synchronize
+categories: films
+tags:
+ - disposable
+ - disposablefilmfest
+ - disposablefest
+ - disposablefilm
+ - disposablefilmfestival
+ - synchronize
+ - elisethe
+ - DFFest
+ - filmfestival
+ - 2012
+ - DFF
+image: https://secure-b.vimeocdn.com/ts/271/962/271962516_295.jpg
+thumb: https://secure-b.vimeocdn.com/ts/271/962/271962516_295.jpg
+
+video: //player.vimeo.com/video/39431423
+collections:
+ - 2012-3-24-competitive-shorts.txt
+blurb: Synchronize, a film by Elise The.
+---
+
+Synchronize
+By Elise The
+
+Official Selection of Disposable Film Festival 2012
+
+disposablefilmfest.com
+Twitter: @DFFest
