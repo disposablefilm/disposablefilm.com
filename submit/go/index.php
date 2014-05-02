@@ -548,11 +548,9 @@ var RecaptchaOptions = {
 
       <h1>Entry Form</h1>
 
-      <div id="deadline">
-       <h3 style="padding-top: 0px; margin-top: 0px">Deadlines</h3>
-       <p>2015 DFF Submission Early Deadline: October 1, 2014 at 11:59pm PST<br>$5.00 fee per submission</p>
-       <p>2015 DFF Submission Final Deadline: November 1, 2014 at 11:59pm PST<br>$15.00 fee per submission</p>
-      </div>
+     <h3>DFF 2015 Deadlines</h3>
+     <p>Early Submission Deadline: <b>October 1, 2014 at 11:59pm PST</b> - $5.00 fee per submission</p>
+     <p>Final Submission Deadline: <b>November 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
 
       <h3>Guidelines</h3>
       <p>
