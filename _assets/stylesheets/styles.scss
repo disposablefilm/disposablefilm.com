@@ -116,19 +116,18 @@ body
       text-decoration: none;
     }
 
+    a:hover
+    {
+      text-decoration: underline;
+    }
+
     margin-top: 32px;
 
     .feature-post
     {
-      min-height: 300px;
-
-      .feature-title
-      {
-        font-size: 21px;
-        margin: 6px 0 3px 0;
-        font-weight: bold;
-        line-height: 21px;
-      }
+      padding-bottom: 24px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid #aaaaaa;
 
       .feature-thumb
       {
@@ -138,48 +137,55 @@ body
 
       .feature-content
       {
-      }
-
-      .feature-link
-      {
-        padding-top: 12px;
-        text-align: center;
-      }
-
-      .feature-category
-      {
-        font-size: 12px;
-        margin-bottom: 9px;
-
-        &.news
+        .feature-title
         {
-          &:after
-          {
-            content:"News & Reviews";
-          }
+          font-size: 21px;
+          margin: 0 0 9px 0;
+          font-weight: bold;
+          line-height: 21px;
         }
 
-        &.films
+        .feature-link
         {
-          &:after
-          {
-            content:"Films";
-          }
+          padding-top: 12px;
+          text-align: center;
         }
 
-        &.culture
+        .feature-category
         {
-          &:after
-          {
-            content:"Culture & Creation";
-          }
-        }
+          font-size: 12px;
+          color: #aaaaaa;
 
-        &.events
-        {
-          &:after
+          &.news
           {
-            content:"Events";
+            &:after
+            {
+              content:"News & Reviews";
+            }
+          }
+
+          &.films
+          {
+            &:after
+            {
+              content:"Films";
+            }
+          }
+
+          &.culture
+          {
+            &:after
+            {
+              content:"Culture & Creation";
+            }
+          }
+
+          &.events
+          {
+            &:after
+            {
+              content:"Events";
+            }
           }
         }
       }
@@ -323,9 +329,10 @@ body
     z-index: 1000;
     position: fixed;
     top: 0;
-    background-color: $dff-nav-background;
     margin: 0;
-    padding-top: 12px;
+    padding: 12px 0;
+    background-color: #ffffff;
+
 
     .logo
     {
@@ -335,34 +342,29 @@ body
 
   nav.navbar
   {
-    margin-top: 90px;
-    padding-top: 12px;
+    margin-top: 113px;
     background-color: $dff-nav-background;
     color: $dff-background;
     border: 0;
     min-height: 0;
     margin-bottom: 0;
     border-radius: 0;
-
-    a.navbar-brand
-    {
-      padding: 4px;
-    }
-
-    img.logo
-    {
-      height: 42px;
-      margin-right: 50px;
-    }
+    font-size: 11px;
+    font-weight: bold;
+    height: 24px;
 
     .navbar-collapse
     {
       border-top: 0;
       box-shadow: none;
+      text-align: center;
     }
 
     ul.navbar-nav
     {
+      display: inline-block;
+      float: none;
+
       li
       {
         text-transform: uppercase;
@@ -371,6 +373,7 @@ body
         {
           color: $dff-background;
           text-decoration: none;
+          padding: 2px 15px;
         }
 
         a:hover
@@ -468,21 +471,25 @@ body
   .footer
   {
     width: 100%;
+    padding: 6px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #4C4C4C;
+    color: #ffffff;
 
     .copyright
     {
+      margin-top: 9px;
       float: right;
-      font-size: 12px;
-      padding-right: 18px;
+      font-size: 10px;
     }
 
-    text-align: center;
-    height: 36px;
-    background-color: #4C4C4C;
-    color: #ffffff;
-    margin-top: 18px;
-    font-size: 14px;
-    padding-top: 9px;
+    .about
+    {
+      float: left;
+      font-weight: bold;
+      margin-top: 9px;
+    }
 
     a
     {
@@ -490,20 +497,10 @@ body
       text-decoration: none;
     }
 
-    .item
+    .dff-social
     {
       display: inline-block;
-
-      &.on
-      {
-        background-color: #333333;
-      }
-    }
-
-    .separator
-    {
-      display: inline-block;
-      font-size: 12px;
+      padding-right: 18px;
     }
   }
 
@@ -615,7 +612,25 @@ body
     }
   }
 
-  #submission
+  .staff
   {
+    height: 90px;
+    padding-bottom: 18px;
+
+    .title
+    {
+      padding-bottom: 0px;
+    }
+
+    .photo
+    {
+      float: left;
+      padding-right: 10px;
+    }
+
+    .email
+    {
+      padding-top: 18px;
+    }
   }
 }
