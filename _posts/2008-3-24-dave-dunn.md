@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/583/234/58323445_295.jpg
 
 video: //player.vimeo.com/video/1361849
 collections:
- - 2008-3-24-competitive-shorts.txt
+ - 2008-3-24-competitive-shorts.md
 blurb: Throws, a film by Dave Dunn.
 ---
 

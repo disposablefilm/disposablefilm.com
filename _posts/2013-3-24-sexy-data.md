@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/709/432709914_295.jpg
 
 video: //player.vimeo.com/video/62716081
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: Sexy Data, a film by Christian Kuosmanen, Vedran Rupic & Gustav Sundström.
 ---
 

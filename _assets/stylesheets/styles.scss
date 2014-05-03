@@ -111,6 +111,9 @@ body
 
   .feature-posts
   {
+    border-top: 1px solid $dff-divider;
+    padding-top: 27px;
+
     a
     {
       text-decoration: none;
@@ -127,7 +130,7 @@ body
     {
       padding-bottom: 24px;
       margin-bottom: 24px;
-      border-bottom: 1px solid #aaaaaa;
+      border-bottom: 1px solid $dff-divider;
 
       .feature-thumb
       {

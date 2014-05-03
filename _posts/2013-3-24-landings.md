@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/692/432692529_295.jpg
 
 video: //player.vimeo.com/video/62719246
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: Landings at SD, a film by ???.
 ---
 

@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/529/090/52909009_295.jpg
 
 video: //player.vimeo.com/video/10225347
 collections:
- - 2010-3-24-competitive-shorts.txt
+ - 2010-3-24-competitive-shorts.md
 blurb: Heavy Metal Parking Lot, a film by DaveDunn.
 ---
 

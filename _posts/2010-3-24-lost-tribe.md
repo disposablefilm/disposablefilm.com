@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/529/083/52908315_295.jpg
 
 video: //player.vimeo.com/video/10225263
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Lost Tribe of New York City, a film by ???.
 ---
 

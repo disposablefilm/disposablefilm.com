@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
 
 video: //player.vimeo.com/video/3344367
 collections:
- - 2009-3-24-competitive-shorts.txt
+ - 2009-3-24-competitive-shorts.md
 blurb: Let's Not Keep Score, a film by Ellen Lake.
 ---
 

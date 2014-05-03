@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/529/034/52903442_295.jpg
 
 video: //player.vimeo.com/video/10224747
 collections:
- - 2010-3-24-competitive-shorts.txt
+ - 2010-3-24-competitive-shorts.md
 blurb: Monolife, a film by Salem Buur Nabulsi.
 ---
 

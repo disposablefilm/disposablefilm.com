@@ -20,7 +20,7 @@ thumb: https://secure-b.vimeocdn.com/ts/141/962/141962426_295.jpg
 
 video: //player.vimeo.com/video/22009340
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Queen Mary 2 - Atlantic Timelapse, a film by Adonis Pulatus.
 ---
 

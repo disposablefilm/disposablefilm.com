@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/583/986/58398663_295.jpg
 
 video: //player.vimeo.com/video/1361849
 collections:
- - 2008-3-24-competitive-shorts.txt
+ - 2008-3-24-competitive-shorts.md
 blurb: Eppur Si Muove, a film by Marco Mucig
 ---
 

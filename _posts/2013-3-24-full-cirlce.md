@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/708/432708767_295.jpg
 
 video: //player.vimeo.com/video/62716401
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: Full Circle, a film by Callum Cooper.
 ---
 

@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/139/603/139603131_295.jpg
 
 video: //player.vimeo.com/video/21673472
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Graffiti Stop-Motion, a film by Broken Fingaz.
 ---
 

@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/142/650/142650337_295.jpg
 
 video: //player.vimeo.com/video/22101308
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Fergus And Geronimo - Where The Walls Are Made Of Grass, a film by Alice Cohen.
 ---
 

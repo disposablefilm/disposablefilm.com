@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/685/432685404_295.jpg
 
 video: //player.vimeo.com/video/62714098
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: What's Cookin?, a film by Noah Banks.
 ---
 

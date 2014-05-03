@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/140/851/140851306_295.jpg
 
 video: //player.vimeo.com/video/21852853
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Boneless, a film by Jon Shibata.
 ---
 

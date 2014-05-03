@@ -20,7 +20,7 @@ thumb: https://secure-b.vimeocdn.com/ts/214/793/214793612_295.jpg
 
 video: //player.vimeo.com/video/31823224
 collections:
- - 2011-3-24-disposable-film-health.txt
+ - 2011-3-24-disposable-film-health.md
 blurb: João Monteiro, a film by ???.
 ---
 

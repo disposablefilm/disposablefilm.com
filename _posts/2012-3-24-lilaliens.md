@@ -20,7 +20,7 @@ thumb: https://secure-b.vimeocdn.com/ts/271/956/271956875_295.jpg
 
 video: //player.vimeo.com/video/39430835
 collections:
- - 2012-3-24-competitive-shorts.txt
+ - 2012-3-24-competitive-shorts.md
 blurb: Lil' Aliens, a film by Andy London and Peter Ahern.
 ---
 

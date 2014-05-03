@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/700/432700998_295.jpg
 
 video: //player.vimeo.com/video/62719573
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: The Man Inside Mickey, a film by Daniella Sherer.
 ---
 

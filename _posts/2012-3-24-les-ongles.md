@@ -20,7 +20,7 @@ thumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
 
 video: //player.vimeo.com/video/39302748
 collections:
- - 2012-3-24-competitive-shorts.txt
+ - 2012-3-24-competitive-shorts.md
 blurb: Les Ongles (The Nails), a film by Clement Deneux.
 ---
 

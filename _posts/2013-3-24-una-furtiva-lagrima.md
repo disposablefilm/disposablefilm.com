@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/702/432702476_295.jpg
 
 video: //player.vimeo.com/video/62719574
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: Una Furtiva Lagrima by Carlo Vogel, a film by ???.
 ---
 

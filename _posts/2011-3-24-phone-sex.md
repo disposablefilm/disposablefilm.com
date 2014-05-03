@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/141/931/141931761_295.jpg
 
 video: //player.vimeo.com/video/22008085
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Phone Sex, a film by Skyler Buffmyer.
 ---
 

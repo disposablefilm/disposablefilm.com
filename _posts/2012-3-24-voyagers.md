@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/271/604/271604368_295.jpg
 
 video: //player.vimeo.com/video/39371849
 collections:
- - 2012-3-24-competitive-shorts.txt
+ - 2012-3-24-competitive-shorts.md
 blurb: The Voyagers, a film by Penny Lane.
 ---
 

@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/272/003/272003783_295.jpg
 
 video: //player.vimeo.com/video/39437301
 collections:
- - 2012-3-24-competitive-shorts.txt
+ - 2012-3-24-competitive-shorts.md
 blurb: Gonzo Calling, a film by Sascha Ciezata.
 ---
 

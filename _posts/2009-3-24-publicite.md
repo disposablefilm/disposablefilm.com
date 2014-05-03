@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/320/278/3202787_295.jpg
 
 video: //player.vimeo.com/video/3444145
 collections:
- - 2009-3-24-competitive-shorts.txt
+ - 2009-3-24-competitive-shorts.md
 blurb: Publicite, a film by Richie Gelles.
 ---
 

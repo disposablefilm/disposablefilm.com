@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/432/698/432698124_295.jpg
 
 video: //player.vimeo.com/video/62719571
 collections:
- - 2013-3-24-competitive-shorts.txt
+ - 2013-3-24-competitive-shorts.md
 blurb: Joey Ramone - NYC, a film by Greg Jardin.
 ---
 

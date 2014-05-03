@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/216/807/216807261_295.jpg
 
 video: //player.vimeo.com/video/31823398
 collections:
- - 2011-3-24-disposable-film-health.txt
+ - 2011-3-24-disposable-film-health.md
 blurb: By Adonis Pulatus, a film by ???.
 ---
 

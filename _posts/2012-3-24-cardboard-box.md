@@ -20,7 +20,7 @@ thumb: https://secure-b.vimeocdn.com/ts/271/931/271931419_295.jpg
 
 video: //player.vimeo.com/video/39426368
 collections:
- - 2012-3-24-competitive-shorts.txt
+ - 2012-3-24-competitive-shorts.md
 blurb: The Adventures of a Cardboard Box, a film by Temujin Doran.
 ---
 

@@ -57,17 +57,19 @@ layout: layout
         {% if post.tags contains 'featured' %}
         {% elsif counter < 9 and (post.tags contains 'landingpage') and (page.category == 'all' or post.categories contains page.category) %}
           {% assign counter=counter | plus:1 %}
-            <div class="feature-post row">
+            <div class="feature-post">
+              <div class="row">
 
-              <div class="col-md-4">
-                <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
-              </div>
+                <div class="col-md-4">
+                  <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                </div>
 
-              <div class="col-md-8">
-                <div class='feature-content'>
-                  <div class='feature-category {{ post.categories }}'></div>
-                  <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
-                  <div class="feature-content">{{ post.blurb }}</div>
+                <div class="col-md-8">
+                  <div class='feature-content'>
+                    <div class='feature-category {{ post.categories }}'></div>
+                    <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                    <div class="feature-content">{{ post.blurb }}</div>
+                  </div>
                 </div>
               </div>
             </div>

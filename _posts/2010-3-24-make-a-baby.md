@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/529/091/52909175_295.jpg
 
 video: //player.vimeo.com/video/10225373
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: How to Make a Baby, a film by ???.
 ---
 

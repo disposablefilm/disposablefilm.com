@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/141/979/141979051_295.jpg
 
 video: //player.vimeo.com/video/22014826
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Teeter-Totter Tam, a film by Constantine Konovalov and Irina Neustroeva.
 ---
 

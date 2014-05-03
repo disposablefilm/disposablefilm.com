@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/142/590/142590190_295.jpg
 
 video: //player.vimeo.com/video/22083318
 collections:
- - 2011-3-24-competitive-shorts.txt
+ - 2011-3-24-competitive-shorts.md
 blurb: Waiting Room, a film by Nick Kinling.
 ---
 

@@ -29,15 +29,20 @@ layout: layout
           {% for collection in post.collections %}
             {% capture collection_path %}_posts/{{ collection }}{% endcapture %}
               {% if collection_path == page.path %}
-                <div class='col-md-4'>
-                  <div class="feature-post">
-                    <a href='{{ post.url }}'>
+                <div class="feature-post">
+                  <div class="row">
+
+                    <div class="col-md-4">
                       <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
-                      <div class="feature-title">{{ post.title }}</div>
-                      <div class='feature-category {{ post.categories }}'></div>
-                      <div class="feature-content">{{ post.blurb | truncatewords: 20 }}...</div>
-                      <div class="feature-link">Read more ></div>
-                    </a>
+                    </div>
+
+                    <div class="col-md-8">
+                      <div class='feature-content'>
+                        <div class='feature-category {{ post.categories }}'></div>
+                        <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                        <div class="feature-content">{{ post.blurb }}</div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               {% endif %}

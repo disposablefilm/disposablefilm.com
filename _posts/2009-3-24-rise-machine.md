@@ -18,7 +18,7 @@ thumb: https://secure-b.vimeocdn.com/ts/269/119/2691190_295.jpg
 
 video: //player.vimeo.com/video/3386963
 collections:
- - 2009-3-24-competitive-shorts.txt
+ - 2009-3-24-competitive-shorts.md
 blurb: Rise of the Machine, a film by Pawel Piskorski.
 ---
 
