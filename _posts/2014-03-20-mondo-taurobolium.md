@@ -17,6 +17,7 @@ tags:
 
 image: https://secure-b.vimeocdn.com/ts/273/036/273036818_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/273/036/273036818_295.jpg
+relatedthumb: https://secure-b.vimeocdn.com/ts/273/036/273036818_295.jpg
 video: //player.vimeo.com/video/81601719
 collections:
  - 2014-3-20-competitive-shorts.md
