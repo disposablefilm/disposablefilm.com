@@ -9,6 +9,7 @@ tags:
   - featured
 image: /images/posts/10-best-smartphones-for-filmmaking.jpg
 thumb: /images/posts/10-best-smartphones-for-filmmaking.jpg
+relatedthumb: /images/posts/10-best-smartphones-for-filmmaking.jpg
 blurb: A review of the 10 most popular mobile cameras for making movies.
 ---
 

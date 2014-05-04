@@ -10,6 +10,7 @@ tags:
   - featured
 image: /images/posts/welcome-to-dff.jpg
 thumb: /images/posts/thumbs/welcome-to-dff.jpg
+relatedthumb: /images/posts/thumbs/welcome-to-dff.jpg
 blurb: Welcome to DisposableFilm.com; the digital home of the Disposable Film Festival. The DFF is dedicated to celebrating short film made using every day technology. As long as it’s innovative, imaginative and non professional we want you to share your films with us so we can share them with the world.
 ---
 

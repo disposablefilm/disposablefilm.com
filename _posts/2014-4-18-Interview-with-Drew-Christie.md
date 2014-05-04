@@ -1,17 +1,17 @@
 ---
 layout: singleton
-title: Q&A With Filmmaker, Drew Christie
+title: Q&A With Filmmaker Drew Christie
 categories:
   - culture
   - news
 tags:
-  - dff
   - dff2014
   - drew christie
   - landingpage
 image: /images/posts/drew-christie.jpg
 thumb: /images/posts/thumbs/drew-christie.jpg
-blurb: An interesting Q&A with Drew Christie, creator of the film, Allergy to Originality.
+relatedthumb: /images/posts/thumbs/drew-christie.jpg
+blurb: An interesting Q&A with Drew Christie, creator of the film "Allergy to Originality".
 ---
 
 
@@ -67,5 +67,3 @@ DFF caught up with Drew Christie and asked him some questions about life, the un
 **Drew**: I think it will have a huge impact, as it already has. It seems to be a democratizing force, just as Francis Ford Coppola predicted way back in 1991 in the documentary Hearts of Darkness. Ideally, it will make more varied and more interesting films and animations possible.
 
 Thanks, Drew!
-
-<iframe src="//player.vimeo.com/video/51325336" width="500" height="281" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true"></iframe>

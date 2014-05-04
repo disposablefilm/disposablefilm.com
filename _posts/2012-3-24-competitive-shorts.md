@@ -9,6 +9,7 @@ tags:
  - dff
 image: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
+relatedthumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
 blurb: 2012 Disposable Film Festival Competitive Shorts
 ---
 

@@ -15,6 +15,7 @@ tags:
  - DFF
 image: https://secure-b.vimeocdn.com/ts/586/722/58672296_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/586/722/58672296_295.jpg
+relatedthumb: https://secure-b.vimeocdn.com/ts/586/722/58672296_295.jpg
 
 video: //player.vimeo.com/video/1398033
 collections:
