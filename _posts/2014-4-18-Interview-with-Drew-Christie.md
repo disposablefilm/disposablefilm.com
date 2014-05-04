@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: Q&A With Filmmaker, Drew Christie
+title: Q&A With Filmmaker Drew Christie
 categories:
   - culture
   - news
@@ -11,7 +11,7 @@ tags:
   - landingpage
 image: /images/posts/drew-christie.jpg
 thumb: /images/posts/thumbs/drew-christie.jpg
-blurb: An interesting Q&A with Drew Christie, creator of the film, Allergy to Originality.
+blurb: "An interesting Q&A with Drew Christie, creator of the film: Allergy to Originality."
 ---
 
 
