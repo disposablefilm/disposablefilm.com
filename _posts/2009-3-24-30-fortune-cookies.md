@@ -16,6 +16,7 @@ tags:
  - food
 image: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
 thumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
+relatedthumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
 
 video: //player.vimeo.com/video/3154785
 collections:

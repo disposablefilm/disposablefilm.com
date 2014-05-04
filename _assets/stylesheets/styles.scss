@@ -418,6 +418,7 @@ body
     .sidebar
     {
       width: 300px;
+      margin-bottom: 24px;
 
       .twitter-widget, .share
       {
@@ -435,6 +436,39 @@ body
         width: 100%;
         text-align: center;
       }
+
+      .related-content
+      {
+        .related-post
+        {
+          margin-bottom: 9px;
+          padding-bottom: 9px;
+          border-bottom: 1px solid $dff-divider;
+
+          .related-thumb
+          {
+            width: 110px;
+            height: 50px;
+          }
+
+          .related-title
+          {
+            padding-left: 9px;
+
+            a
+            {
+              text-decoration: none;
+            }
+
+            a:hover
+            {
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+
+
     }
 
     .share-single
@@ -575,11 +609,6 @@ body
       }
     }
 
-    .related-content
-    {
-      border-top: 1px solid #cccccc;
-    }
-
     .feature-image
     {
       display: inline-block;
@@ -605,12 +634,6 @@ body
         text-shadow: 2px 2px #000000;
         padding: 3px;
         width: 100%;
-      }
-
-      &.related
-      {
-        width: 150px;
-        height: 150px;
       }
     }
   }

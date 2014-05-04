@@ -9,6 +9,7 @@ tags:
  - dff
 image: https://secure-b.vimeocdn.com/ts/139/551/139551967_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/139/551/139551967_295.jpg
+relatedthumb: https://secure-b.vimeocdn.com/ts/139/551/139551967_295.jpg
 blurb: 2011 Disposable Film Festival Competitive Shorts.
 ---
 

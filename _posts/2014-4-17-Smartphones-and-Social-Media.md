@@ -11,6 +11,7 @@ tags:
   - featured
 image: /images/posts/mobile-phones-and-social-media.jpg
 thumb: /images/posts/mobile-phones-and-social-media.jpg
+relatedthumb: /images/posts/mobile-phones-and-social-media.jpg
 blurb: Smartphones have created and ended comedy careers.
 ---
 

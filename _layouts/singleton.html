@@ -25,21 +25,42 @@ layout: layout
       <div class='post-body'>
         {{ content }}
       </div>
-
-      <div class="related-content">
-        <h3>Related Content...</h3>
-        {% for post in site.related_posts limit:10 %}
-        <div class='feature-image related' style='background-image: url({{ post.image }}); background-position: center;'>
-          <a href='{{ post.url }}'>
-            <div class="title">{{ post.title }}</div>
-          </a>
-        </div>
-        {% endfor %}
-      </div>
-
     </div>
   </div>
+
   <div class='col-md-4'>
-    {% include sponsor_sidebar.html %}
+    <div class="sidebar">
+      {% include sponsor_sidebar1.html %}
+
+      <h3>Stay up to DFFdate</h3>
+
+      <div class="mailing-list">
+        {% include mailing-list.html %}
+      </div>
+
+      <div class="related-content">
+        <h3>Related Content</h3>
+        {% for post in site.related_posts limit:5 %}
+          <div class="related-post">
+            <div class="row">
+
+              <div class="col-md-4">
+                <a href='{{ post.url }}'>
+                  <div class='related-thumb'><img width="110" height="50" src="{{ post.relatedthumb }}"></div>
+                </a>
+              </div>
+
+              <div class="col-md-8">
+                <div class='related-content'>
+                  <div class='related-category {{ post.categories }}'></div>
+                  <div class="related-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      {% include sponsor_sidebar2.html %}
+    </div>
   </div>
 </div>

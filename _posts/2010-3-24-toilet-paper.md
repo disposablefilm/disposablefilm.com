@@ -16,6 +16,7 @@ tags:
  - DFF
 image: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
+relatedthumb: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
 video: //player.vimeo.com/video/10224948
 collections:
  - 2010-3-24-competitive-shorts.md
