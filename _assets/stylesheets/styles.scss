@@ -10,6 +10,14 @@ body
   margin: 0;
   padding: 0;
 
+  h3
+  {
+    font-weight: bold;
+    font-size: 21px;
+    text-transform: uppercase;
+    color: $dff-header;
+  }
+
   a
   {
     text-decoration: underline;
@@ -32,7 +40,7 @@ body
     vertical-align: middle;
     text-align: center;
     min-height: 286px;
-    background-color: grey;
+    background-color: $dff-nav-background;
     padding: 18px;
 
     img
@@ -223,17 +231,35 @@ body
   {
     .carousel-caption
     {
-      background-color: rgba(0,0,0,0.5);
-      padding: 10px 18px 32px 18px;
+      position: relative;
+
+      top: 0;
+      left: 0;
+      width: 100%;
+
+      background-color: $dff-nav-background;
+      padding: 10px;
+      text-align: left;
+
+      a
+      {
+        text-decoration: none;
+      }
+
+      a:hover
+      {
+        text-decoration: underline;
+      }
 
       .category
       {
-        font-size: 14px;
+        font-size: 12px;
+        float: right;
       }
 
       .title
       {
-        font-size: 24px;
+        font-size: 21px;
       }
 
       .link
@@ -337,7 +363,7 @@ body
     background-color: #ffffff;
 
 
-    .logo
+    #logo
     {
       margin-top: 12px;
     }
