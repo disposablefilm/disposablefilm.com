@@ -16,6 +16,7 @@ body
     font-size: 21px;
     text-transform: uppercase;
     color: $dff-header;
+    margin-top: 32px;
   }
 
   a
@@ -36,17 +37,10 @@ body
 
   .sponsor-image
   {
-    display: table-cell;
-    vertical-align: middle;
     text-align: center;
-    min-height: 286px;
-    background-color: $dff-nav-background;
+    height: 286px;
+    background-color: $dff-light-background;
     padding: 18px;
-
-    img
-    {
-      text-align: center;
-    }
   }
 
   #site-header

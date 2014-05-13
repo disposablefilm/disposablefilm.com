@@ -65,7 +65,9 @@ layout: layout
 
                   <div class="col-md-8">
                     <div class='feature-content'>
-                      <div class='feature-category {{ post.categories }}'></div>
+                      {% if page.category == 'all' %}
+                        <div class='feature-category {{ post.categories | join: ' ' }}'></div>
+                      {% endif %}
                       <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
                       <div class="feature-content">{{ post.blurb }}</div>
                     </div>
