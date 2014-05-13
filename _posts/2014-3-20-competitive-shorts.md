@@ -7,9 +7,10 @@ tags:
  - competitiveshorts
  - dff
  - featured
-image: http://disposablefilm.com/images/watchdff2014.png
-thumb: http://disposablefilm.com/images/watchdff2014.png
-relatedthumb: http://disposablefilm.com/images/watchdff2014.png
+video: //player.vimeo.com/video/81601719
+image: /images/posts/2014-competitive-shorts.jpg
+thumb: /images/posts/thumbs/2014-competitive-shorts.jpg
+relatedthumb: /images/thumbs/2014-competitive-shorts.jpg
 blurb: 2014 Disposable Film Festival Competitive Shorts
 ---
 

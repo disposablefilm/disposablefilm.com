@@ -8,9 +8,10 @@ tags:
   - dff2014
   - Galen Pehrson
   - landingpage
-image: /images/posts/Mondo Image.jpg
-thumb: /images/posts/Mondo Thumb.jpg
-relatedthumb: /images/posts/Mondo Thumb.jpg
+image: /images/posts/2014-competitive-shorts.jpg
+thumb: /images/posts/thumbs/2014-competitive-shorts.jpg
+relatedthumb: /images/posts/thumbs/2014-competitive-shorts.jpg
+video: //player.vimeo.com/video/81601719
 blurb: An interesting Q&A with Galen Pehrson, creator of the film "Mondo Taurobolium".
 ---
 
@@ -19,7 +20,7 @@ DFF caught up with Galen Pehrson and asked him some questions about life, the un
 
 **DFF**: How and when did you become interested in filmmaking?
 
-**Galen**: I began making short films about 10 years ago with 3D animation. The first time I made something move my brain tingled and I was hooked. 
+**Galen**: I began making short films about 10 years ago with 3D animation. The first time I made something move my brain tingled and I was hooked.
 
 **DFF**: What influences your filmmaking?
 
@@ -29,7 +30,7 @@ DFF caught up with Galen Pehrson and asked him some questions about life, the un
 **DFF**: Specifically, what influenced you to make your film that was selected for DFF?
 
 
-**Galen**: I was watching the Mondo Genre films of the 60's and 70's to fall asleep at night, they're already pretty far out films and I would be falling asleep…kind of slipping in and out of a dream state. I started building a narrative in that half conscious state, which kind of make its way into the films narrative - there's a lot of sort of late night introspection in there. 
+**Galen**: I was watching the Mondo Genre films of the 60's and 70's to fall asleep at night, they're already pretty far out films and I would be falling asleep…kind of slipping in and out of a dream state. I started building a narrative in that half conscious state, which kind of make its way into the films narrative - there's a lot of sort of late night introspection in there.
 
 **DFF**: Why did you want to make this film?
 
@@ -39,7 +40,7 @@ DFF caught up with Galen Pehrson and asked him some questions about life, the un
 **DFF**: What was the process in making your film?
 
 
-**Galen**: The film is comprised of 6,240 individually hand drawn and colored frames, the process took 4 months, 12 hours a day. 
+**Galen**: The film is comprised of 6,240 individually hand drawn and colored frames, the process took 4 months, 12 hours a day.
 
 **DFF**: What kinds of equipment/technology did you use to make your film?
 
@@ -59,7 +60,7 @@ DFF caught up with Galen Pehrson and asked him some questions about life, the un
 **DFF**: Did you come across any obstacles while creating your film?
 
 
-**Galen**: The entire film was an obstacle, I tend to write out scenes and stories I have no idea how to technically make, then just experiment over and over until it looks right. 
+**Galen**: The entire film was an obstacle, I tend to write out scenes and stories I have no idea how to technically make, then just experiment over and over until it looks right.
 
 **DFF**: How do you envision low-budget equipment influencing future filmmaking techniques
 

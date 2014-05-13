@@ -8,6 +8,8 @@ tags:
   - dff2012
   - Neta Cohen
   - landingpage
+
+video: //player.vimeo.com/video/62714383
 image: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
 relatedthumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
@@ -29,17 +31,17 @@ DFF caught up with Neta Cohen and asked some questions about life, the universe 
 **DFF**: Specifically, what influenced you to make your film that was selected for DFF?
 
 
-**Neta**: This film is a long sequence of associations, metaphors for current 2.0 culture. I was influenced by a lot of things and people - George Perec, M.C. Esher, David O'reilly, Japanese Origami, the DADA Manifesto, and the list goes on… 
+**Neta**: This film is a long sequence of associations, metaphors for current 2.0 culture. I was influenced by a lot of things and people - George Perec, M.C. Esher, David O'reilly, Japanese Origami, the DADA Manifesto, and the list goes on…
 
 **DFF**: Why did you want to make this film?
 
 
-**Neta**: I wanted to create a massive amount of visual and sound stimulations, and decided and animated film would be the best way to go. I was also interested in experimenting with stop motion animation, and it seemed like the perfect opportunity to do that. 
+**Neta**: I wanted to create a massive amount of visual and sound stimulations, and decided and animated film would be the best way to go. I was also interested in experimenting with stop motion animation, and it seemed like the perfect opportunity to do that.
 
 **DFF**: What was the process in making your film?
 
 
-**Neta**: As my film is a non-narrative, my process was a bit different than usual - I conceptualized and made a list of all my scenes I planned. I shot each scene, and then edited it in order to create the animation. After all the scenes were animated, I edited all of them together.  
+**Neta**: As my film is a non-narrative, my process was a bit different than usual - I conceptualized and made a list of all my scenes I planned. I shot each scene, and then edited it in order to create the animation. After all the scenes were animated, I edited all of them together.
 
 **DFF**: What kinds of equipment/technology did you use to make your film?
 
@@ -54,12 +56,12 @@ DFF caught up with Neta Cohen and asked some questions about life, the universe 
 **DFF**: How many people did you work with on the making of your film?
 
 
-**Neta**: I worked with my partner, Lior Ben Horin, who was responsible for the compositing and VFX, and did some of the editing. I also worked with Markey Funk, who created the soundtrack. 
+**Neta**: I worked with my partner, Lior Ben Horin, who was responsible for the compositing and VFX, and did some of the editing. I also worked with Markey Funk, who created the soundtrack.
 
 **DFF**: Did you come across any obstacles while creating your film?
 
 
-**Neta**: I had a great time creating my film, but I experienced a lot of difficulties, as I had a very short period of time to make it (about 4 months), and it was my first attempt at Stop motion animation. In addition, as it was my graduation project, I had a lot depending on it, and it make me stress out even more. :)  
+**Neta**: I had a great time creating my film, but I experienced a lot of difficulties, as I had a very short period of time to make it (about 4 months), and it was my first attempt at Stop motion animation. In addition, as it was my graduation project, I had a lot depending on it, and it make me stress out even more. :)
 
 **DFF**: How do you envision low-budget equipment influencing future filmmaking techniques
 

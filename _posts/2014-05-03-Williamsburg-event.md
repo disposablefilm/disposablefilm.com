@@ -14,9 +14,9 @@ tags:
   - screening
   - beer
   - videology
-image: /images/posts/welcome-to-dff.jpg
-thumb: /images/posts/thumbs/welcome-to-dff.jpg
-relatedthumb: /images/posts/thumbs/welcome-to-dff.jpg
+image: /images/posts/videology.jpg
+thumb: /images/posts/thumbs/videology.jpg
+relatedthumb: /images/posts/thumbs/videology.jpg
 blurb: The DFF is excited to host the 1st of what will be regular screenings at Videology in Williamsburg. The debut event will be held on June 5th. Free!
 ---
 
