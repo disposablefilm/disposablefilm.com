@@ -17,9 +17,9 @@ tags:
  - second prize
 
        
-image: /images/posts/impersonation shot.png
-thumb: /images/posts/impersonation thumb.png
-relatedthumb: /images/posts/impersonation Thumb.png
+image: /images/posts/Impersonation shot.png
+thumb: /images/posts/Impersonation thumb.png
+relatedthumb: /images/posts/Impersonation Thumb.png
 video: //player.youtube.com/watch?v=qGLR2HWjO4k#t=15
 collections:
  - 2014-3-20-competitive-shorts.md

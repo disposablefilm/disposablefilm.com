@@ -12,8 +12,7 @@ tags:
  - DFFest
  - filmfestival
  - 2014
- - DFF
- - documentary	
+ - DFF	
  - music
 
        
@@ -23,13 +22,13 @@ relatedthumb: /images/posts/Dean Zimmer thumb.png
 video: //player.vimeo.com/video/82605091	
 collections:
  - 2014-3-20-competitive-shorts.md
-blurb: Dean Zimmer-Drummer Wanted, a film by Stanley Gonzales and Ross Harris.
+blurb: Dean Zimmer-Drummer Wanted, a Ross Harris and Stanley Gonzales.
 ---
 
-Dean Zimmer: Drummer Wanted
-By Stanley Gonzales and Ross Harris
+Dean Zimmer-Drummer Wanted
+By Ross Harris and Stanley Gonzales
 
-Best Documentary Winner of Disposable Film Festival 2014
+Best Documentary Award of Disposable Film Festival 2014
 
 disposablefilmfest.com
 Twitter: @DFFest
