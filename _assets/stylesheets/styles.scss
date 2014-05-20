@@ -658,6 +658,21 @@ body
     }
   }
 
+  .photo
+  {
+    margin: 18px 0;
+
+    img
+    {
+      width: 100%;
+    }
+
+    .credit
+    {
+      font-size: 10px;
+    }
+  }
+
   .staff
   {
     height: 90px;
