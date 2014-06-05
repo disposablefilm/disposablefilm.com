@@ -1,7 +1,13 @@
 ---
-layout: static
+layout: static	
 title: Film Submissions
-image: /images/posts/2014-marquee.jpg
+categories: 
+  - featured
+  - news
+tags:
+  - featured
+image: /images/posts/Screen Shot 2014-05-30-submit.png
+thumb: /images/posts/thumb-submit.png
 ---
 
 <?php

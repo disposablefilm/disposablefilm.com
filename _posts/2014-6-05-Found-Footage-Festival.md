@@ -1,14 +1,14 @@
 ---
 layout: singleton
-title: Smartphones and Social Media - Making and Breaking Comedy Careers
+title: Found Footage Festival: Finding Gold in Found Video
 categories:
   - culture
   - news
 tags:
-  - iphone
-  - comedy
-  - smartphones
-  - social media
+  - festival
+  - found footage
+  - voyeurism
+  - brooklyn
   - featured
 image: /images/posts/mobile-phones-and-social-media.jpg
 thumb: /images/posts/thumbs/mobile-phones-and-social-media.jpg
