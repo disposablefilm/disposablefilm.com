@@ -22,4 +22,4 @@ The festival is held annually at the beautiful Castro Theatre in San Francisco a
 
 Here’s our founder, Carlton Evans, dropping some history on you:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/skwUUiDtKpA" frameborder="0" allowfullscreen="true">  </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/skwUUiDtKpA" frameborder="0">  </iframe>
