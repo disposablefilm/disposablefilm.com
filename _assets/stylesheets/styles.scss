@@ -746,17 +746,6 @@ body
     {
       margin-top: 152px;
     }
-  }
-}
-
-@media (min-width: 768px)
-{
-  body
-  {
-    nav.navbar
-    {
-      height: 36px;
-    }
 
     .feature-posts
     {
@@ -767,6 +756,17 @@ body
           display: block;
         }
       }
+    }
+  }
+}
+
+@media (min-width: 768px)
+{
+  body
+  {
+    nav.navbar
+    {
+      height: 36px;
     }
   }
 }
