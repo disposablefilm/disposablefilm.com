@@ -1,5 +1,6 @@
 @import 'constants';
 @import 'mixins';
+@import 'bootstrap.css';
 
 body
 {
@@ -141,12 +142,15 @@ body
 
       .feature-thumb
       {
-        width: 220px;
+        display: none;
+        width: 200px;
         height: 100px;
       }
 
       .feature-content
       {
+        padding-left: 18px;
+
         .feature-title
         {
           font-size: 21px;
@@ -353,6 +357,7 @@ body
 
   #topbar
   {
+    display: none;
     width: 100%;
     z-index: 1000;
     position: fixed;
@@ -370,7 +375,7 @@ body
 
   nav.navbar
   {
-    margin-top: 113px;
+    margin-top: 0;
     background-color: $dff-nav-background;
     color: $dff-background;
     border: 0;
@@ -379,7 +384,7 @@ body
     border-radius: 0;
     font-size: 12px;
     font-weight: bold;
-    height: 36px;
+    height: 50px;
 
 
     .navbar-collapse
@@ -387,6 +392,8 @@ body
       border-top: 0;
       box-shadow: none;
       text-align: center;
+      background-color: $dff-nav-background;
+      color: $dff-background;
     }
 
     ul.nav
@@ -435,7 +442,7 @@ body
 
   .content
   {
-    margin-top: 152px;
+    margin-top: 54px;
 
     .sidebar
     {
@@ -695,6 +702,71 @@ body
     .email
     {
       padding-top: 18px;
+    }
+  }
+}
+
+@media (min-width: 1200px)
+{
+  body
+  {
+    .feature-posts
+    {
+      .feature-post
+      {
+        .feature-thumb
+        {
+          width: 220px;
+        }
+
+        .feature-content
+        {
+          padding-left: 0;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 992px)
+{
+  body
+  {
+    #topbar
+    {
+      display: block;
+    }
+
+    nav.navbar
+    {
+      margin-top: 113px;
+    }
+
+    .content
+    {
+      margin-top: 152px;
+    }
+  }
+}
+
+@media (min-width: 768px)
+{
+  body
+  {
+    nav.navbar
+    {
+      height: 36px;
+    }
+
+    .feature-posts
+    {
+      .feature-post
+      {
+        .feature-thumb
+        {
+          display: block;
+        }
+      }
     }
   }
 }

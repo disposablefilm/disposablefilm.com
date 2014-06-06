@@ -7,11 +7,11 @@ layout: layout
     <div class='singleton'>
       {% if page.video %}
       <div class='video'>
-        <iframe src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
       {% else %}
       <div class='image'>
-        <img src='{{ page.image }}'>
+        <img class="img-responsive" src='{{ page.image }}'>
       </div>
       {% endif %}
 

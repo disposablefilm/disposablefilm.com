@@ -12,6 +12,15 @@ $(function(){
   });
 });
 
+$(function(){
+  $('.marquee-video').css({ width: $(".post-body").innerWidth() + 'px', height: ($(".post-body").innerWidth() * 9 / 16) + 'px' });
+
+  // If you want to keep full screen on window resize
+  $(window).resize(function(){
+    $('.marquee-video').css({ width: $('.post-body').innerWidth() + 'px', height: ($('.post-body').innerWidth() * 9 / 16) + 'px' });
+  });
+});
+
 //Email Obfuscator
 function obfuscate_email_addresses()
 {
