@@ -2,12 +2,11 @@
 layout: singleton
 title: Q&A With Filmmaker Fabrice Mathieu
 categories:
-  - culture
-  - news
+ - culture
 tags:
-  - dff2014
-  - fabrice mathieu
-  - landingpage
+ - dff2014
+ - fabrice mathieu
+ - landingpage
 video: //player.vimeo.com/video/39363777
 image: https://secure-b.vimeocdn.com/ts/271/624/271624486_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/271/624/271624486_295.jpg

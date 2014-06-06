@@ -7,6 +7,7 @@ tags:
  - competitiveshorts
  - dff
  - featured
+ - landingpage
 video: //player.vimeo.com/video/81601719
 image: /images/posts/2014-competitive-shorts.jpg
 thumb: /images/posts/thumbs/2014-competitive-shorts.jpg

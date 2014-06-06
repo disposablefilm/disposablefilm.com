@@ -2,12 +2,11 @@
 layout: singleton
 title: Q&A With Filmmaker Neta Cohen
 categories:
-  - culture
-  - news
+ - culture
 tags:
-  - dff2012
-  - Neta Cohen
-  - landingpage
+ - dff2012
+ - Neta Cohen
+ - landingpage
 
 video: //player.vimeo.com/video/62714383
 image: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg

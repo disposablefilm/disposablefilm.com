@@ -35,6 +35,11 @@ body
     clear: both;
   }
 
+  .page
+  {
+    padding-bottom: 24px;
+  }
+
   .sponsor-image
   {
     text-align: center;
@@ -372,9 +377,10 @@ body
     min-height: 0;
     margin-bottom: 0;
     border-radius: 0;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: bold;
-    height: 24px;
+    height: 36px;
+
 
     .navbar-collapse
     {
@@ -383,11 +389,8 @@ body
       text-align: center;
     }
 
-    ul.navbar-nav
+    ul.nav
     {
-      display: inline-block;
-      float: none;
-
       li
       {
         text-transform: uppercase;
@@ -396,7 +399,6 @@ body
         {
           color: $dff-background;
           text-decoration: none;
-          padding: 2px 15px;
         }
 
         a:hover
@@ -675,7 +677,7 @@ body
 
   .staff
   {
-    height: 90px;
+    height: 120px;
     padding-bottom: 18px;
 
     .title
@@ -687,6 +689,7 @@ body
     {
       float: left;
       padding-right: 10px;
+      margin: 0;
     }
 
     .email

@@ -2,11 +2,11 @@
 layout: singleton
 title: 10 Best Smartphones For Video
 categories:
-  - culture
-  - news
+ - news
 tags:
-  - iphone
-  - featured
+ - iphone
+ - featured
+ - landingpage
 image: /images/posts/10-best-smartphones-for-filmmaking.jpg
 thumb: /images/posts/thumbs/10-best-smartphones-for-filmmaking.jpg
 relatedthumb: /images/posts/thumbs/10-best-smartphones-for-filmmaking.jpg

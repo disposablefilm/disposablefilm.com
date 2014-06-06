@@ -2,18 +2,16 @@
 layout: singleton
 title: Disposable Film Festival in NYC!
 categories:
-  - events
-  - films
-  - culture
-  - news
+ - events
 tags:
-  - events
-  - featured
-  - brooklyn
-  - film
-  - screening
-  - beer
-  - videology
+ - events
+ - featured
+ - brooklyn
+ - film
+ - screening
+ - beer
+ - videology
+ - landingpage
 image: /images/posts/videology.jpg
 thumb: /images/posts/thumbs/videology.jpg
 relatedthumb: /images/posts/thumbs/videology.jpg

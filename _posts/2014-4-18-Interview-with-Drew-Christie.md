@@ -2,12 +2,11 @@
 layout: singleton
 title: Q&A With Filmmaker Drew Christie
 categories:
-  - culture
-  - news
+ - culture
 tags:
-  - dff2014
-  - drew christie
-  - landingpage
+ - dff2014
+ - drew christie
+ - landingpage
 image: /images/posts/Allergy shot.png
 thumb: /images/posts/Allergy Thumb.png
 relatedthumb: /images/posts/Allergy Thumb.png

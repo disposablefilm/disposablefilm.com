@@ -38,7 +38,6 @@ function checkForm()
 	PaypalTransactionID = document.getElementById('PaypalTransactionID');
 	Synopsis = document.getElementById('Synopsis');
 	Process = document.getElementById('Process');
-	agree = $("#agree").attr('checked');
 
 	//required fields
 
@@ -48,7 +47,7 @@ function checkForm()
 		return false;
 	}
 
-	if (agree.value == '')
+	if (!$("#agree").is(':checked'))
 	{
 		window.alert('Before submiting your film, you must read and understand the guidelines, terms, and submission process.');
 		return false;
