@@ -582,6 +582,14 @@ body
     padding: 6px 0;
   }
 
+  .marquee
+  {
+    .image, .video
+    {
+      margin-top: 18px;
+    }
+  }
+
   .singleton, .collection
   {
     .share-this

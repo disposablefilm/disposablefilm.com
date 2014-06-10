@@ -4,7 +4,19 @@ layout: layout
 
 <div class='row'>
   <div class='col-md-8'>
-    <div class="feature-posts">
+    <div class="marquee">
+      {% if page.video %}
+      <div class='video'>
+        <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+      {% else if page.image %}
+      <div class='image'>
+        <img class="img-responsive" src='{{ page.image }}'>
+      </div>
+      {% endif %}
+    </div>
+
+    <div class="feature-posts post-body">
       {% assign counter=0 %}
       {% for post in site.posts %}
         {% if counter < 9 and post.tags contains 'landingpage' and (page.category == 'all' or post.categories contains page.category) %}
