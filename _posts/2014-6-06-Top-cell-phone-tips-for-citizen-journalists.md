@@ -18,11 +18,11 @@ blurb: The citizen journalist revolution is now.
 
 ###Want to cover the next revolution in Egypt? Here's some valuable citizen journalist pointers
 
-Our friend-the cell phone-enables every person on the planet to snap a newsworthy event…it's in all or hands! The cell phone has dramatically changed the face of journalism-that face is one of the citizen who wields his mobile device and captures news as it happpens-instantly trumpeting the story to the world via social media such as Twitter and Facebook. 
+Our friend-the cell phone-enables every person on the planet to snap a newsworthy event…it's in all or hands! The cell phone has dramatically changed the face of journalism-that face is one of the citizen who wields his mobile device and captures news as it happpens-instantly trumpeting the story to the world via social media such as Twitter and Facebook.
 
-Yes the power is now in the hands of the people (those people have cell phones). In June-following the aftermath of the revolution-Egyptians engaged in an event called, "Tweet Nadwa." The tweet symposium followed not only Egypt's future-but also connected the global network of bloggers, writers, activists, and citizen journalists via Twitter. 
+Yes the power is now in the hands of the people (those people have cell phones). In June-following the aftermath of the revolution-Egyptians engaged in an event called, "Tweet Nadwa." The tweet symposium followed not only Egypt's future-but also connected the global network of bloggers, writers, activists, and citizen journalists via Twitter.
 
-On hand were journalists/activists Salma el Daly, Mostafe Shishtawi, Ahmed-Al-ish and Gigi Ibrahim, who provided valuable tips for citizen-journalists--who might want to capture the next major news event on their cell phones. The speakers provided valuable tips on improving citizen journalism tactics-which KYC would like to pass on to you for your plights in covering earth-shaking news incidents with the pouch of a mobile button. 
+On hand were journalists/activists Salma el Daly, Mostafe Shishtawi, Ahmed-Al-ish and Gigi Ibrahim, who provided valuable tips for citizen-journalists--who might want to capture the next major news event on their cell phones. The speakers provided valuable tips on improving citizen journalism tactics-which KYC would like to pass on to you for your plights in covering earth-shaking news incidents with the pouch of a mobile button.
 
 ###Keep Videos Short
 Brevity is the soul of wit-it's also the key to having citizen journalism success. 3-4 minutes is an ideal length for videos, after that the viewer might become bored at excessive footage. Remember: not all cell phone video footage is a slam-dunk…edit it down to the pure golden nuggets.

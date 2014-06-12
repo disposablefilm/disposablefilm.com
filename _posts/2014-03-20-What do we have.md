@@ -14,7 +14,7 @@ tags:
  - 2014
  - DFF
 
-       
+
 image: /images/posts/What do we have shot.png
 thumb: /images/posts/What do we have thumb.png
 relatedthumb: /images/posts/What do we have thumb.png

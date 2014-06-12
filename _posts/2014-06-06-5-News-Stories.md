@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: 5 News Stories Changed by the Rise of Citizen Journalists 
+title: 5 News Stories Changed by the Rise of Citizen Journalists
 categories:
  - culture
 tags:
@@ -18,7 +18,7 @@ blurb: See How They're Changing the Playing Field
 
 The revolution is not going to be televised…it will be tweeted, uploaded, and filmed with cell phone cameras. Mobile phones have brought about the rise of the citizen journalist. With our current cell phone technology, practically everyone has the capacity to take photos, capture video-as well as tweet/share world events in real time. Good damn-it's almost like living in the future.
 
-It's now acceptable for TV news broadcasts to use shaky cell phone video footage to help tell the story of breaking news.  Our citizen journalists-armed with their cell phones-have been instrumental in capturing key components of mainstream news stories-giving a new perceptive that that major network news organizations have neglected to capture. The role of the citizen journalist has opened the playing field on how we view the news. Splinting from the coverage provided by the major networks-news stories now have a much fuller canvas-as coverage is now provided from numerous viewpoints. 
+It's now acceptable for TV news broadcasts to use shaky cell phone video footage to help tell the story of breaking news.  Our citizen journalists-armed with their cell phones-have been instrumental in capturing key components of mainstream news stories-giving a new perceptive that that major network news organizations have neglected to capture. The role of the citizen journalist has opened the playing field on how we view the news. Splinting from the coverage provided by the major networks-news stories now have a much fuller canvas-as coverage is now provided from numerous viewpoints.
 
 With our evolving cell phone technology, let's look at a five major stories that were given a new spin by citizen journalists and their almighty devices.
 

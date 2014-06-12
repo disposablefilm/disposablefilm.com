@@ -12,14 +12,14 @@ tags:
  - DFFest
  - filmfestival
  - 2014
- - DFF	
+ - DFF
  - music
 
-       
+
 image: /images/posts/Dean Zimmer shot.png
 thumb: /images/posts/Dean Zimmer thumb.png
 relatedthumb: /images/posts/Dean Zimmer thumb.png
-video: //player.vimeo.com/video/82605091	
+video: //player.vimeo.com/video/82605091
 collections:
  - 2014-3-20-competitive-shorts.md
 blurb: Dean Zimmer-Drummer Wanted, a Ross Harris and Stanley Gonzales.

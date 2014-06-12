@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: Impersonation 
+title: Impersonation
 categories: films
 tags:
  - disposable
@@ -13,10 +13,10 @@ tags:
  - filmfestival
  - 2014
  - DFF
- - animation 
+ - animation
  - second prize
 
-       
+
 image: /images/posts/Impersonation shot.png
 thumb: /images/posts/Impersonation thumb.png
 relatedthumb: /images/posts/Impersonation Thumb.png
@@ -27,7 +27,7 @@ blurb: Impersonation, a film by Boyoung Kim.
 ---
 
 Impersonation
-By Boyoung Kim 
+By Boyoung Kim
 
 Best Animation Winner of Disposable Film Festival 2014
 
