@@ -117,6 +117,66 @@ body
   // CAROUSEL
   .carousel
   {
+    .carousel-control
+    {
+      background: none;
+      opacity: 1;
+      top: 50%;
+      margin-top: -17px;
+      width: 68px;
+      height: 68px;
+
+      i
+      {
+        position: absolute;
+        top: 50%;
+        margin-top: -10px;
+
+      }
+
+      &.left
+      {
+        i
+        {
+          left: 4px;
+        }
+
+        &:before
+        {
+          @include triangle(34px, #4f4f4e, right);
+        }
+
+        &:hover
+        {
+          &:before
+          {
+            border-color: transparent transparent transparent $dff-blue;
+          }
+        }
+      }
+
+      &.right
+      {
+        i
+        {
+          right: 4px;
+        }
+
+        &:before
+        {
+          @include triangle(34px, #4f4f4e, left);
+        }
+
+        &:hover
+        {
+          &:before
+          {
+            border-color: transparent $dff-blue transparent transparent;
+          }
+        }
+      }
+    }
+
     .carousel-indicators
     {
       right: 20px;
