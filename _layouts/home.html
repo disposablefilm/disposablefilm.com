@@ -23,9 +23,9 @@ layout: layout
     {% for post in site.tags.featured %}
       {% if page.category == 'all' or post.categories contains page.category %}
         {% if counter == 0 %}
-          <div class='item active' style="width: 750px; height: 350px; background-image: url('{{ post.image }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
+          <div class='item active' style="width: 750px; height: 300px; background-image: url('{{ post.image }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
         {% else %}
-          <div class='item' style="width: 750px; height: 350px; background-image: url('{{ post.image }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
+          <div class='item' style="width: 750px; height: 300px; background-image: url('{{ post.image }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
         {% endif %}
             <div class='carousel-caption {{ post.categories }}'>
               <div class="title"><a href='{{ post.url }}'>

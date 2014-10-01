@@ -117,15 +117,20 @@ body
   // CAROUSEL
   .carousel
   {
+    .carousel-indicators
+    {
+      right: 20px;
+      left: auto;
+      bottom: 0;
+      width: auto;
+      margin-left: 0;
+    }
+
     .carousel-caption
     {
-      position: relative;
-
-      top: 0;
+      float: left;
       left: 0;
-      width: 100%;
-
-      background-color: $dff-nav-background;
+      background-color: rgba(black, 0.5);
       padding: 10px;
       text-align: left;
 
@@ -143,11 +148,6 @@ body
       {
         font-size: 12px;
         float: right;
-      }
-
-      .title
-      {
-        font-size: 21px;
       }
 
       .link
