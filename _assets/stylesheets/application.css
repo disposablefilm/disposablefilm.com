@@ -3,7 +3,7 @@
  *
  *= require_self
  *
- *= require ./bootstrap.css
+ *= require ./bootstrap-website.css.scss
  *= require ./bootstrap.icon-large.min.css
  *= require ./styles.scss
  */
