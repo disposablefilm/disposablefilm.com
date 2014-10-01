@@ -3,7 +3,11 @@
  *
  *= require_self
  *
+ *= require ./lib/font-awesome-4.1.0/scss/font-awesome.scss
  *= require ./bootstrap-website.css.scss
- *= require ./bootstrap.icon-large.min.css
- *= require ./styles.scss
+ *= require ./fonts.scss
+ *= require ./header.scss
+ *= require ./layout.scss
+ *= require ./modules.scss
+ *= require ./subpages.scss
  */

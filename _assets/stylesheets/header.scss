@@ -1,0 +1,79 @@
+@import 'constants';
+@import 'mixins';
+
+body
+{
+  #topbar
+  {
+    display: none;
+    width: 100%;
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    margin: 0;
+    padding: 12px 0;
+    background-color: #000;
+  }
+
+  nav.navbar
+  {
+    margin-top: 0;
+    color: white;
+    border: 0;
+    min-height: 0;
+    margin-bottom: 0;
+    border-radius: 0;
+    font-size: 12px;
+    font-weight: bold;
+    height: 50px;
+
+
+    .navbar-collapse
+    {
+      border-top: 0;
+      box-shadow: none;
+      text-align: center;
+    }
+
+    ul.nav
+    {
+      li
+      {
+        text-transform: uppercase;
+
+        a
+        {
+          color: white;
+          text-decoration: none;
+        }
+
+        a:hover
+        {
+          background: transparent;
+        }
+
+        &.active
+        {
+          a
+          {
+            color: $dff-blue;
+          }
+        }
+      }
+
+      .dff-socials
+      {
+        .dff-social
+        {
+          display: inline-block;
+          padding: 9px 15px;
+
+          img
+          {
+            width: 32px;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+@import 'constants';
+@import 'mixins';
+
+body.page-sponsors
+{
+  .sponsor-image
+  {
+    text-align: center;
+    height: 286px;
+    background-color: $dff-light-background;
+    padding: 18px;
+  }
+}
+
+
+body
+{
+  // POD STYLES (TO BE CLEANED UP)
+  .pod
+  {
+    .jumbotron
+    {
+      margin-bottom: 0;
+      color: #000000;
+    }
+
+    &.list
+    {
+      .jumbotron
+      {
+        background-image: url(/images/list.png);
+        background-repeat: no-repeat;
+        background-position: center bottom;
+      }
+    }
+
+    &.sponsor
+    {
+      .jumbotron
+      {
+        background-color: pink;
+      }
+    }
+
+    &.marketing
+    {
+      .jumbotron
+      {
+        background-color: #808080;
+      }
+    }
+
+    margin-top: 18px;
+
+    h2
+    {
+      text-align: center;
+    }
+  }
+}

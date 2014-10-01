@@ -1,0 +1,227 @@
+@import 'constants';
+@import 'mixins';
+
+body
+{
+  // POSTS
+  .feature-posts
+  {
+    border-top: 1px solid $dff-divider;
+    padding-top: 27px;
+
+    a:hover
+    {
+      text-decoration: underline;
+    }
+
+    margin-top: 32px;
+
+    .feature-post
+    {
+      padding-bottom: 24px;
+      margin-bottom: 24px;
+      border-bottom: 1px solid $dff-divider;
+
+      .feature-thumb
+      {
+        display: none;
+        width: 200px;
+        height: 100px;
+      }
+
+      .feature-content
+      {
+        padding-left: 18px;
+
+        .feature-title
+        {
+          font-size: 21px;
+          margin: 0 0 9px 0;
+          font-weight: bold;
+          line-height: 21px;
+        }
+
+        .feature-link
+        {
+          padding-top: 12px;
+          text-align: center;
+        }
+
+        .feature-category
+        {
+          font-size: 12px;
+          color: #aaaaaa;
+
+          &.news
+          {
+            &:after
+            {
+              content:"News & Reviews";
+            }
+          }
+
+          &.films
+          {
+            &:after
+            {
+              content:"Films";
+            }
+          }
+
+          &.culture
+          {
+            &:after
+            {
+              content:"Culture & Creation";
+            }
+          }
+
+          &.events
+          {
+            &:after
+            {
+              content:"Events";
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // FILM
+  .film
+  {
+    a
+    {
+      color: #111111;
+    }
+
+    a:hover
+    {
+      color: #111111;
+    }
+
+    .jumbotron
+    {
+      margin-bottom: 0;
+    }
+
+    margin-top: 18px;
+
+    h1
+    {
+      text-align: center;
+    }
+  }
+
+  // CAROUSEL
+  .carousel
+  {
+    .carousel-caption
+    {
+      position: relative;
+
+      top: 0;
+      left: 0;
+      width: 100%;
+
+      background-color: $dff-nav-background;
+      padding: 10px;
+      text-align: left;
+
+      a
+      {
+        text-decoration: none;
+      }
+
+      a:hover
+      {
+        text-decoration: underline;
+      }
+
+      .category
+      {
+        font-size: 12px;
+        float: right;
+      }
+
+      .title
+      {
+        font-size: 21px;
+      }
+
+      .link
+      {
+        color: #cccccc;
+      }
+
+      &.news
+      {
+        .category
+        {
+          &:after
+          {
+            content:"News & Reviews";
+          }
+        }
+      }
+
+      &.films
+      {
+        .category
+        {
+          &:after
+          {
+            content:"Films";
+          }
+        }
+      }
+
+      &.culture
+      {
+        .category
+        {
+          &:after
+          {
+            content:"Culture & Creation";
+          }
+        }
+      }
+
+      &.events
+      {
+        .category
+        {
+          &:after
+          {
+            content:"Events";
+          }
+        }
+      }
+    }
+
+    .jumbotron
+    {
+      background-image: url(/images/navdots.png);
+      background-repeat: no-repeat;
+      background-position: center bottom;
+    }
+
+    a
+    {
+      color: #ffffff;
+    }
+
+    a:hover
+    {
+      color: #ffffff;
+    }
+
+    margin-top: 18px;
+
+    h1
+    {
+      text-align: center;
+    }
+  }
+}

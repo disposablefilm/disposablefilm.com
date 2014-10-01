@@ -1,0 +1,334 @@
+@import 'constants';
+@import 'mixins';
+
+body
+{
+  color: $dff-foreground;
+  background-color: $dff-background;
+
+  margin: 0;
+  padding: 0;
+
+
+  .content
+  {
+    margin-top: 54px;
+
+    .sidebar
+    {
+      width: 300px;
+      margin-bottom: 24px;
+
+      .twitter-widget
+      {
+        text-align: left;
+      }
+
+      .ad-728x90, .ad-300x250, .ads-skyscraper
+      {
+        padding: 18px 0 0 0;
+        text-align: center;
+      }
+
+      .share
+      {
+        width: 100%;
+        text-align: left;
+      }
+
+      .related-content
+      {
+        .related-post
+        {
+          margin-bottom: 9px;
+          padding-bottom: 9px;
+          border-bottom: 1px solid $dff-divider;
+
+          .related-thumb
+          {
+            width: 110px;
+            height: 50px;
+          }
+
+          .related-title
+          {
+            padding-left: 9px;
+
+            a
+            {
+              text-decoration: none;
+            }
+
+            a:hover
+            {
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+
+
+    }
+
+    .share-single
+    {
+      width: 100%;
+      text-align: right;
+    }
+  }
+
+  .secondary-navigation
+  {
+    font-size: 10px;
+    height: 18px;
+    background-color: #737676;
+    color: #ccc;
+    padding: 3px 0;
+
+    .item
+    {
+      float: left;
+      background-color: #737676;
+      padding: 0 7px;
+
+      &.on
+      {
+        background-color: #FF5B00;
+      }
+    }
+
+    .separator
+    {
+      background-color: #737676;
+      float: left;
+    }
+  }
+
+  .footer
+  {
+    width: 100%;
+    padding: 6px;
+    font-size: 12px;
+    text-align: center;
+    background-color: #4C4C4C;
+    color: #ffffff;
+
+    .copyright
+    {
+      margin-top: 9px;
+      float: right;
+      font-size: 10px;
+    }
+
+    .about
+    {
+      float: left;
+      font-weight: bold;
+      margin-top: 9px;
+    }
+
+    a
+    {
+      color: #ffffff;
+      text-decoration: none;
+    }
+
+    .dff-social
+    {
+      display: inline-block;
+      padding-right: 18px;
+    }
+  }
+
+  .social-media-icons
+  {
+    display: inline-block;
+
+    .fb-like
+    {
+      top: -5px;
+    }
+
+    padding: 6px 0;
+  }
+
+  .marquee
+  {
+    .image, .video
+    {
+      margin-top: 18px;
+    }
+  }
+
+  .singleton, .collection
+  {
+    .share-this
+    {
+      margin-top: 9px;
+    }
+
+    .image, .video
+    {
+      margin-top: 18px;
+    }
+
+    h1.title
+    {
+      margin-top: 18px;
+    }
+
+    .post-body
+    {
+      margin: 24px 0 18px 0;
+
+      img
+      {
+        margin: 15px 15px 0 0;
+      }
+    }
+
+    .post-tags
+    {
+      float: right;
+      padding-bottom: 18px;
+
+      ul.tags
+      {
+        clear: both;
+
+        li.tag
+        {
+          display: inline-block;
+          font-size: 10px;
+          list-style-image: none;
+          list-style-type: none;
+          text-transform: uppercase;
+          padding: 4px;
+          background-color: #999999;
+          margin: 0 9px 9px 0;
+
+          a
+          {
+            color: #fff;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+
+    .feature-image
+    {
+      display: inline-block;
+      margin: 0 12px 12px 0;
+      width: 300px;
+      height: 200px;
+      text-align: center;
+      position: relative;
+
+      a, a:hover, a:visited
+      {
+        color: #ffffff;
+        text-decoration: none;
+      }
+
+      .title
+      {
+        position: absolute;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.498039);
+        font-size: 15px;
+        text-align: center;
+        text-shadow: 2px 2px #000000;
+        padding: 3px;
+        width: 100%;
+      }
+    }
+  }
+
+  .photo
+  {
+    margin: 18px 0;
+
+    img
+    {
+      width: 100%;
+    }
+
+    .credit
+    {
+      font-size: 10px;
+    }
+  }
+
+  .staff
+  {
+    height: 120px;
+    padding-bottom: 18px;
+
+    .title
+    {
+      padding-bottom: 0px;
+    }
+
+    .photo
+    {
+      float: left;
+      padding-right: 10px;
+      margin: 0;
+    }
+
+    .email
+    {
+      padding-top: 18px;
+    }
+  }
+}
+
+@media (min-width: 1200px)
+{
+  body
+  {
+    .feature-posts
+    {
+      .feature-post
+      {
+        .feature-thumb
+        {
+          width: 220px;
+        }
+
+        .feature-content
+        {
+          padding-left: 0;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 992px)
+{
+  body
+  {
+    #topbar
+    {
+      display: block;
+    }
+
+    .content
+    {
+      margin-top: 152px;
+    }
+
+    .feature-posts
+    {
+      .feature-post
+      {
+        .feature-thumb
+        {
+          display: block;
+        }
+      }
+    }
+  }
+}
