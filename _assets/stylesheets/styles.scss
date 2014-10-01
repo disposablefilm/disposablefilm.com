@@ -24,11 +24,11 @@ body
   {
     text-decoration: underline;
 	  color: #000000;
-  }
 
-  a:hover
-  {
-	  color: #333333;
+    &:hover
+    {
+      color: $dff-blue;
+    }
   }
 
   .clear
@@ -36,10 +36,6 @@ body
     clear: both;
   }
 
-  .page
-  {
-    padding-bottom: 24px;
-  }
 
   .sponsor-image
   {
@@ -364,20 +360,13 @@ body
     top: 0;
     margin: 0;
     padding: 12px 0;
-    background-color: #ffffff;
-
-
-    #logo
-    {
-      margin-top: 12px;
-    }
+    background-color: #000;
   }
 
   nav.navbar
   {
     margin-top: 0;
-    background-color: $dff-nav-background;
-    color: $dff-background;
+    color: white;
     border: 0;
     min-height: 0;
     margin-bottom: 0;
@@ -392,8 +381,6 @@ body
       border-top: 0;
       box-shadow: none;
       text-align: center;
-      background-color: $dff-nav-background;
-      color: $dff-background;
     }
 
     ul.nav
@@ -404,22 +391,20 @@ body
 
         a
         {
-          color: $dff-background;
+          color: white;
           text-decoration: none;
         }
 
         a:hover
         {
-          color: $dff-foreground;
-          background-color: $dff-background;
+          background: transparent;
         }
 
         &.active
         {
           a
           {
-            color: $dff-foreground;
-            background-color: $dff-background;
+            color: $dff-blue;
           }
         }
       }
@@ -745,11 +730,6 @@ body
       display: block;
     }
 
-    nav.navbar
-    {
-      margin-top: 113px;
-    }
-
     .content
     {
       margin-top: 152px;
@@ -764,17 +744,6 @@ body
           display: block;
         }
       }
-    }
-  }
-}
-
-@media (min-width: 768px)
-{
-  body
-  {
-    nav.navbar
-    {
-      height: 37px;
     }
   }
 }
