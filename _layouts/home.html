@@ -1,0 +1,82 @@
+---
+layout: layout
+---
+
+<div class='carousel slide' data-ride='carousel' id='carousel-home'>
+  <!-- Indicators -->
+  <ol class='carousel-indicators'>
+    {% assign counter=0 %}
+    {% for post in site.tags.featured %}
+      {% if page.category == 'all' or post.categories contains page.category %}
+        {% if counter == 0 %}
+          <li class='active' data-slide-to='{{counter}}' data-target='#carousel-home'></li>
+        {% else %}
+          <li data-slide-to='{{counter}}' data-target='#carousel-home'></li>
+        {% endif %}
+        {% assign counter=counter | plus:1 %}
+      {% endif %}
+    {% endfor %}
+  </ol>
+  <!-- Wrapper for slides -->
+  <div class='carousel-inner'>
+    {% assign counter=0 %}
+    {% for post in site.tags.featured %}
+      {% if page.category == 'all' or post.categories contains page.category %}
+        {% if counter == 0 %}
+          <div class='item active' style="width: 750px; height: 350px; background-image: url('{{ post.image }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
+        {% else %}
+          <div class='item' style="width: 750px; height: 350px; background-image: url('{{ post.image }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
+        {% endif %}
+            <div class='carousel-caption {{ post.categories }}'>
+              <div class="title"><a href='{{ post.url }}'>
+{{ post.title }}</a></div>
+            </div>
+          </div>
+        {% assign counter=counter | plus:1 %}
+      {% endif %}
+    {% endfor %}
+  </div>
+  <!-- Controls -->
+  <a class='left carousel-control' data-slide='prev' href='#carousel-home'>
+    <span class='glyphicon glyphicon-chevron-left' style="color: #fff; text-shadow: rgb(0, 0, 0) 2px 2px 0px;"></span>
+  </a>
+  <a class='right carousel-control' data-slide='next' href='#carousel-home'>
+    <span class='glyphicon glyphicon-chevron-right' style="color: #fff; text-shadow: rgb(0, 0, 0) 2px 2px 0px;"></span>
+  </a>
+</div>
+
+<div class="feature-posts">
+  {% assign counter=0 %}
+  {% for post in site.posts %}
+    {% if post.tags contains 'featured' %}
+    {% elsif counter < 9 and (post.tags contains 'landingpage') and (page.category == 'all' or post.categories contains page.category) %}
+      {% assign counter=counter | plus:1 %}
+        <div class="feature-post">
+          <div class="row">
+
+            <div class="col-md-4">
+              <a href='{{ post.url }}'>
+                <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+              </a>
+            </div>
+
+            <div class="col-md-8">
+              <div class='feature-content'>
+                {% if page.category == 'all' %}
+                  <div class='feature-category {{ post.categories | join: ' ' }}'></div>
+                {% endif %}
+                <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                <div class="feature-blurb">{{ post.blurb }}</div>
+              </div>
+            </div>
+          </div>
+        </div>
+    {% endif %}
+
+  {% endfor %}
+</div>
+
+
+<script lang='javascript'>
+  $('.carousel').carousel({interval: 4000});
+</script>

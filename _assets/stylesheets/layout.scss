@@ -12,63 +12,7 @@ body
 
   .content
   {
-    margin-top: 54px;
-
-    .sidebar
-    {
-      width: 300px;
-      margin-bottom: 24px;
-
-      .twitter-widget
-      {
-        text-align: left;
-      }
-
-      .ad-728x90, .ad-300x250, .ads-skyscraper
-      {
-        padding: 18px 0 0 0;
-        text-align: center;
-      }
-
-      .share
-      {
-        width: 100%;
-        text-align: left;
-      }
-
-      .related-content
-      {
-        .related-post
-        {
-          margin-bottom: 9px;
-          padding-bottom: 9px;
-          border-bottom: 1px solid $dff-divider;
-
-          .related-thumb
-          {
-            width: 110px;
-            height: 50px;
-          }
-
-          .related-title
-          {
-            padding-left: 9px;
-
-            a
-            {
-              text-decoration: none;
-            }
-
-            a:hover
-            {
-              text-decoration: underline;
-            }
-          }
-        }
-      }
-
-
-    }
+    margin-top: 90px;
 
     .share-single
     {
@@ -313,11 +257,6 @@ body
     #topbar
     {
       display: block;
-    }
-
-    .content
-    {
-      margin-top: 152px;
     }
 
     .feature-posts

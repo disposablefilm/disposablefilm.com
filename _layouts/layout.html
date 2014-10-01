@@ -3,7 +3,7 @@
   <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <title>Disposable Film - {{ page.title }}</title>
+      <title>{% if page.title != "Home" %}{{ page.title }} - {% endif %}Disposable Film</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="keywords" content="">
       <meta name="description" content="">
@@ -99,25 +99,39 @@
 
       <div class="container page">
 
-        {{ content }}
+        <div class='row'>
+          <div class='col-md-8'>
+            {{ content }}
+          </div>
 
+          <div class='col-md-4'>
+            <div class="sidebar">
+              {% include sponsor_sidebar1.html %}
+
+              {% include social.html %}
+
+              {% include sponsor_sidebar2.html %}
+            </div>
+          </div>
+        </div>
       </div>
 
       <div class="footer">
-        <div class="copyright">© Copyright 2014 Disposable Film Festival.</div>
-        <div class="about">
-          <a href="/about/" alt="About Us">About Us / Contact Us</a>
-        </div>
+        <div class="container">
+          <div class="copyright">© Copyright 2014 Disposable Film Festival.</div>
+          <div class="about">
+            <a href="/about/" alt="About Us">About Us / Contact Us</a>
+          </div>
 
-        <div class="dff-socials">
-          <div class="dff-social"><a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601" target="_blank"><img src="/images/icons/icon-facebook.png" height="32" width="32"></a></div>
-          <div class="dff-social"><a href="http://twitter.com/DFFest" target="_blank" alt="Twitter"><img src="/images/icons/icon-twitter.png" height="32" width="32"></a></div>
-          <div class="dff-social"><a href="http://statigr.am/disposablefilmfest" target="_blank"><img src="/images/icons/icon-instagram.png" height="32" width="32"></a></div>
-          <div class="dff-social"><a href="https://pinterest.com/dffest/" target="_blank"><img src="/images/icons/icon-pinterest.png" height="32" width="32"></a></div>
-          <div class="dff-social"><a href="https://vimeo.com/dff/" target="_blank"><img src="/images/icons/icon-vimeo.png" height="32" width="32"></a></div>
+          <div class="dff-socials">
+            <div class="dff-social"><a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601" target="_blank"><img src="/images/icons/icon-facebook.png" height="32" width="32"></a></div>
+            <div class="dff-social"><a href="http://twitter.com/DFFest" target="_blank" alt="Twitter"><img src="/images/icons/icon-twitter.png" height="32" width="32"></a></div>
+            <div class="dff-social"><a href="http://statigr.am/disposablefilmfest" target="_blank"><img src="/images/icons/icon-instagram.png" height="32" width="32"></a></div>
+            <div class="dff-social"><a href="https://pinterest.com/dffest/" target="_blank"><img src="/images/icons/icon-pinterest.png" height="32" width="32"></a></div>
+            <div class="dff-social"><a href="https://vimeo.com/dff/" target="_blank"><img src="/images/icons/icon-vimeo.png" height="32" width="32"></a></div>
+          </div>
         </div>
       </div>
-
     </div>
 
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
