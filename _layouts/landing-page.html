@@ -2,79 +2,46 @@
 layout: layout
 ---
 
-<div class='row'>
-  <div class='col-md-8'>
-    <div class="marquee">
-      {% if page.video %}
-      <div class='video'>
-        <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      </div>
-      {% else if page.image %}
-      <div class='image'>
-        <img class="img-responsive" src='{{ page.image }}'>
-      </div>
-      {% endif %}
-    </div>
+<div class="marquee">
+  {% if page.video %}
+  <div class='video'>
+    <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+  {% else if page.image %}
+  <div class='image'>
+    <img class="img-responsive" src='{{ page.image }}'>
+  </div>
+  {% endif %}
+</div>
 
-    <div class="feature-posts post-body">
-      {% assign counter=0 %}
-      {% for post in site.posts %}
-        {% if counter < 9 and post.tags contains 'landingpage' and (page.category == 'all' or post.categories contains page.category) %}
-          {% assign counter=counter | plus:1 %}
-            <div class="feature-post">
-              <div class="container">
-                <div class="row">
+<div class="feature-posts post-body">
+  {% assign counter=0 %}
+  {% for post in site.posts %}
+    {% if counter < 9 and post.tags contains 'landingpage' and (page.category == 'all' or post.categories contains page.category) %}
+      {% assign counter=counter | plus:1 %}
+        <div class="feature-post">
+          <div class="row">
 
-                  <div class="col-md-4">
-                    <a href='{{ post.url }}'>
-                      <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
-                    </a>
-                  </div>
+            <div class="col-md-4">
+              <a href='{{ post.url }}'>
+                <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+              </a>
+            </div>
 
-                  <div class="col-md-8">
-                    <div class='feature-content'>
-                      {% if page.category == 'all' %}
-                        <div class='feature-category {{ post.categories | join: ' ' }}'></div>
-                      {% endif %}
-                      <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
-                      <div class="feature-blurb">{{ post.blurb }}</div>
-                    </div>
-                  </div>
-                </div>
+            <div class="col-md-8">
+              <div class='feature-content'>
+                {% if page.category == 'all' %}
+                  <div class='feature-category {{ post.categories | join: ' ' }}'></div>
+                {% endif %}
+                <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                <div class="feature-blurb">{{ post.blurb }}</div>
               </div>
             </div>
-        {% endif %}
+          </div>
+        </div>
+    {% endif %}
 
-      {% endfor %}
-    </div>
-  </div>
-
-  <div class='col-md-4'>
-    <div class="sidebar">
-      {% include sponsor_sidebar1.html %}
-
-      <h3>Stay in the loop</h3>
-
-      <div class="mailing-list">
-        {% include mailing-list.html %}
-      </div>
-
-      <h3>Share the Love</h3>
-
-      <div class="share">
-        {% include share_this.html %}
-      </div>
-
-      {% if page.title == 'Home' %}
-      <br>
-      <div class="twitter-widget">
-        {% include twitter.html %}
-      </div>
-      {% endif %}
-
-      {% include sponsor_sidebar2.html %}
-    </div>
-  </div>
+  {% endfor %}
 </div>
 
 <script lang='javascript'>

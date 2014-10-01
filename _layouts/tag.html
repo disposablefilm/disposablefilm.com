@@ -2,46 +2,40 @@
 layout: layout
 ---
 
-<div class='row'>
-  <div class='col-md-8'>
-    <div class='tag-index'>
-      <h1 class='title'>Posts tagged with "{{ page.tag}}"</h1>
+  <div class='tag-index'>
+    <h1 class='title'>Posts tagged with "{{ page.tag}}"</h1>
 
-      <div class="share-single">
-        {% include share_this.html %}
-      </div>
+    <div class="share-single">
+      {% include share_this.html %}
+    </div>
 
-      <div class="feature-posts">
-        {% for post in site.posts %}
-          {% if post.tags contains page.tag %}
-            <div class="feature-post">
-              <div class="row">
+    <div class="feature-posts">
+      {% for post in site.posts %}
+        {% if post.tags contains page.tag %}
+          <div class="feature-post">
+            <div class="row">
 
-                <div class="col-md-4">
-                  <a href='{{ post.url }}'>
-                    <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
-                  </a>
-                </div>
+              <div class="col-md-4">
+                <a href='{{ post.url }}'>
+                  <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                </a>
+              </div>
 
-                <div class="col-md-8">
-                  <div class='feature-content'>
-                    <div class='feature-category {{ post.categories }}'></div>
-                    <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
-                    <div class="feature-blurb">{{ post.blurb }}</div>
-                  </div>
+              <div class="col-md-8">
+                <div class='feature-content'>
+                  <div class='feature-category {{ post.categories }}'></div>
+                  <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                  <div class="feature-blurb">{{ post.blurb }}</div>
                 </div>
               </div>
             </div>
-          {% endif %}
+          </div>
+        {% endif %}
 
-        {% endfor %}
-      </div>
-
-      <div style="clear: both"></div>
-
+      {% endfor %}
     </div>
-  </div>
-  <div class='col-md-4'>
-    {% include sponsor_sidebar.html %}
+
+    <div style="clear: both"></div>
+
   </div>
 </div>

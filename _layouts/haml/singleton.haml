@@ -19,15 +19,4 @@ layout: layout
       .content
         {{ page.content}}
 
-  .col-md-4
-    {% include sponsor_sidebar.html %}
-
-    {% include marketing_feature.html %}
-
-    %h2 Check this, too...
-
-    {% for post in site.related_posts %}
-    .feature-image{:style => "background-image: url({{ post.image }}); background-position: center;"}
-      %a{:href => "{{ post.url }}"}
-        %h3 {{ post.title }}
-    {% endfor %}
+  {% include sidebar.html %}

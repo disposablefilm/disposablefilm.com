@@ -6,6 +6,7 @@
  *= require ./lib/font-awesome-4.1.0/scss/font-awesome.scss
  *= require ./bootstrap-website.css.scss
  *= require ./fonts.scss
+ *= require ./buttons.css
  *= require ./header.scss
  *= require ./layout.scss
  *= require ./sidebar.scss

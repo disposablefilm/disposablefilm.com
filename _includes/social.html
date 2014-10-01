@@ -2,7 +2,9 @@
   <div class="sidebar-social-block">
     <h3>Stay in the loop</h3>
     <div class="mailing-list">
-      {% include mailing-list.html %}
+      <form method="post" action="http://oi.vresp.com?fid=994ec43f28" target="vr_optin_popup" onsubmit="window.open( 'http://www.verticalresponse.com', 'vr_optin_popup', 'scrollbars=yes,width=600,height=450' ); return true;" >
+        <input type="submit" class="btn btn-primary outline" value="Sign Up for the Newsletter">
+      </form>
     </div>
   </div>
 
@@ -15,7 +17,8 @@
 
   <div class="sidebar-social-block">
     <div class="twitter-widget">
-      {% include twitter.html %}
+      <a class="twitter-timeline" width="300" height="300" href="https://twitter.com/DFFest" data-widget-id="399791839185620992">Tweets by @DFFest</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
   </div>
 </div>

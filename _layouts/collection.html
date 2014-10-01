@@ -1,94 +1,55 @@
 ---
 layout: layout
 ---
-<div class='row'>
-  <div class='col-md-8'>
-    <div class='collection'>
-      {% if page.video %}
-      <div class='video'>
-        <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-      </div>
-      {% else %}
-      <div class='image img-responsive' style="width: 750px; height: 300px; background-image: url({{ page.image }}); background-size: 100%;">
-      </div>
-      {% endif %}
-
-      <div class="share-single">
-        {% include share_this.html %}
-      </div>
-
-      <h1 class='title'>{{ page.title}}</h1>
-
-      <div class='post-body collection'>
-        {{ content }}
-      </div>
-
-      <div class="feature-posts">
-        {% for post in site.posts %}
-          {% for collection in post.collections %}
-            {% capture collection_path %}_posts/{{ collection }}{% endcapture %}
-              {% if collection_path == page.path %}
-                <div class="feature-post">
-                  <div class="row">
-
-                    <div class="col-md-4">
-                      <a href='{{ post.url }}'>
-                        <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
-                      </a>
-                    </div>
-
-                    <div class="col-md-8">
-                      <div class='feature-content'>
-                        <div class='feature-category {{ post.categories }}'></div>
-                        <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
-                        <div class="feature-blurb">{{ post.blurb }}</div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              {% endif %}
-          {% endfor %}
-        {% endfor %}
-      </div>
-
-      {% include tags.html %}
-
-      <div style="clear: both"></div>
-    </div>
+<div class='collection'>
+  {% if page.video %}
+  <div class='video'>
+    <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
-    <div class='col-md-4'>
-    <div class="sidebar">
-      {% include sponsor_sidebar1.html %}
+  {% else %}
+  <div class='image img-responsive' style="width: 750px; height: 300px; background-image: url({{ page.image }}); background-size: 100%;">
+  </div>
+  {% endif %}
 
-      <h3>Stay in the loop</h3>
+  <div class="share-single">
+    {% include share_this.html %}
+  </div>
 
-      <div class="mailing-list">
-        {% include mailing-list.html %}
-      </div>
+  <h1 class='title'>{{ page.title}}</h1>
 
-      <div class="related-content">
-        <h3>Related Content</h3>
-        {% for post in site.related_posts limit:5 %}
-          <div class="related-post">
-            <div class="row">
+  <div class='post-body collection'>
+    {{ content }}
+  </div>
 
-              <div class="col-md-4">
-                <a href='{{ post.url }}'>
-                  <div class='related-thumb'><img width="110" height="50" src="{{ post.relatedthumb }}"></div>
-                </a>
-              </div>
+  <div class="feature-posts">
+    {% for post in site.posts %}
+      {% for collection in post.collections %}
+        {% capture collection_path %}_posts/{{ collection }}{% endcapture %}
+          {% if collection_path == page.path %}
+            <div class="feature-post">
+              <div class="row">
 
-              <div class="col-md-8">
-                <div class='related-content'>
-                  <div class='related-category {{ post.categories }}'></div>
-                  <div class="related-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                <div class="col-md-4">
+                  <a href='{{ post.url }}'>
+                    <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                  </a>
+                </div>
+
+                <div class="col-md-8">
+                  <div class='feature-content'>
+                    <div class='feature-category {{ post.categories }}'></div>
+                    <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+                    <div class="feature-blurb">{{ post.blurb }}</div>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        {% endfor %}
-      </div>
-      {% include sponsor_sidebar2.html %}
-    </div>
+          {% endif %}
+      {% endfor %}
+    {% endfor %}
   </div>
+
+  {% include tags.html %}
+
+  <div style="clear: both"></div>
 </div>
