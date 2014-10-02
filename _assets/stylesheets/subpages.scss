@@ -3,11 +3,30 @@
 
 body.page-sponsors
 {
+  .sponsor-headline
+  {
+    border-bottom: 3px solid #000;
+
+    h2
+    {
+      text-transform: uppercase;
+    }
+
+    .become-a-sponsor
+    {
+      h3
+      {
+        display: inline-block;
+        color: #000;
+        font-weight: 400;
+      }
+    }
+  }
+
   .sponsor-image
   {
     text-align: center;
     height: 286px;
-    background-color: $dff-light-background;
     padding: 18px;
   }
 }
