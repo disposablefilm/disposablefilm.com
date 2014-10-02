@@ -15,18 +15,11 @@ body
       {
         margin-top: 0;
       }
-    }
 
-    // SIDEBAR SOCIAL: NEWSLETTER, SHARE AND TWEETS
-    .sidebar-social
-    {
-      background-color: black;
-      color: white;
-
-      .sidebar-social-block
+      &.sidebar-item-black
       {
-        padding: 20px 25px;
-        border-bottom: 1px solid white;
+        background-color: black;
+        color: white;
 
         h3
         {
@@ -35,6 +28,16 @@ body
           color: white;
           margin-top: 0;
         }
+      }
+    }
+
+    // SIDEBAR SOCIAL: NEWSLETTER, SHARE AND TWEETS
+    .sidebar-social
+    {
+      .sidebar-social-block
+      {
+        border-bottom: 1px solid white;
+        padding: 20px 25px;
 
         .btn
         {
@@ -57,13 +60,17 @@ body
 
 
     // SIDEBAR RELATED CONTENT
-    .related-content
+    .sidebar-related
     {
+      h3
+      {
+        padding: 20px 25px;
+      }
+
       .related-post
       {
-        margin-bottom: 9px;
-        padding-bottom: 9px;
-        border-bottom: 1px solid $dff-divider;
+        padding: 9px 25px;
+        border-top: 1px solid $dff-divider;
 
         .related-thumb
         {
@@ -77,6 +84,7 @@ body
 
           a
           {
+            color: #ffffff;
             text-decoration: none;
           }
 

@@ -7,9 +7,9 @@ tags:
   - dff2014
   - Galen Pehrson
   - landingpage
-image: /images/posts/2014-competitive-shorts.jpg
-thumb: /images/posts/thumbs/2014-competitive-shorts.jpg
-relatedthumb: /images/posts/thumbs/2014-competitive-shorts.jpg
+image: posts/2014-competitive-shorts.jpg
+thumb: posts/thumbs/2014-competitive-shorts.jpg
+relatedthumb: posts/thumbs/2014-competitive-shorts.jpg
 video: //player.vimeo.com/video/81601719
 blurb: An interesting Q&A with Galen Pehrson, creator of the film "Mondo Taurobolium".
 ---
