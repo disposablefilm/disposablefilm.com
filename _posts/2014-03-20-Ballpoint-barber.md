@@ -16,9 +16,9 @@ tags:
  - music
 
 
-image: /images/posts/Ballpoint image.png
-thumb: /images/posts/Ballpoint thumb.png
-relatedthumb: /images/posts/Balpoint thumb.png
+image: posts/Ballpoint-image.png
+thumb: posts/Ballpoint-thumb.png
+relatedthumb: posts/Balpoint-thumb.png
 video: //player.vimeo.com/video/74068427
 collections:
  - 2014-3-20-competitive-shorts.md

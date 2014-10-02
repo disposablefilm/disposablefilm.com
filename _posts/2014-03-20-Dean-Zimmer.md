@@ -16,9 +16,9 @@ tags:
  - music
 
 
-image: /images/posts/Dean Zimmer shot.png
-thumb: /images/posts/Dean Zimmer thumb.png
-relatedthumb: /images/posts/Dean Zimmer thumb.png
+image: posts/Dean-Zimmer-shot.png
+thumb: posts/Dean-Zimmer-thumb.png
+relatedthumb: posts/Dean-Zimmer-thumb.png
 video: //player.vimeo.com/video/82605091
 collections:
  - 2014-3-20-competitive-shorts.md

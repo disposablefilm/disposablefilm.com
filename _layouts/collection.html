@@ -4,10 +4,10 @@ layout: layout
 <div class='collection'>
   {% if page.video %}
   <div class='video'>
-    <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe class="marquee-video" src="{{ page.video | asset_path }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
   {% else %}
-  <div class='image img-responsive' style="width: 750px; height: 300px; background-image: url({{ page.image }}); background-size: 100%;">
+  <div class='image img-responsive' style="width: 750px; height: 300px; background-image: url({{ page.image | asset_path }}); background-size: 100%;">
   </div>
   {% endif %}
 
@@ -31,7 +31,7 @@ layout: layout
 
                 <div class="col-md-4">
                   <a href='{{ post.url }}'>
-                    <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                    <div class='feature-thumb' style = "background-image: url('{{ post.thumb | asset_path }}')"></div>
                   </a>
                 </div>
 

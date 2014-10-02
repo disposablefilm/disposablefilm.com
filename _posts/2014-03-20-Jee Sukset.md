@@ -16,9 +16,9 @@ tags:
  - animation
 
 
-image: /images/posts/Jee shot.png
-thumb: /images/posts/Jee thumb.png
-relatedthumb: /images/posts/Jee thumb.png
+image: posts/Jee-shot.png
+thumb: posts/Jee-thumb.png
+relatedthumb: posts/Jee-thumb.png
 video: //player.vimeo.com/video/73646813
 collections:
  - 2014-3-20-competitive-shorts.md

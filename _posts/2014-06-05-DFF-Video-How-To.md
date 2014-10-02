@@ -10,9 +10,9 @@ tags:
  - warp stabilizer
  - featured
  - landingpage
-image: /images/posts/How-to.png
-thumb: /images/posts/How-to-thumb.png
-relatedthumb: /images/posts/How-to-thumb.png
+image: posts/How-to.png
+thumb: posts/How-to-thumb.png
+relatedthumb: posts/How-to-thumb.png
 blurb: Learn the tricks of the trade in this helpful how to tutorial
 ---
 

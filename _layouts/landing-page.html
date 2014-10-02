@@ -1,7 +1,6 @@
 ---
 layout: layout
 ---
-
 <div class="marquee">
   {% if page.video %}
   <div class='video'>
@@ -24,7 +23,7 @@ layout: layout
 
             <div class="col-md-4">
               <a href='{{ post.url }}'>
-                <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                <div class='feature-thumb' style = "background-image: url('{{ post.thumb | asset_path }}')"></div>
               </a>
             </div>
 

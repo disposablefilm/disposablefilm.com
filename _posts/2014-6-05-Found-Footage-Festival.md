@@ -11,9 +11,9 @@ tags:
  - brooklyn
  - featured
  - landingpage
-image: /images/posts/Found footage.png
-thumb: /images/posts/found-thumb.png
-relatedthumb: /images/posts/found-thumb.png
+image: posts/Found-footage.png
+thumb: posts/found-thumb.png
+relatedthumb: posts/found-thumb.png
 blurb: Found Footage coming to a town near you.
 ---
 

@@ -9,7 +9,7 @@ layout: layout
   </div>
   {% else %}
   <div class='image'>
-    <img class="img-responsive" src='{{ page.image }}'>
+    <img class="img-responsive" src='{{ page.image | asset_path }}'>
   </div>
   {% endif %}
 

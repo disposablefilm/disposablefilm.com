@@ -15,9 +15,9 @@ tags:
  - DFF
 
 
-image: /images/posts/What do we have shot.png
-thumb: /images/posts/What do we have thumb.png
-relatedthumb: /images/posts/What do we have thumb.png
+image: posts/What-do-we-have-shot.png
+thumb: posts/What-do-we-have-thumb.png
+relatedthumb: posts/What-do-we-have-thumb.png
 video: //player.youtube.com/watch?v=6qrwwM1Hgwk
 collections:
  - 2014-3-20-competitive-shorts.md

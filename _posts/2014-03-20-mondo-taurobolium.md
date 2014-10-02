@@ -16,9 +16,9 @@ tags:
  - grand prize
 
 
-image: /images/posts/2014-competitive-shorts.jpg
-thumb: /images/posts/thumbs/2014-competitive-shorts.jpg
-relatedthumb: /images/posts/thumbs/2014-competitive-shorts.jpg
+image: posts/2014-competitive-shorts.jpg
+thumb: posts/thumbs/2014-competitive-shorts.jpg
+relatedthumb: posts/thumbs/2014-competitive-shorts.jpg
 video: //player.vimeo.com/video/81601719
 collections:
  - 2014-3-20-competitive-shorts.md

@@ -16,9 +16,9 @@ tags:
  - music video
 
 
-image: /images/posts/dance motherfucker image.png
-thumb: /images/posts/dance motherfucker thumb.png
-relatedthumb: /images/posts/dance motherfucker thumb.png
+image: posts/dance-motherfucker-image.png
+thumb: posts/dance-motherfucker-thumb.png
+relatedthumb: posts/dance-motherfucker-thumb.png
 video: //player.vimeo.com/video/83797720
 collections:
  - 2014-3-20-competitive-shorts.md

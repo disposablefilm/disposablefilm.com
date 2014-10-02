@@ -17,9 +17,9 @@ tags:
  - music video
 
 
-image: /images/posts/vine dance image.png
-thumb: /images/posts/vine dance thumb.png
-relatedthumb: /images/posts/vine dance thumb.png
+image: posts/vine-dance-image.png
+thumb: posts/vine-dance-thumb.png
+relatedthumb: posts/vine-dance-thumb.png
 video: //player.vimeo.com/video/75801418
 collections:
  - 2014-3-20-competitive-shorts.md

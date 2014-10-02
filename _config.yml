@@ -1,1 +1,26 @@
 url: http://disposablefilm.com/
+
+# other site variables and configs
+exclude:
+- Gemfile
+- Gemfile.lock
+- lib
+assets:
+  dirname: assets
+  baseurl: /assets/
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _assets/images
+  bundles:
+    - 'shared.css'
+    - 'shared.js'
+    - 'application.css'
+    - 'application.js'
+  compress:
+    css: sass
+    js: uglifier
+  cachebust: soft
+  gzip:
+  - text/css
+  - application/javascript

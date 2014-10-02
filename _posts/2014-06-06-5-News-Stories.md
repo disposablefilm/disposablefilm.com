@@ -8,9 +8,9 @@ tags:
  - cell phones
  - social media
  - revolution
-image: /images/posts/Citizen-shot.png
-thumb: /images/posts/Vote-thumb.png
-relatedthumb: /images/posts/Vote-thumb.png
+image: posts/Citizen-shot.png
+thumb: posts/Vote-thumb.png
+relatedthumb: posts/Vote-thumb.png
 blurb: See How They're Changing the Playing Field
 ---
 

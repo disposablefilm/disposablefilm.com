@@ -16,9 +16,9 @@ tags:
  - animation
 
 
-image: /images/posts/how to catch shot.png
-thumb: /images/posts/how to catch thumb.png
-relatedthumb: /images/posts/how to catch thumb.png
+image: posts/how-to-catch-shot.png
+thumb: posts/how-to-catch-thumb.png
+relatedthumb: posts/how-to-catch-thumb.png
 video: //player.vimeo.com/video/73486778
 collections:
  - 2014-3-20-competitive-shorts.md

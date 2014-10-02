@@ -10,9 +10,9 @@ tags:
  - social media
  - featured
  - landingpage
-image: /images/posts/mobile-phones-and-social-media.jpg
-thumb: /images/posts/thumbs/mobile-phones-and-social-media.jpg
-relatedthumb: /images/posts/thumbs/mobile-phones-and-social-media.jpg
+image: posts/mobile-phones-and-social-media.jpg
+thumb: posts/thumbs/mobile-phones-and-social-media.jpg
+relatedthumb: posts/thumbs/mobile-phones-and-social-media.jpg
 blurb: Smartphones have created and ended comedy careers.
 ---
 

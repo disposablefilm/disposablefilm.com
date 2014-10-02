@@ -10,9 +10,9 @@ tags:
  - social media
  - featured
  - landingpage
-image: /images/posts/Citizen-shot.png
-thumb: /images/posts/citizen-thumb.png
-relatedthumb: /images/posts/citizen-thumb.png
+image: posts/Citizen-shot.png
+thumb: posts/citizen-thumb.png
+relatedthumb: posts/citizen-thumb.png
 blurb: The citizen journalist revolution is now.
 ---
 

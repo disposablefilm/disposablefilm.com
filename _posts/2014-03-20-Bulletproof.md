@@ -16,9 +16,9 @@ tags:
  - music
 
 
-image: /images/posts/Bulletproof shot.png
-thumb: /images/posts/Bulletproof thumb.png
-relatedthumb: /images/posts/Bulletproof thumb.png
+image: posts/Bulletproof-shot.png
+thumb: posts/Bulletproof-thumb.png
+relatedthumb: posts/Bulletproof-thumb.png
 video: //player.vimeo.com/video/82965160
 collections:
  - 2014-3-20-competitive-shorts.md
