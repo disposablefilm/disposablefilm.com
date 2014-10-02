@@ -89,46 +89,48 @@
 
     <div class="content">
 
-      <!--
-      <div class="row">
-        <div class="col-md-12 ad-728x90">
-          {% include ad-728x90.html %}
-        </div>
-      </div>
-      -->
-
       <div class="container page">
 
         <div class='row'>
-          <div class='col-md-8'>
-            {{ content }}
-          </div>
-
-          <div class='col-md-4'>
-            <div class="sidebar">
-              {% include sponsor_sidebar1.html %}
-
-              {% include social.html %}
-
-              {% include sponsor_sidebar2.html %}
+          {% if page.sidebar == false %}
+            <div class='col-md-12'>
+              {{ content }}
             </div>
-          </div>
+          {% else %}
+            <div class='col-md-8'>
+              {{ content }}
+            </div>
+
+            {% include sidebar.html %}
+          {% endif %}
         </div>
       </div>
 
       <div class="footer">
         <div class="container">
-          <div class="copyright">© Copyright 2014 Disposable Film Festival.</div>
-          <div class="about">
-            <a href="/about/" alt="About Us">About Us / Contact Us</a>
-          </div>
+          <div class="row">
+            <div class="col-md-4">
+              <nav>
+                <ul>
+                  <li><a href="/" alt="Home">Home</a></li>
+                  <li><a href="/about/" alt="About Us">About Us</a></li>
+                  <li><a href="/about/" alt="Contact Us">Contact Us</a></li>
+                </ul>
+              </nav>
 
-          <div class="dff-socials">
-            <div class="dff-social"><a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601" target="_blank"><img src="{{ 'icons/icon-facebook.png' | asset_path }}" height="32" width="32"></a></div>
-            <div class="dff-social"><a href="http://twitter.com/DFFest" target="_blank" alt="Twitter"><img src="{{ 'icons/icon-twitter.png' | asset_path }}" height="32" width="32"></a></div>
-            <div class="dff-social"><a href="http://statigr.am/disposablefilmfest" target="_blank"><img src="{{ 'icons/icon-instagram.png' | asset_path }}" height="32" width="32"></a></div>
-            <div class="dff-social"><a href="https://pinterest.com/dffest/" target="_blank"><img src="{{ 'icons/icon-pinterest.png' | asset_path }}" height="32" width="32"></a></div>
-            <div class="dff-social"><a href="https://vimeo.com/dff/" target="_blank"><img src="{{ 'icons/icon-vimeo.png' | asset_path }}" height="32" width="32"></a></div>
+              <div class="dff-socials">
+                <div class="dff-social"><a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601" target="_blank"><i class="fa fa-facebook"></i></a></div>
+                <div class="dff-social"><a href="http://twitter.com/DFFest" target="_blank" alt="Twitter"><i class="fa fa-twitter"></i></a></div>
+                <div class="dff-social"><a href="http://statigr.am/disposablefilmfest" target="_blank"><i class="fa fa-instagram"></i></a></div>
+                <div class="dff-social"><a href="https://pinterest.com/dffest/" target="_blank"><i class="fa fa-pinterest"></i></a></div>
+                <div class="dff-social"><a href="https://vimeo.com/dff/" target="_blank"><i class="fa fa-vimeo-square"></i></a></div>
+              </div>
+
+              <div class="copyright">© Copyright 2014 Disposable Film Festival.</div>
+            </div>
+            <div class="col-md-8">
+              {% include ad-728x90.html %}
+            </div>
           </div>
         </div>
       </div>
@@ -136,10 +138,10 @@
 
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Top MPU -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:inline-block;width:300px;height:250px"
      data-ad-client="ca-pub-9204806821782483"
-     data-ad-slot="2858942659"></ins>
+     data-ad-slot="2858942659"></ins> -->
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
