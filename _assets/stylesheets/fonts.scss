@@ -25,5 +25,9 @@ body
     }
   }
 
-
+  .btn:hover
+  {
+    color: $dff-blue !important;
+    border-color: $dff-blue !important;
+  }
 }

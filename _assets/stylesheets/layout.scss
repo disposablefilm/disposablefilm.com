@@ -50,36 +50,78 @@ body
 
   .footer
   {
+    padding: 25px 0;
     width: 100%;
-    padding: 6px;
-    font-size: 12px;
-    text-align: center;
     background-color: black;
+
+    nav
+    {
+      font-weight: bold;
+
+      ul
+      {
+        margin: 0;
+        padding: 0;
+
+        li
+        {
+          text-transform: uppercase;
+          display: inline-block;
+          margin-right: 10px;
+
+          a
+          {
+            &:hover
+            {
+              color: $dff-blue;
+            }
+          }
+        }
+      }
+    }
+
+    .dff-socials
+    {
+      margin: 20px 0;
+
+      .dff-social
+      {
+        display: inline-block;
+
+        a
+        {
+          i
+          {
+            font-size: 30px;
+            width: 50px;
+            border: 2px solid white;
+            padding: 5px;
+            text-align: center;
+            margin-right: 5px;
+          }
+
+          &:hover
+          {
+            i
+            {
+              color: $dff-blue;
+              border-color: $dff-blue;
+            }
+          }
+        }
+      }
+    }
 
     .copyright
     {
-      margin-top: 9px;
-      float: right;
-      font-size: 10px;
-    }
-
-    .about
-    {
-      float: left;
-      font-weight: bold;
-      margin-top: 9px;
+      color: #ffffff;
+      font-size: 11px;
     }
 
     a
     {
       color: #ffffff;
       text-decoration: none;
-    }
-
-    .dff-social
-    {
-      display: inline-block;
-      padding-right: 18px;
     }
   }
 

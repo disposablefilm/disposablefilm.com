@@ -183,6 +183,12 @@ body
       bottom: 0;
       width: auto;
       margin-left: 0;
+
+      .active
+      {
+        background-color: $dff-blue !important;
+        border-color: $dff-blue !important;
+      }
     }
 
     .carousel-caption

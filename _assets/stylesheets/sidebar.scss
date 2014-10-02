@@ -7,14 +7,15 @@ body
   {
     margin-bottom: 24px;
 
-
-    // SIDEBAR ADDS
-    .ad-728x90, .ad-300x250, .ads-skyscraper
+    .sidebar-item
     {
-      padding: 18px 0 0 0;
-      text-align: center;
-    }
+      margin: 20px 0;
 
+      &:first-child
+      {
+        margin-top: 0;
+      }
+    }
 
     // SIDEBAR SOCIAL: NEWSLETTER, SHARE AND TWEETS
     .sidebar-social
