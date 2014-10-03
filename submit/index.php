@@ -1,14 +1,14 @@
 ---
-layout: static	
+layout: static
 title: Film Submissions
-categories: 
+categories:
   - featured
   - news
 tags:
   - featured
   - landing page
   - featured
-image: /images/posts/Screen Shot 2014-05-30-submit.png
+image: /images/posts/Screen-Shot-2014-05-30-submit.png
 thumb: /images/posts/thumb-submit.png
 ---
 
