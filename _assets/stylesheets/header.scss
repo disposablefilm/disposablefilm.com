@@ -30,6 +30,10 @@ body
 
     .navbar-collapse
     {
+      position: absolute;
+      height: 38px;
+      margin-top: -19px;
+      top: 50%;
       border-top: 0;
       box-shadow: none;
       text-align: center;
