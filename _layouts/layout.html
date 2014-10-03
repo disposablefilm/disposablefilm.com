@@ -1,22 +1,23 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <title>{% if page.title != "Home" %}{{ page.title }} - {% endif %}Disposable Film</title>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="keywords" content="">
-      <meta name="description" content="">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>{% if page.title != "Home" %}{{ page.title }} - {% endif %}Disposable Film</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
 
-      <!-- Custom CSS -->
-      {% stylesheet application %}
+    <!-- Custom CSS -->
+    {% stylesheet application %}
 
-      <!-- JS -->
-      {% javascript application %}
+    <!-- JS -->
+    {% javascript application %}
 
+    <link href='http://fonts.googleapis.com/css?family=Cantarell|Montserrat' rel='stylesheet' type='text/css'>
   </head>
 
-  <body class="page-{{ page.title | downcase }}">
+  <body class="page-{{ page.title | downcase | replace:" ", "-" | replace:":","-" }}">
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
@@ -29,10 +30,10 @@
       <div id="topbar">
         <div class="container">
           <div class="row">
-            <div id="logo" class="col-md-4">
+            <div id="logo" class="col-md-5">
               <a href="/"><img class="img-responsive" height="64" class="logo" src="{{ 'logo-blue.png' | asset_path }}" border="0" alt="Disposable Film"></a>
             </div>
-            <div class="col-md-8">
+            <div class="col-md-7">
               <nav class="navbar" role="navigation">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">

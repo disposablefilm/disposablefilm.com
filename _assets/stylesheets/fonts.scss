@@ -3,7 +3,12 @@
 
 body
 {
-  font-family: "vera-sans", sans-serif;
+  font-family: 'Cantarell', sans-serif;
+
+  h1, h2, h3, h4, h5, h6, .feature-title, nav
+  {
+    font-family: 'Montserrat', sans-serif;
+  }
 
   h3
   {
