@@ -1,7 +1,7 @@
 ---
 layout: static
 title: Entry Form
-image: /images/posts/2014-marquee.jpg
+image: posts/2014-marquee.jpg
 ---
 
 <script src="/submit/go/functions.js" type="text/javascript"></script>
