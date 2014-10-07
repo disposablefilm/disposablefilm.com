@@ -6,6 +6,8 @@ body
   .sidebar
   {
     margin-bottom: 24px;
+    width: 300px;
+    float: right;
 
     .sidebar-item
     {
@@ -24,7 +26,7 @@ body
         h3
         {
           font-weight: 300;
-          font-size: 2em;
+          font-size: 1.6em;
           color: white;
           margin-top: 0;
         }
@@ -94,6 +96,17 @@ body
           }
         }
       }
+    }
+  }
+}
+
+@media (max-width: 767px)
+{
+  body
+  {
+    .sidebar
+    {
+      width: 100%;
     }
   }
 }
