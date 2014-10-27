@@ -1,7 +1,7 @@
 @import 'constants';
 @import 'mixins';
 
-.headline
+.headline, .sponsor-headline
 {
   border-bottom: 3px solid #000;
   margin-bottom: 20px;
@@ -15,7 +15,7 @@
 
 body.page-sponsors
 {
-  .headline
+  .headline, .sponsor-headline
   {
     .become-a-sponsor
     {
@@ -31,6 +31,7 @@ body.page-sponsors
   .sponsor-image
   {
     text-align: center;
+    vertical-align: top;
     height: 286px;
     padding: 18px;
   }

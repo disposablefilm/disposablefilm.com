@@ -5,6 +5,7 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - lib
+- vendor
 assets:
   dirname: assets
   baseurl: /assets/
