@@ -3,7 +3,7 @@ layout: layout
 ---
 
   <div class='tag-index'>
-    <h1 class='title'>Posts tagged with "{{ page.tag}}"</h1>
+    <h1 class='title'>Posts tagged with "{{ page.tag }}"</h1>
 
     <div class="share-single">
       {% include share_this.html %}
@@ -17,7 +17,7 @@ layout: layout
 
               <div class="col-md-3">
                 <a href='{{ post.url }}'>
-                  <div class='feature-thumb' style = "background-image: url('{{ post.thumb }}')"></div>
+                  <div class='feature-thumb' style = "background-image: url('{{ post.thumb  | asset_path }}')"></div>
                 </a>
               </div>
 
