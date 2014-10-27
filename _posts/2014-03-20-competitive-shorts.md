@@ -6,7 +6,6 @@ tags:
  - disposable
  - competitiveshorts
  - dff
- - featured
  - landingpage
 video: //player.vimeo.com/video/81601719
 image: posts/2014-competitive-shorts.jpg
