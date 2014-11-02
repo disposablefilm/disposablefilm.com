@@ -26,7 +26,7 @@ error_reporting(0);
 
      <h3>DFF 2015 Deadlines</h3>
      <p>Early Submission Deadline: <b>October 1, 2014 at 11:59pm PST</b> - $5.00 fee per submission</p>
-     <p>Final Submission Deadline: <b>November 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
+     <p>Final Submission Deadline: <b>December 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
 
       <!--<p style="font-size: 16px;"><b>Submissions for DFF 2015 are now <span class="orange">closed</span>.</b></p>-->
 
@@ -73,7 +73,7 @@ error_reporting(0);
       <h3>Entering the Competition</h3>
 
       <div class="cta">
-        <?php if (time() < strtotime('11:59pm November 1, 2014')) { ?>
+        <?php if (time() < strtotime('11:59pm December 1, 2014')) { ?>
 
           Complete the entry form here:<br>
 

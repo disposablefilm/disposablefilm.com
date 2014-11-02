@@ -531,7 +531,7 @@ EOF;
 
 ?>
 
-<?php if ((time() < strtotime('11:59pm November 1, 2014')) || ((array_key_exists('backdoor', $_REQUEST) && ($_REQUEST['backdoor'] == 'yo')))) { ?>
+<?php if ((time() < strtotime('11:59pm December 1, 2014')) || ((array_key_exists('backdoor', $_REQUEST) && ($_REQUEST['backdoor'] == 'yo')))) { ?>
 
 <script>
 var RecaptchaOptions = {
@@ -550,7 +550,7 @@ var RecaptchaOptions = {
 
      <h3>DFF 2015 Deadlines</h3>
      <p>Early Submission Deadline: <b>October 1, 2014 at 11:59pm PST</b> - $5.00 fee per submission</p>
-     <p>Final Submission Deadline: <b>November 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
+     <p>Final Submission Deadline: <b>December 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
 
       <h3>Guidelines</h3>
       <p>
@@ -575,7 +575,7 @@ var RecaptchaOptions = {
 
       <p>All fields marked with a * are required.</p>
 
-      <form onSubmit="return checkForm()" id="submissionForm" action="<?php echo ((time() > strtotime('11:59pm November 1, 2014')) && array_key_exists('backdoor', $_REQUEST)) ? '?backdoor=' . $_REQUEST['backdoor'] : ''  ?>" method="POST">
+      <form onSubmit="return checkForm()" id="submissionForm" action="<?php echo ((time() > strtotime('11:59pm December 1, 2014')) && array_key_exists('backdoor', $_REQUEST)) ? '?backdoor=' . $_REQUEST['backdoor'] : ''  ?>" method="POST">
       <input type="hidden" name="Submission" value="yes">
 
        <table cellpadding="5" cellspacing="5" border="0">
