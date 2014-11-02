@@ -9,7 +9,6 @@ tags:
  - found footage
  - voyeurism
  - brooklyn
- - featured
  - landingpage
 image: posts/Found-footage.png
 thumb: posts/found-thumb.png

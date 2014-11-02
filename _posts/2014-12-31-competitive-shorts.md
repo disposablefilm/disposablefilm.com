@@ -1,12 +1,16 @@
 ---
 layout: collection
 title: 2014 Disposable Film Festival Competitive Shorts
-categories: films
+categories:
+ - films
+ - news
+
 tags:
  - disposable
  - competitiveshorts
  - dff
  - landingpage
+ - featured
 video: //player.vimeo.com/video/81601719
 image: posts/2014-competitive-shorts.jpg
 thumb: posts/thumbs/2014-competitive-shorts.jpg

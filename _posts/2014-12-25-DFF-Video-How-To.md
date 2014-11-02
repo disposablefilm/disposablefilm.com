@@ -8,8 +8,8 @@ tags:
  - adobe premiere pro cc
  - after effects cc
  - warp stabilizer
- - featured
  - landingpage
+ - featured
 image: posts/How-to.png
 thumb: posts/How-to-thumb.png
 relatedthumb: posts/How-to-thumb.png

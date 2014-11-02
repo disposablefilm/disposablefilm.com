@@ -12,6 +12,8 @@ thumb: posts/thumbs/2014-competitive-shorts.jpg
 relatedthumb: posts/thumbs/2014-competitive-shorts.jpg
 video: //player.vimeo.com/video/81601719
 blurb: An interesting Q&A with Galen Pehrson, creator of the film "Mondo Taurobolium".
+collections:
+ - 2014-12-28-filmmaker-q-and-a.md
 ---
 
 

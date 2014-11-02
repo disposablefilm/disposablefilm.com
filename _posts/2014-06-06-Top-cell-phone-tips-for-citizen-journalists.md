@@ -8,7 +8,6 @@ tags:
  - international
  - smartphones
  - social media
- - featured
  - landingpage
 image: posts/Citizen-shot.png
 thumb: posts/citizen-thumb.png

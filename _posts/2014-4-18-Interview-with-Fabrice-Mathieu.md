@@ -12,6 +12,8 @@ image: https://secure-b.vimeocdn.com/ts/271/624/271624486_295.jpg
 thumb: https://secure-b.vimeocdn.com/ts/271/624/271624486_295.jpg
 relatedthumb: https://secure-b.vimeocdn.com/ts/271/624/271624486_295.jpg
 blurb: An interesting Q&A with Fabrice Mathieu, creator of the film "Dane L'ombre" (In the Shadows).
+collections:
+ - 2014-12-28-filmmaker-q-and-a.md
 ---
 
 

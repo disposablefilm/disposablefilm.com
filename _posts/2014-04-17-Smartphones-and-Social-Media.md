@@ -8,7 +8,6 @@ tags:
  - comedy
  - smartphones
  - social media
- - featured
  - landingpage
 image: posts/mobile-phones-and-social-media.jpg
 thumb: posts/thumbs/mobile-phones-and-social-media.jpg
