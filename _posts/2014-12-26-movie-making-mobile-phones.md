@@ -19,14 +19,14 @@ At the DFF we're all about imagination and innovation. We want you to be able to
   <h3>1. Apple iPhone 6+</h3>
   <img src="{{ 'phones/iphone-6-plus.png' | asset_path }}" width="180" alt="Apple iPhone 6+" align="right">
   <p>Arguably one of the best two or three smartphone cameras on the market today. With iOS 8’s 64-bit architecture, Apple’s A8 processor, M8 motion co-processor and 1920 by 1080 pixels Retina display Apple’s new, 6+ is the real deal. Among the new features an 8-megapixel iSight camera, a 5-element lens with ƒ/2.2 aperture, Autofocus with Focus Pixels, Optical image stabilization, Sapphire crystal lens cover and lots more.  The new iPhone 6+ can now capture 1080p video at 60 fps as well as slo-mo video at 120 or 240 fps. That’s all you need to know.</p>
-<p>Learn more about the <a href="https://www.apple.com/iphone-6/" target="_blank">iPhone 6+</a></p>
+<p><a href="https://www.apple.com/iphone-6/" target="_blank">Learn more about the iPhone 6+</a></p>
 </div>
 
 <div class="article" style="clear: both">
   <h3>2. Apple iPhone 6</h3>
   <img align="right" src="{{ 'phones/iphone-6.png' | asset_path }}" width="150" alt="Apple iPhone 6">
   <p>OK,  it's not an iPhone 6+ but it’s a terrific new iPhone nonetheless. The 6 has the new, larger 4.7-inch screen and except for optical image stabilization the camera is the same as it is in the much larger 6+. The 6 is smaller and lighter in weight and easier to pull from your  pocket when you’re confronted with that perfect video moment. And, best of all, it’s cheaper than the 6+ phablet. Like it’s big brother it’s very highly recommended.</p>
-<p>Learn more about the <a href="https://www.apple.com/iphone-6/" target="_blank">iPhone 6</a></p>
+<p><a href="https://www.apple.com/iphone-6/" target="_blank">Learn more about the iPhone 6</a></p>
 </div>
 
 <div class="article" style="clear: both">
