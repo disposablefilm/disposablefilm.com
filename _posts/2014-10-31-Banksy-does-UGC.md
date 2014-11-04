@@ -1,13 +1,14 @@
 ---
 layout: singleton
-title: Banksy Does UGC.
+title: Banksy Does UGC
 categories:
  - news
  - culture
 tags:
- - USG
+ - UGC
+ - Banksy
  - Documentary
- - landing page
+ - landingpage
 image: posts/banksy.JPG
 thumb: posts/banksythumb.JPG
 relatedthumb: posts/banksythumb.JPG
