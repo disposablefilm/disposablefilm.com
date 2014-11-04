@@ -2,13 +2,11 @@
 layout: singleton
 title: Welcome to DisposableFilm.com
 categories:
- - events
  - news
 tags:
  - carlton evans
  - dff
  - DisposableFilm.com
- - featured
  - landingpage
 image: posts/welcome-to-dff.jpg
 thumb: posts/thumbs/welcome-to-dff.jpg

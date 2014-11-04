@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: Banksy Does USG.
+title: Banksy Does UGC.
 categories:
  - news
  - culture

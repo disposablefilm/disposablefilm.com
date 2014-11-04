@@ -18,7 +18,7 @@ blurb: Learn the tricks of the trade in this helpful how to tutorial
 
 We at the DFF want to give you the told and resources you need to create your very own DIY video project. Check out our valuable tutorials to help you along the way.
 
-##Tutuorial - Warp Stabilizer in Premiere Pro CS6
+##Tutorial - Warp Stabilizer in Premiere Pro CS6
 
 Man, you got to love the warp stabilizer effect in Premiere Pro CS6. What's the skinny? The Warp Stabilizer repairs cam footage by applying the effect; result in in what looks like a smooth steady cam. Learn how to not only smooth the motion footage but also remove motion artifacts that would otherwise remain after stabilization. For good measure, the tutorial also includes how to repair rolling shutter problem in post. It's a win-win post production situation.
 
