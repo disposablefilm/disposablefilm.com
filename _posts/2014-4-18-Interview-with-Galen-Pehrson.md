@@ -2,11 +2,10 @@
 layout: singleton
 title: Q&A With Filmmaker Galen Pehrson
 categories:
-  - culture
+ - culture
 tags:
-  - dff2014
-  - Galen Pehrson
-  - landingpage
+ - dff2014
+ - Galen Pehrson
 image: posts/2014-competitive-shorts.jpg
 thumb: posts/thumbs/2014-competitive-shorts.jpg
 relatedthumb: posts/thumbs/2014-competitive-shorts.jpg

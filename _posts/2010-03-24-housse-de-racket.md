@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/598/041/59804191_295.jpg
 
 video: //player.vimeo.com/video/10225038
 collections:
- - 2010-3-24-competitive-shorts.md
+ - 2010-03-24-competitive-shorts.md
 blurb: Housse de Racket - 1234, a film by DaveDunn.
 ---
 

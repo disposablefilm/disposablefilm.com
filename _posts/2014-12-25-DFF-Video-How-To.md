@@ -2,6 +2,7 @@
 layout: singleton
 title: DFF Video How To
 categories:
+ - home
  - culture
 tags:
  - premiere pro cs6
@@ -9,7 +10,7 @@ tags:
  - after effects cc
  - warp stabilizer
  - landingpage
- - featured
+ - carousel
 image: posts/How-to.png
 thumb: posts/How-to-thumb.png
 relatedthumb: posts/How-to-thumb.png

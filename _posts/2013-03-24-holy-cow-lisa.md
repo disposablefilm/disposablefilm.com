@@ -21,7 +21,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/705/432705088_295.jpg
 
 video: //player.vimeo.com/video/62719251
 collections:
- - 2013-3-24-competitive-shorts.md
+ - 2013-03-24-competitive-shorts.md
 blurb: Holy Cow Lisa, a film by Bianca Giaeve.
 ---
 

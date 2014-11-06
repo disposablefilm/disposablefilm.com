@@ -16,7 +16,7 @@ layout: layout
 <div class="feature-posts post-body">
   {% assign counter=0 %}
   {% for post in site.posts %}
-    {% if counter < 9 and post.tags contains 'landingpage' and (page.category == 'all' or post.categories contains page.category) %}
+    {% if post.tags contains 'landingpage' and (page.category == 'all' or post.categories contains page.category) %}
       {% assign counter=counter | plus:1 %}
         <div class="feature-post">
           <div class="row">

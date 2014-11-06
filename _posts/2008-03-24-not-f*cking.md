@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/551/247/55124754_295.jpg
 
 video: //player.vimeo.com/video/1058152
 collections:
- - 2008-3-24-competitive-shorts.md
+ - 2008-03-24-competitive-shorts.md
 blurb: Not F*cking, a film by Michael Philips.
 ---
 

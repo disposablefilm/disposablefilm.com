@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/079/52907934_295.jpg
 
 video: //player.vimeo.com/video/10225232
 collections:
- - 2010-3-24-competitive-shorts.md
+ - 2010-03-24-competitive-shorts.md
 blurb: How To Google Maps, a film by DaveDunn.
 ---
 

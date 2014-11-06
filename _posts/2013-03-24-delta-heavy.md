@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/707/432707815_295.jpg
 
 video: //player.vimeo.com/video/62716488
 collections:
- - 2013-3-24-competitive-shorts.md
+ - 2013-03-24-competitive-shorts.md
 blurb: Delta Heavy - Get By, a film by Ian Robertson.
 ---
 

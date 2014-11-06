@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/270/287/2702879_295.jpg
 
 video: //player.vimeo.com/video/3387946
 collections:
- - 2009-3-24-competitive-shorts.md
+ - 2009-03-24-competitive-shorts.md
 blurb: Visiting the Cargo Vessel, a film by Jorrit Stollman.
 ---
 

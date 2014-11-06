@@ -3,7 +3,10 @@ layout: singleton
 title: Welcome to DisposableFilm.com
 categories:
  - news
+ - culture
+ - home
 tags:
+ - carousel
  - carlton evans
  - dff
  - DisposableFilm.com

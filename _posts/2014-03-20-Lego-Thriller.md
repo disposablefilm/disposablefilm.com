@@ -21,7 +21,7 @@ thumb: posts/lego-thumb.png
 relatedthumb: posts/lego-thumb.png
 video: //player.vimeo.com/video/73564884
 collections:
- - 2014-3-20-competitive-shorts.md
+ - 2014-12-31-competitive-shorts.md
 blurb: Lego Thriller, a film by Annette Jung.
 ---
 

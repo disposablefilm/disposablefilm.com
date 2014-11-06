@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/141/920/141920338_295.jpg
 
 video: //player.vimeo.com/video/22005016
 collections:
- - 2011-3-24-competitive-shorts.md
+ - 2011-03-24-competitive-shorts.md
 blurb: The Morning Din, a film by Tai Toh.
 ---
 

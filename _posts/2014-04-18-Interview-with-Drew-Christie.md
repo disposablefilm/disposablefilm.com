@@ -6,7 +6,6 @@ categories:
 tags:
  - dff2014
  - drew christie
- - landingpage
 image: posts/Allergy-shot.png
 thumb: posts/Allergy-Thumb.png
 relatedthumb: posts/Allergy-Thumb.png

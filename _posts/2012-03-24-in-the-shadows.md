@@ -21,7 +21,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/271/624/271624486_295.jpg
 
 video: //player.vimeo.com/video/39363777
 collections:
- - 2012-3-24-competitive-shorts.md
+ - 2012-03-24-competitive-shorts.md
 blurb: Dans L'Ombre (In the Shadows), a film by Fabrice Mathieu.
 ---
 

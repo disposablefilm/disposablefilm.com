@@ -3,7 +3,6 @@ layout: singleton
 title: "Found Footage Festival: Finding Gold in Found Video"
 categories:
  - culture
- - news
 tags:
  - festival
  - found footage

@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/551/249/55124957_295.jpg
 
 video: //player.vimeo.com/video/1058187
 collections:
- - 2008-3-24-competitive-shorts.md
+ - 2008-03-24-competitive-shorts.md
 blurb: meetregina, a film by Rebecca Bortman.
 ---
 

@@ -9,6 +9,8 @@ tags:
  - mobile
  - film
  - landingpage
+ - best
+ - film festivals
 image: posts/mobile-film-festival.jpg
 thumb: posts/thumbs/mobile-film-festival.jpg
 relatedthumb: posts/thumbs/mobile-film-festival.jpg

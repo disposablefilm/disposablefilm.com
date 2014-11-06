@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/632/000/63200048_295.jpg
 
 video: //player.vimeo.com/video/1939879
 collections:
- - 2008-3-24-competitive-shorts.md
+ - 2008-03-24-competitive-shorts.md
 blurb: Expedition Everest, a film by D.S Black.
 ---
 

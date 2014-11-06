@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/139/582/139582776_295.jpg
 
 video: //player.vimeo.com/video/21672026
 collections:
- - 2011-3-24-competitive-shorts.md
+ - 2011-03-24-competitive-shorts.md
 blurb: Space Balloon, a film by Luke Geissbuhler.
 ---
 

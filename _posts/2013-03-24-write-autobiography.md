@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/684/432684782_295.jpg
 
 video: //player.vimeo.com/video/62713612
 collections:
- - 2013-3-24-competitive-shorts.md
+ - 2013-03-24-competitive-shorts.md
 blurb: How to Write an Autobiography, a film by Penny Lane.
 ---
 

@@ -3,13 +3,14 @@ layout: collection
 title: Q&A with DFF Filmmakers
 categories:
  - culture
- - news
+ - home
 tags:
  - filmmaker
  - director
  - interview
  - landingpage
- - featured
+ - carousel
+ - q&a
 video: //player.vimeo.com/video/81601719
 image: http://www.shustersound.com/neve88d.jpg
 thumb: http://www.shustersound.com/neve88d.jpg

@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/271/356/2713562_295.jpg
 
 video: //player.vimeo.com/video/3389003
 collections:
- - 2009-3-24-competitive-shorts.md
+ - 2009-03-24-competitive-shorts.md
 blurb: Wrangling Ice, a film by Christopher Prouse.
 ---
 

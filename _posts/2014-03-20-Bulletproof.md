@@ -21,7 +21,7 @@ thumb: posts/Bulletproof-thumb.png
 relatedthumb: posts/Bulletproof-thumb.png
 video: //player.vimeo.com/video/82965160
 collections:
- - 2014-3-20-competitive-shorts.md
+ - 2014-12-31-competitive-shorts.md
 blurb: Bulletproof Thoughts #1-Joe Strummer, a film by Antoni Sendra Barrachina.
 ---
 

@@ -22,7 +22,7 @@ thumb: posts/Impersonation-thumb.png
 relatedthumb: posts/Impersonation-thumb.png
 video: //player.youtube.com/watch?v=qGLR2HWjO4k#t=15
 collections:
- - 2014-3-20-competitive-shorts.md
+ - 2014-12-31-competitive-shorts.md
 blurb: Impersonation, a film by Boyoung Kim.
 ---
 

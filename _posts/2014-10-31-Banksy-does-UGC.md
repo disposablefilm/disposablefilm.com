@@ -2,7 +2,6 @@
 layout: singleton
 title: Banksy Does UGC
 categories:
- - news
  - culture
 tags:
  - UGC

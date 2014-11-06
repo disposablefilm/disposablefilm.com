@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/038/52903863_295.jpg
 
 video: //player.vimeo.com/video/10224814
 collections:
- - 2011-3-24-competitive-shorts.md
+ - 2010-03-24-competitive-shorts.md
 blurb: Death the Dialogue, a film by Skyler Buffman.
 ---
 

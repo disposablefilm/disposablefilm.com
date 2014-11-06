@@ -21,7 +21,7 @@ thumb: posts/Dean-Zimmer-thumb.png
 relatedthumb: posts/Dean-Zimmer-thumb.png
 video: //player.vimeo.com/video/82605091
 collections:
- - 2014-3-20-competitive-shorts.md
+ - 2014-12-31-competitive-shorts.md
 blurb: Dean Zimmer-Drummer Wanted, a Ross Harris and Stanley Gonzales.
 ---
 

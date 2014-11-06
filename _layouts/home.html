@@ -6,8 +6,8 @@ layout: layout
   <!-- Indicators -->
   <ol class='carousel-indicators'>
     {% assign counter=0 %}
-    {% for post in site.tags.featured %}
-      {% if page.category == 'all' or post.categories contains page.category %}
+    {% for post in site.tags.carousel %}
+      {% if post.categories contains 'home' %}
         {% if counter == 0 %}
           <li class='active' data-slide-to='{{counter}}' data-target='#carousel-home'></li>
         {% else %}
@@ -20,8 +20,8 @@ layout: layout
   <!-- Wrapper for slides -->
   <div class='carousel-inner'>
     {% assign counter=0 %}
-    {% for post in site.tags.featured %}
-      {% if page.category == 'all' or post.categories contains page.category %}
+    {% for post in site.tags.carousel %}
+      {% if post.categories contains 'home' %}
         {% if counter == 0 %}
           <div class='item active' style="width: 750px; height: 300px; background-image: url('{{ post.image | asset_path }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
         {% else %}
@@ -47,8 +47,7 @@ layout: layout
 <div class="feature-posts">
   {% assign counter=0 %}
   {% for post in site.posts %}
-    {% if post.tags contains 'featured' %}
-    {% elsif counter < 9 and (post.tags contains 'landingpage') and (page.category == 'all' or post.categories contains page.category) %}
+    {% if (post.tags contains 'landingpage') and (post.categories contains 'home') %}
       {% assign counter=counter | plus:1 %}
         <div class="feature-post">
           <div class="row">
@@ -61,9 +60,7 @@ layout: layout
 
             <div class="col-md-8">
               <div class='feature-content'>
-                {% if page.category == 'all' %}
-                  <div class='feature-category {{ post.categories | join: ' ' }}'></div>
-                {% endif %}
+                <div class='feature-category {{ post.categories | join: ' ' }}'></div>
                 <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
                 <div class="feature-blurb">{{ post.blurb }}</div>
               </div>

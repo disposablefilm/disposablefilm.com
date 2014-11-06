@@ -21,7 +21,7 @@ thumb: posts/Jee-thumb.png
 relatedthumb: posts/Jee-thumb.png
 video: //player.vimeo.com/video/73646813
 collections:
- - 2014-3-20-competitive-shorts.md
+ - 2014-12-31-competitive-shorts.md
 blurb: Jee! Sukset (Gee! Success), a film by Antti Polojarvi.
 ---
 

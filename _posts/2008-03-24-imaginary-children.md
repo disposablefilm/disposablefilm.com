@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/583/983/58398378_295.jpg
 
 video: //player.vimeo.com/video/1361827
 collections:
- - 2008-3-24-competitive-shorts.md
+ - 2008-03-24-competitive-shorts.md
 blurb: Parents of Imaginary Children, a film by Zach Barowitz.
 ---
 

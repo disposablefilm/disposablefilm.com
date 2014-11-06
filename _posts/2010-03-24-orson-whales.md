@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/088/52908866_295.jpg
 
 video: //player.vimeo.com/video/10225327
 collections:
- - 2010-3-24-competitive-shorts.md
+ - 2010-03-24-competitive-shorts.md
 blurb: Orson Whales, a film by ???.
 ---
 

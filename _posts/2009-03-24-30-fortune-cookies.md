@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.
 
 video: //player.vimeo.com/video/3154785
 collections:
- - 2009-3-24-competitive-shorts.md
+ - 2009-03-24-competitive-shorts.md
 blurb: Introducing Fortune Cookies to China , a film by Jenny 8 Lee.
 ---
 

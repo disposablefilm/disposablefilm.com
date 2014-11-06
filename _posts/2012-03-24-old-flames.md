@@ -21,7 +21,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/271/940/271940294_295.jpg
 
 video: //player.vimeo.com/video/39428871
 collections:
- - 2012-3-24-competitive-shorts.md
+ - 2012-03-24-competitive-shorts.md
 blurb: Old Flames, a film by Ken Al-Shatti.
 ---
 

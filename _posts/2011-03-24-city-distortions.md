@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/140/861/140861074_295.jpg
 
 video: //player.vimeo.com/video/21855452
 collections:
- - 2011-3-24-competitive-shorts.md
+ - 2011-03-24-competitive-shorts.md
 blurb: City Distortions, a film by Jon Kehoe.
 ---
 
