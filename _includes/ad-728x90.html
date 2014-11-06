@@ -1,8 +1,15 @@
-<!-- Leaderboard -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9204806821782483"
-     data-ad-slot="2235621851"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+{% if show_ads %}
+  <!-- Leaderboard -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:728px;height:90px"
+       data-ad-client="ca-pub-9204806821782483"
+       data-ad-slot="2235621851"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+{% else %}
+  <img src="{{ 'ad-728x90.jpg' | asset_path }}">
+{% endif %}
+
+
+

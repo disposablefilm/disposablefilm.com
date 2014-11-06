@@ -1,1 +1,4 @@
-<img src="{{ 'ad-160x600.gif' | asset_path }}">
+{% if show_ads %}
+{% else %}
+  <img src="{{ 'ad-160x600.gif' | asset_path }}">
+{% endif %}

@@ -16,9 +16,11 @@
 
     <link href='http://fonts.googleapis.com/css?family=Cantarell|Montserrat' rel='stylesheet' type='text/css'>
 
-    <!-- Google Adsense -->
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  </head>
+    {% if show_ads %}
+      <!-- Google Adsense -->
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    </head>
+    {% endif %}
 
   <body class="page-{{ page.title | downcase | replace:" ", "-" | replace:":","-" }}">
     <div id="fb-root"></div>
@@ -33,10 +35,10 @@
       <div id="topbar">
         <div class="container">
           <div class="row">
-            <div id="logo" class="col-sm-4 col-xs-6">
+            <div id="logo" class="col-sm-3 col-xs-6">
               <a href="/"><img class="img-responsive" height="64" class="logo" src="{{ 'logo-blue.png' | asset_path }}" border="0" alt="Disposable Film"></a>
             </div>
-            <div class="col-sm-8 col-xs-6">
+            <div class="col-sm-9 col-xs-6">
               <nav class="navbar" role="navigation">
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
@@ -67,7 +69,7 @@
                     </li>
 
                     <li class="item{% if page.url == '/culture/index.html' %} active{% endif %}">
-                      <a href="/culture" alt="Culture & Creation">Culture & Creation</a>
+                      <a href="/culture" alt="Culture & Creation"><nobr>Culture & Creation</nobr></a>
                     </li>
 
                     <li class="item">

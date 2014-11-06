@@ -25,3 +25,4 @@ assets:
   gzip:
   - text/css
   - application/javascript
+show_ads: false
