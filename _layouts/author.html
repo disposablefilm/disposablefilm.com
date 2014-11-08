@@ -3,7 +3,7 @@ layout: layout
 ---
 
 <div class='tag-index'>
-    <h1 class='title'>Posts tagged with "{{ page.tag }}"</h1>
+    <h1 class='title'>Posts by "{{ page.author }}"</h1>
 
     <div class="share-single">
       {% include share_this.html %}
@@ -11,7 +11,7 @@ layout: layout
 
     <div class="feature-posts">
       {% for post in site.posts %}
-        {% if post.tags contains page.tag %}
+        {% if post.author contains page.author %}
           <div class="feature-post">
             <div class="row">
 

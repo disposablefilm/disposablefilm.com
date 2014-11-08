@@ -18,7 +18,11 @@ related: true
     {% include share_this.html %}
   </div>
 
-  <h1 class='title'>{{ page.title}}</h1>
+  <h1 class='title'>{{ page.title }}</h1>
+
+  {% if page.author %}
+    <h4 class='author text-right'>by <a href="/search/{{ page.author | slugize }}/">{{ page.author }}</a></h4>
+  {% endif %}
 
   <div class='post-body'>
     {{ content }}
@@ -29,4 +33,4 @@ related: true
 
 <hr/>
 <h3>Comments</h3>
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="4" data-width="706"></div>
+<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-num-posts="4" data-width="100%"></div>
