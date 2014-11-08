@@ -7,9 +7,9 @@ tags:
  - competitiveshorts
  - dff
  - landingpage
-image: http://disposablefilm.com/images/watchdff2013.png
-thumb: http://disposablefilm.com/images/watchdff2013.png
-relatedthumb: http://disposablefilm.com/watchdff2013.png
+image: posts/watchdff2013.png
+thumb: posts/watchdff2013.png
+relatedthumb: posts/watchdff2013.png
 blurb: 2013 Disposable Film Festival Competitive Shorts
 ---
 
