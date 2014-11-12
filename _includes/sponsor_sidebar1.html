@@ -1,5 +1,12 @@
 <div class="sidebar-ads sidebar-item">
+  {% if page.category == 'home' %}
+    <h4>Thank you to our sponsors:</h4>
+    <div class="ad-300x250">
+      <a href="/sponsors/" target="_blank"><img alt="11th Hour Project" src="{{ 'major-sponsors.jpg' | asset_path }}" width="300" height="250" style="border: 1px solid #000"></a>
+    </div>
+  {% else %}
   <div class="ad-300x250">
     {% include ad-300x250a.html %}
   </div>
+  {% endif %}
 </div>
