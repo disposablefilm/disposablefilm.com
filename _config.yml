@@ -26,3 +26,6 @@ assets:
   - text/css
   - application/javascript
 show_ads: false
+
+# Outputting
+permalink: /:title.html

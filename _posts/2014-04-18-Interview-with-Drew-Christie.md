@@ -6,9 +6,9 @@ categories:
 tags:
  - dff2014
  - drew christie
-image: posts/Allergy-shot.png
-thumb: posts/Allergy-Thumb.png
-relatedthumb: posts/Allergy-Thumb.png
+image: posts/Allergy-shot.jpg
+thumb: posts/thumbs/Allergy-Thumb.jpg
+relatedthumb: posts/thumbs/Allergy-Thumb.jpg
 video: //player.vimeo.com/video/51325336
 blurb: An interesting Q&A with Drew Christie, creator of the film "Allergy to Originality".
 collections:
