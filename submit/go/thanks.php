@@ -1,7 +1,8 @@
 ---
 layout: static
 title: Film Submissions
-image: posts/2014-marquee.jpg
+image: posts/Screen-Shot-2014-05-30-submit.png
+thumb: posts/thumb-submit.png
 ---
 
 <h1>You Rock!</h1>
