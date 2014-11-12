@@ -10,7 +10,7 @@ relatedthumb: posts/thumbs/10-best-smartphones-for-filmmaking.jpg
 blurb: A review of the 10 most popular mobile cameras for making movies.
 ---
 
-<h4 class="text-center"><a href="/culture/2014/12/26/movie-making-mobile-phones.html">< Back</a></h4>
+<h4 class="text-center"><a href="/movie-making-mobile-phones.html">< Back</a></h4>
 
 <div class="article" style="clear: both">
   <h3>6. Microsoft Lumia 1520</h3>
@@ -51,4 +51,4 @@ blurb: A review of the 10 most popular mobile cameras for making movies.
 </div>
 
 
-<h4 class="text-center"><a href="/culture/2014/12/26/movie-making-mobile-phones.html">< Back</a></h4>
+<h4 class="text-center"><a href="/movie-making-mobile-phones.html">< Back</a></h4>

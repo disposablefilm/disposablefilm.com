@@ -59,4 +59,4 @@ At the DFF we're all about imagination and innovation. We want you to be able to
 <div class="article" style="clear: both">
 </div>
 
-<h4 class="text-center"><a href="/2014/12/26/movie-making-mobile-phones-page-2.html">Next ></a></h4>
+<h4 class="text-center"><a href="/movie-making-mobile-phones-page-2.html">Next ></a></h4>
