@@ -1,21 +1,30 @@
 <div class="sidebar-item sidebar-item-black sidebar-related">
   <h3>Related Content</h3>
-  {% for post in site.related_posts limit:5 %}
-    <div class="related-post">
-      <div class="row">
-        <div class="col-md-4">
-          <a href='{{ post.url }}'>
-            <div class='related-thumb'><img width="110" height="50" src="{{ post.relatedthumb | asset_path }}"></div>
-          </a>
-        </div>
+  {% assign count = 0 %}
+  {% for post in site.related_posts %}
+    {% if post.hide-from-related != true %}
+      {% assign count = count | plus: 1 %}
 
-        <div class="col-md-8">
-          <div class='related-content'>
-            <div class='related-category {{ post.categories }}'></div>
-            <div class="related-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+      {% if count > 5 %}
+        {% break %}
+      {% endif %}
+
+      <div class="related-post">
+        <div class="row">
+          <div class="col-md-4">
+            <a href='{{ post.url }}'>
+              <div class='related-thumb'><img width="110" height="50" src="{{ post.relatedthumb | asset_path }}"></div>
+            </a>
+          </div>
+
+          <div class="col-md-8">
+            <div class='related-content'>
+              <div class='related-category {{ post.categories }}'></div>
+              <div class="related-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    {% endif %}
   {% endfor %}
 </div>
