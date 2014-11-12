@@ -10,7 +10,6 @@ tags:
  - after effects cc
  - warp stabilizer
  - landingpage
- - carousel
 image: posts/How-to.png
 thumb: posts/How-to-thumb.png
 relatedthumb: posts/How-to-thumb.png
@@ -29,7 +28,7 @@ Man, you got to love the warp stabilizer effect in Premiere Pro CS6. What's the 
 
 This is a big game changer in Premiere Pro CS6; the new adjustment layer feature is similar to what you'd find in After Effects and Photoshop. The adjustment layer is an empty layer. Instead of having to apply effects to each clip, as in previous versions, the adjustment layer applies the effect to all layers underneath it - if you want to extend the effect, simply extend the layer. No muss. No fuss. No more wasting time!
 
-<iframe class="youtube" width="620" height="315" src="//www.youtube.com/embed/OJ9NpkbejUk" frameborder="0">  </iframe>
+<iframe class="youtube" width="620" height="315" src="//www.youtube.com/embed/0J9NpkbejUk" frameborder="0">  </iframe>
 
 ##Tutorial - Sync Settings in Creative Cloud with Adobe Premiere Pro CC and After Effects CC
 

@@ -13,9 +13,9 @@ tags:
  - filmfestival
  - 2009
  - DFF
-image: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
-thumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/thumbnails/defaults/default.166x295.jpg
+image: http://i.vimeocdn.com/video/2289012_295x166.jpg
+thumb: http://i.vimeocdn.com/video/2289012_295x166.jpg
+relatedthumb: http://i.vimeocdn.com/video/2289012_295x166.jpg
 
 video: //player.vimeo.com/video/3344391
 collections:

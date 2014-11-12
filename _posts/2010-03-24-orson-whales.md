@@ -20,10 +20,11 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/088/52908866_295.jpg
 video: //player.vimeo.com/video/10225327
 collections:
  - 2010-03-24-competitive-shorts.md
-blurb: Orson Whales, a film by ???.
+blurb: Orson Whales, a film by Alex Itin.
 ---
 
 Orson Whales
+By Alex Itin
 
 Official Selection of Disposable Film Festival 2010
 

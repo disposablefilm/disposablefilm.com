@@ -1,8 +1,11 @@
 ---
 layout: singleton
 title: Una Furtiva Lagrima
-categories: films
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest
@@ -14,7 +17,7 @@ tags:
  - filmfestival
  - 2013
  - DFF
-image: https://secure-b.vimeocdn.com/ts/432/702/432702476_295.jpg
+image: posts/Una-Furtiva-Lagrima-shot.jpg
 thumb: https://secure-b.vimeocdn.com/ts/432/702/432702476_295.jpg
 relatedthumb: https://secure-b.vimeocdn.com/ts/432/702/432702476_295.jpg
 

@@ -20,10 +20,11 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/066/52906619_295.jpg
 video: //player.vimeo.com/video/10225120
 collections:
  - 2010-03-24-competitive-shorts.md
-blurb: Hair and Diamonds, a film by DaveDunn.
+blurb: Hair and Diamonds, a film by Christopher McManus.
 ---
 
 Hair and Diamonds
+By Christopher McManus
 
 Official Selection of Disposable Film Festival 2010
 

@@ -12,7 +12,7 @@ relatedthumb: posts/Allergy-Thumb.png
 video: //player.vimeo.com/video/51325336
 blurb: An interesting Q&A with Drew Christie, creator of the film "Allergy to Originality".
 collections:
- - 2014-12-28-filmmaker-q-and-a.md
+ - 2014-12-27-filmmaker-q-and-a.md
 ---
 
 

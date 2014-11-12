@@ -21,7 +21,7 @@ We've rounded up some of the best mobile film festivals from around the globe. T
 
 
 ### 1. Mobile Film Festival
-One of our absolute favorite festivals is <a href="http://fr.mobilefilmfestival.com" target="_blank">Mobile Film Festival</a> based in Paris. Their 2014 festival is over but keep checking their website for info about submitting for 2015.
+One of our absolute favorite festivals is <a href="http://fr.mobilefilmfestival.com" target="_blank">Mobile Film Festival</a> based in Paris. They are accepting submissions until Jan 5, 2015 for their 2015 festival.
 
 
 ### 2. Cinephone International Smartphone Shortfilm Festival

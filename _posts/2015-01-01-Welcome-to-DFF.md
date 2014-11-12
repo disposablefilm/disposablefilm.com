@@ -6,7 +6,6 @@ categories:
  - culture
  - home
 tags:
- - carousel
  - carlton evans
  - dff
  - DisposableFilm.com

@@ -2,12 +2,10 @@
 layout: static
 title: Film Submissions
 categories:
-  - carousel
   - news
+  - home
 tags:
-  - carousel
   - landing page
-  - carousel
 image: posts/Screen-Shot-2014-05-30-submit.png
 thumb: posts/thumb-submit.png
 ---

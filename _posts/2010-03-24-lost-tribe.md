@@ -20,10 +20,11 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/083/52908315_295.jpg
 video: //player.vimeo.com/video/10225263
 collections:
  - 2010-03-24-competitive-shorts.md
-blurb: Lost Tribe of New York City, a film by ???.
+blurb: Lost Tribe of New York City, a film by Andy and Carol London.
 ---
 
 Lost Tribe of New York City
+By Andy and Carol London
 
 Official Selection of Disposable Film Festival 2010
 

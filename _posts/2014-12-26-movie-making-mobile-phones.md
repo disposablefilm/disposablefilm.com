@@ -7,7 +7,6 @@ categories:
  - culture
 tags:
  - iphone
- - carousel
  - landingpage
  - mobile
  - phones
@@ -47,7 +46,7 @@ At the DFF we're all about imagination and innovation. We want you to be able to
   <h3>4. LG G3</h3>
   <img align="right" src="{{ 'phones/lg-g3.png' | asset_path }}" width="200" alt="LG G3">
   <p>This is LG's latest flagship smartphone model and as such you would expect a top-grade camera inside. Luckily, LG doesn't disappoint. This Android phone has a 5.5-inch screen, 3 GB of RAM, a great 13 megapixel camera inside with optical image stabilization and “phase detection/laser autofocusing.” The G3 is capable of delivering 4160 by 3120 pixels videos. The G3 is available from the top four U.S. carriers.</p>
-  <p><a href="http://www.lg.com/us/mobile-phones/g3." target="_blank">Learn more about the LG G3</a></p>
+  <p><a href="http://www.lg.com/us/mobile-phones/g3" target="_blank">Learn more about the LG G3</a></p>
 </div>
 
 <div class="article" style="clear: both">

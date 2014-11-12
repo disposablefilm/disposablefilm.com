@@ -7,7 +7,6 @@ categories:
  - home
 tags:
  - events
- - carousel
  - brooklyn
  - film
  - screening

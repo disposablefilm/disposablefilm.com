@@ -1,8 +1,11 @@
 ---
 layout: singleton
 title: Les Ongles (The Nails)
-categories: films
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest
@@ -15,7 +18,7 @@ tags:
  - filmfestival
  - 2012
  - DFF
-image: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
+image: posts/Les-Ongles.jpg
 thumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
 relatedthumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
 

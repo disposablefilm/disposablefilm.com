@@ -7,9 +7,9 @@ tags:
  - competitiveshorts
  - dff
  - landingpage
-image: posts/watchdff2013.png
-thumb: posts/watchdff2013.png
-relatedthumb: posts/watchdff2013.png
+image: posts/malaria.jpg
+thumb: posts/thumbs/malaria.jpg
+relatedthumb: posts/thumbs/malaria.jpg
 blurb: 2013 Disposable Film Festival Competitive Shorts
 ---
 

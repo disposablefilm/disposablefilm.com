@@ -1,8 +1,11 @@
 ---
 layout: singleton
 title: Mondo Taurobolium
-categories: films
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

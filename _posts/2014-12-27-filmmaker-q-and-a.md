@@ -9,7 +9,6 @@ tags:
  - director
  - interview
  - landingpage
- - carousel
  - q&a
 video: //player.vimeo.com/video/81601719
 image: http://www.shustersound.com/neve88d.jpg

@@ -1,9 +1,11 @@
 ---
 layout: singleton
-title: |
-  Splitscreen: A Love Story
-categories: films
+title: "Splitscreen: A Love Story"
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest
@@ -16,7 +18,7 @@ tags:
  - filmfestival
  - 2012
  - DFF
-image: https://secure-b.vimeocdn.com/ts/270/990/270990865_295.jpg
+image: posts/Split-Screen.jpg
 thumb: https://secure-b.vimeocdn.com/ts/270/990/270990865_295.jpg
 relatedthumb: https://secure-b.vimeocdn.com/ts/270/990/270990865_295.jpg
 
