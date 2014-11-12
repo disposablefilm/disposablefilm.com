@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/269/815/2698157_295.jpg
 
 video: //player.vimeo.com/video/3386035
 collections:
- - 2009-03-24-competitive-shorts.md
+ - 2009-03-24-2009-competitive-shorts.md
 blurb: Polyethylene, a film by Alex Itin.
 ---
 

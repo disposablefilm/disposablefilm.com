@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/090/52909009_295.jpg
 
 video: //player.vimeo.com/video/10225347
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: Heavy Metal Parking Lot, a film by Leslie Supnet.
 ---
 

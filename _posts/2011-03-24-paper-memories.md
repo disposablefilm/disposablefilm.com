@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/140/009/140009318_295.jpg
 
 video: //player.vimeo.com/video/21733182
 collections:
- - 2011-03-24-competitive-shorts.md
+ - 2011-03-24-2011-competitive-shorts.md
 blurb: Paper Memories, a film by Theo Putzu.
 ---
 

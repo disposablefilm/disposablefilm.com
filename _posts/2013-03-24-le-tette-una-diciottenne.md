@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/692/432692768_295.jpg
 
 video: //player.vimeo.com/video/62719249
 collections:
- - 2013-03-24-competitive-shorts.md
+ - 2013-03-24-2013-competitive-shorts.md
 blurb: Le Tette Di Una Diciottenne, a film by Luca Gennari.
 ---
 

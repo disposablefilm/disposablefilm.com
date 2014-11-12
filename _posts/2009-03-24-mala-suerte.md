@@ -19,7 +19,7 @@ relatedthumb: http://i.vimeocdn.com/video/2289012_295x166.jpg
 
 video: //player.vimeo.com/video/3344391
 collections:
- - 2009-03-24-competitive-shorts.md
+ - 2009-03-24-2009-competitive-shorts.md
 blurb: Mala Suerte, a film by Nuno Filipe.
 ---
 

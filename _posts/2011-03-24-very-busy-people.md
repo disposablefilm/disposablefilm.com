@@ -22,7 +22,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/141/893/141893923_295.jpg
 
 video: //player.vimeo.com/video/22002510
 collections:
- - 2011-03-24-competitive-shorts.md
+ - 2011-03-24-2011-competitive-shorts.md
 blurb: Fan Video - The Limousines - Very Busy People, a film by Mathieu Wothke.
 ---
 

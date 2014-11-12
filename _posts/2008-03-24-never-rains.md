@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/586/722/58672296_295.jpg
 
 video: //player.vimeo.com/video/1398033
 collections:
- - 2008-03-24-competitive-shorts.md
+ - 2008-03-24-2008-competitive-shorts.md
 blurb: It Never Rains in Los Angeles, a film by Ishai Setton.
 ---
 

@@ -21,7 +21,7 @@ thumb: posts/how-to-catch-thumb.png
 relatedthumb: posts/how-to-catch-thumb.png
 video: //player.vimeo.com/video/73486778
 collections:
- - 2014-12-31-competitive-shorts.md
+ - 2014-12-31-2014-competitive-shorts.md
 blurb: How to Catch a Bird, a film by Vera Van Wolferen.
 ---
 

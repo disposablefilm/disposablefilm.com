@@ -21,7 +21,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/685/432685639_295.jpg
 
 video: //player.vimeo.com/video/62714288
 collections:
- - 2013-03-24-competitive-shorts.md
+ - 2013-03-24-2013-competitive-shorts.md
 blurb: The International Banana Museum, a film by Gregory Mitnick.
 ---
 

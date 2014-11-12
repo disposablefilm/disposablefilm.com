@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/052/52905282_295.jpg
 
 video: //player.vimeo.com/video/10225014
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: Atlantico, a film by Andre Hime & Huila Gomes.
 ---
 

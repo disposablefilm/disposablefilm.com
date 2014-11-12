@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
 
 video: //player.vimeo.com/video/62714383
 collections:
- - 2013-03-24-competitive-shorts.md
+ - 2013-03-24-2013-competitive-shorts.md
 blurb: Tap to Retry, a film by Neta Cohen.
 ---
 

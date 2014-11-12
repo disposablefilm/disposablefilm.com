@@ -19,7 +19,7 @@ relatedthumb: https://i.vimeocdn.com/video/137157_295x166.jpg
 
 video: //player.vimeo.com/video/3125531
 collections:
- - 2009-03-24-competitive-shorts.md
+ - 2009-03-24-2009-competitive-shorts.md
 blurb: A Dog's Dream , a film by Daniel Otero.
 ---
 

@@ -21,7 +21,7 @@ thumb: posts/Ballpoint-thumb.png
 relatedthumb: posts/Ballpoint-thumb.png
 video: //player.vimeo.com/video/74068427
 collections:
- - 2014-12-31-competitive-shorts.md
+ - 2014-12-31-2014-competitive-shorts.md
 blurb: Ballpoint Barber, a film by Peter Simon.
 ---
 

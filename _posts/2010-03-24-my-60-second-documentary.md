@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/090/52909096_295.jpg
 
 video: //player.vimeo.com/video/10225363
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: My 60 Second Documentary of the Stuff What is in This Room, a film by Ryd Cook.
 ---
 

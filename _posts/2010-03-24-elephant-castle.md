@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/030/52903025_295.jpg
 
 video: //player.vimeo.com/video/10224679
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: Filip A Guinea - The Elephant and Castle, a film by Roderick Coover & Nick Montfort.
 ---
 

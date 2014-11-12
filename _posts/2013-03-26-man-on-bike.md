@@ -24,7 +24,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/432/702/432702064_295.jpg
 
 video: //player.vimeo.com/video/62719572
 collections:
- - 2013-03-24-competitive-shorts.md
+ - 2013-03-24-2013-competitive-shorts.md
 blurb: The Man Who Lived On His Bike, a film by Guillaume Blanchet.
 ---
 

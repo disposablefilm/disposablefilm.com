@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/258/711/2587117_295.jpg
 
 video: //player.vimeo.com/video/3374313
 collections:
- - 2009-03-24-competitive-shorts.md
+ - 2009-03-24-2009-competitive-shorts.md
 blurb: Passing By, a film by Adam Pitel.
 ---
 

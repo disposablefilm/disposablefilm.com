@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/271/989/271989593_295.jpg
 
 video: //player.vimeo.com/video/39435539
 collections:
- - 2012-03-24-competitive-shorts.md
+ - 2012-03-24-2012-competitive-shorts.md
 blurb: PROTÉIGON, a film by Steven Briand.
 ---
 

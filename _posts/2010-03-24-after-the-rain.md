@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/052/52905201_295.jpg
 
 video: //player.vimeo.com/video/10225002
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: After the Rain, a film by Karen Abad.
 ---
 

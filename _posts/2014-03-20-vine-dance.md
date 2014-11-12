@@ -22,7 +22,7 @@ thumb: posts/vine-dance-thumb.png
 relatedthumb: posts/vine-dance-thumb.png
 video: //player.vimeo.com/video/75801418
 collections:
- - 2014-12-31-competitive-shorts.md
+ - 2014-12-31-2014-competitive-shorts.md
 blurb: Vine Dance Compilation, a film by Natalie Asarisi, Jacquelyn Daley Dempsey, Kelly Ewing, Melissa Ojeda, Marguerite Pape, Victoria Tolley, Amy Trout, Elissa Tuerk, Kelisa Valinote.
 ---
 

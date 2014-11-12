@@ -21,7 +21,7 @@ thumb: posts/dance-motherfucker-thumb.png
 relatedthumb: posts/dance-motherfucker-thumb.png
 video: //player.vimeo.com/video/83797720
 collections:
- - 2014-12-31-competitive-shorts.md
+ - 2014-12-31-2014-competitive-shorts.md
 blurb: Dance Motherfucker, a film by Christian Kousmanen, Matthew Lessner, Gustav Sundstrom and Vedran Rupic.
 ---
 

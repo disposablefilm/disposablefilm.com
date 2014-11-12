@@ -20,7 +20,7 @@ thumb: posts/What-do-we-have-thumb.png
 relatedthumb: posts/What-do-we-have-thumb.png
 video: //player.youtube.com/watch?v=6qrwwM1Hgwk
 collections:
- - 2014-12-31-competitive-shorts.md
+ - 2014-12-31-2014-competitive-shorts.md
 blurb: What Do We Have in Our Pockets, a film by Goran Dukic.
 ---
 

@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/141/966/141966814_295.jpg
 
 video: //player.vimeo.com/video/22013523
 collections:
- - 2011-03-24-competitive-shorts.md
+ - 2011-03-24-2011-competitive-shorts.md
 blurb: Tabloid Phoenix, a film by Chris Ritson.
 ---
 

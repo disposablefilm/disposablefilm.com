@@ -20,7 +20,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/529/081/52908152_295.jpg
 
 video: //player.vimeo.com/video/10225245
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: My Fantastic Movie, a film by Daniel Eskils.
 ---
 

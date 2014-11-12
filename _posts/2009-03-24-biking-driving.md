@@ -21,7 +21,7 @@ relatedthumb: https://i.vimeocdn.com/video/124453_295x166.jpg
 
 video: //player.vimeo.com/video/3124273
 collections:
- - 2009-03-24-competitive-shorts.md
+ - 2009-03-24-2009-competitive-shorts.md
 blurb: Biking/Driving/Shooting, a film by Reid Bingham and Colin Challender.
 ---
 

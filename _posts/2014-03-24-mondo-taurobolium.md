@@ -24,7 +24,7 @@ thumb: posts/thumbs/2014-competitive-shorts.jpg
 relatedthumb: posts/thumbs/2014-competitive-shorts.jpg
 video: //player.vimeo.com/video/81601719
 collections:
- - 2014-12-31-competitive-shorts.md
+ - 2014-12-31-2014-competitive-shorts.md
 blurb: Mondo Taurobolium, a film by Galen Pehrson.
 ---
 

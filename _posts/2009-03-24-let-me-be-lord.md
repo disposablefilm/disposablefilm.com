@@ -19,7 +19,7 @@ relatedthumb: https://i.vimeocdn.com/video/415866_295x166.jpg
 
 video: //player.vimeo.com/video/3155560
 collections:
- - 2009-03-24-competitive-shorts.md
+ - 2009-03-24-2009-competitive-shorts.md
 blurb: Janine, Let Me Be Lord, a film by OJ Briggs.
 ---
 

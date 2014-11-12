@@ -19,7 +19,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/586/486/58648629_295.jpg
 
 video: //player.vimeo.com/video/1395756
 collections:
- - 2008-03-24-competitive-shorts.md
+ - 2008-03-24-2008-competitive-shorts.md
 blurb: How Memory Works, a film by Jason File.
 ---
 

@@ -21,7 +21,7 @@ relatedthumb: https://secure-b.vimeocdn.com/ts/433/497/433497915_295.jpg
 
 video: //player.vimeo.com/video/62715004
 collections:
- - 2013-03-24-competitive-shorts.md
+ - 2013-03-24-2013-competitive-shorts.md
 blurb: Zombinladen - The Axis of Evil Dead, a film by Clement Deneux.
 ---
 

@@ -19,7 +19,7 @@ thumb: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
 relatedthumb: https://secure-b.vimeocdn.com/ts/529/047/52904744_295.jpg
 video: //player.vimeo.com/video/10224948
 collections:
- - 2010-03-24-competitive-shorts.md
+ - 2010-03-24-2010-competitive-shorts.md
 blurb: Toilet Paper Animation, a film by Christophe Jordache.
 ---
 
