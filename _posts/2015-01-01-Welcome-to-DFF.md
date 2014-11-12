@@ -14,7 +14,7 @@ image: posts/welcome-to-dff.jpg
 thumb: posts/thumbs/welcome-to-dff.jpg
 relatedthumb: posts/thumbs/welcome-to-dff.jpg
 blurb: Welcome to DisposableFilm.com; the digital home of the Disposable Film Festival. The DFF is dedicated to celebrating short film made using every day technology. As long as it’s innovative, imaginative and non professional we want you to share your films with us so we can share them with the world.
-author: Matthew Sullivan-Pond
+author: MSP
 ---
 
 Welcome to DisposableFilm.com; the digital home of the Disposable Film Festival. The DFF is dedicated to celebrating short film made using every day technology. As long as it’s innovative, imaginative and non professional we want you to share your films with us so we can share them with the world.

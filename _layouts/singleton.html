@@ -20,13 +20,13 @@ related: true
 
   <h1 class='title'>{{ page.title }}</h1>
 
-  {% if page.author %}
-    <h4 class='author text-right'>by <a href="/search/{{ page.author | slugize }}/">{{ page.author }}</a></h4>
-  {% endif %}
-
   <div class='post-body'>
     {{ content }}
   </div>
+
+  {% if page.author %}
+    <h4 class='author'> - <a href="/search/{{ page.author | slugize }}/">{{ page.author }}</a></h4>
+  {% endif %}
 
   {% include tags.html %}
 </div>
