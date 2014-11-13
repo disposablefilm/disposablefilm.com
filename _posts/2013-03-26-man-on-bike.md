@@ -19,8 +19,8 @@ tags:
  - DFF
  - bicycle
 image: posts/Man-Riding-Bike.jpg
-thumb: https://secure-b.vimeocdn.com/ts/432/702/432702064_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/432/702/432702064_295.jpg
+thumb: posts/432702064_295.jpg
+relatedthumb: posts/432702064_295.jpg
 
 video: //player.vimeo.com/video/62719572
 collections:

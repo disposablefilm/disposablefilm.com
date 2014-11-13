@@ -15,9 +15,9 @@ tags:
  - 2013
  - DFF
  - cats
-image: https://secure-b.vimeocdn.com/ts/433/497/433497915_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/433/497/433497915_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/433/497/433497915_295.jpg
+image: posts/433497915_295.jpg
+thumb: posts/433497915_295.jpg
+relatedthumb: posts/433497915_295.jpg
 
 video: //player.vimeo.com/video/62715004
 collections:

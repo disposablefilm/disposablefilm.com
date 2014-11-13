@@ -11,7 +11,7 @@ tags:
  - tutorial
  - warp stabilizer
 video: //www.youtube.com/embed/0J9NpkbejUk
-image: posts/How-to.png
+image: posts/How-to.jpg
 thumb: posts/thumbs/adobe-premiere-new-adjustment-layers.jpg
 relatedthumb: posts/thumbs/adobe-premiere-new-adjustment-layers.jpg
 blurb: This is a big game changer in Premiere Pro CS6; the new adjustment layer feature is similar to what you'd find in After Effects and Photoshop.

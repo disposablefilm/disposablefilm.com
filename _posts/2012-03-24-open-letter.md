@@ -14,9 +14,9 @@ tags:
  - filmfestival
  - 2012
  - DFF
-image: https://secure-b.vimeocdn.com/ts/271/935/271935665_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/271/935/271935665_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/271/935/271935665_295.jpg
+image: posts/271935665_295.jpg
+thumb: posts/271935665_295.jpg
+relatedthumb: posts/271935665_295.jpg
 
 video: //player.vimeo.com/video/39427964
 collections:

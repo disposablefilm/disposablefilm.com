@@ -8,6 +8,28 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
 
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="twitter:title" content="{{ page.title }}" />
+    {% endif %}
+
+    {% if page.blurb %}
+    <meta property="og:description" content="{{ page.blurb }}" />
+    <meta property="twitter:description" content="{{ page.blurb }}" />
+    {% endif %}
+
+    {% if page.thumb %}
+    <meta property="og:image" content="http://disposablefilm.com{{ page.thumb | asset_path }}" />
+    <meta property="twitter:image" content="http://disposablefilm.com{{ page.thumb | asset_path }}" />
+    {% endif %}
+
+    <meta name="twitter:card" content="summary">
+    <meta property="og:type" content="movie" />
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="twitter:url" content="{{ page.url }}" />
+    <meta property="og:site_name" content="Disposable Film" />
+    <meta property="fb:admins" content="31378810601"/>
+
     <!-- Custom CSS -->
     {% stylesheet application %}
 
@@ -23,14 +45,23 @@
     {% endif %}
 
   <body class="page-{{ page.title | downcase | replace:" ", "-" | replace:":","-" }}">
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=119121714828796";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '119121714828796',
+          xfbml      : true,
+          version    : 'v2.2'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
 
       <div id="topbar">
         <div class="container">

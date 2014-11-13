@@ -9,7 +9,7 @@ tags:
  - tutorial
  - adobe premiere pro cc
 video: //www.youtube.com/embed/wK3JTh2jOf8
-image: posts/How-to.png
+image: posts/How-to.jpg
 thumb: posts/thumbs/premiereprocc.jpg
 relatedthumb: posts/thumbs/premiereprocc.jpg
 blurb: Check out some valuable tips on how to get started with Adobe Premiere Pro CC and editing video.
