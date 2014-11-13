@@ -14,9 +14,9 @@ tags:
  - filmfestival
  - 2011
  - DFF
-image: https://secure-b.vimeocdn.com/ts/141/966/141966814_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/141/966/141966814_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/141/966/141966814_295.jpg
+image: posts/141966814_295.jpg
+thumb: posts/141966814_295.jpg
+relatedthumb: posts/141966814_295.jpg
 
 video: //player.vimeo.com/video/22013523
 collections:

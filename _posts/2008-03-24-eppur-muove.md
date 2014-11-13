@@ -13,9 +13,9 @@ tags:
  - filmfestival
  - 2008
  - DFF
-image: https://secure-b.vimeocdn.com/ts/583/986/58398663_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/583/986/58398663_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/583/986/58398663_295.jpg
+image: posts/58398663_295.jpg
+thumb: posts/58398663_295.jpg
+relatedthumb: posts/58398663_295.jpg
 
 video: //player.vimeo.com/video/1361849
 collections:

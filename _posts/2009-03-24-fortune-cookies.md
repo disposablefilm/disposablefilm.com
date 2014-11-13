@@ -14,9 +14,9 @@ tags:
  - 2009
  - DFF
  - food
-image: https://i.vimeocdn.com/video/405814_295x166.jpg
-thumb: https://i.vimeocdn.com/video/405814_295x166.jpg
-relatedthumb: https://i.vimeocdn.com/video/405814_295x166.jpg
+image: posts/405814_295x166.jpg
+thumb: posts/405814_295x166.jpg
+relatedthumb: posts/405814_295x166.jpg
 
 video: //player.vimeo.com/video/3154785
 collections:

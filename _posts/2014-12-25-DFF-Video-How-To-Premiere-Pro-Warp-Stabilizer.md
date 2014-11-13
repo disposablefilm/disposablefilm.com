@@ -9,7 +9,7 @@ tags:
  - adobe premiere pro cc
  - warp stabilizer
 video: //www.youtube.com/embed/sx9Zu5GrSi8
-image: posts/How-to.png
+image: posts/How-to.jpg
 thumb: posts/thumbs/premiere-pro-warp-stabilizer.jpg
 relatedthumb: posts/thumbs/premiere-pro-warp-stabilizer.jpg
 blurb: The Warp Stabilizer repairs cam footage by applying the effect; result in in what looks like a smooth steady cam.

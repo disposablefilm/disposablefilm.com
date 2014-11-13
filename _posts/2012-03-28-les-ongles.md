@@ -19,8 +19,8 @@ tags:
  - 2012
  - DFF
 image: posts/Les-Ongles.jpg
-thumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/271/379/271379274_295.jpg
+thumb: posts/271379274_295.jpg
+relatedthumb: posts/271379274_295.jpg
 
 video: //player.vimeo.com/video/39302748
 collections:

@@ -11,7 +11,7 @@ tags:
  - tutorial
  - after effects cc
 video: //www.youtube.com/embed/PYNt5cYIyeg
-image: posts/How-to.png
+image: posts/How-to.jpg
 thumb: posts/thumbs/how-to-sync-settings.jpg
 relatedthumb: posts/thumbs/how-to-sync-settings.jpg
 blurb: Check out the Sync Settings feature in After Effects CC and Adobe Premiere Pro CC.

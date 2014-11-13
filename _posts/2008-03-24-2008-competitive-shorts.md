@@ -7,9 +7,9 @@ tags:
  - competitiveshorts
  - landingpage
  - dff
-image: https://secure-b.vimeocdn.com/ts/273/036/273036818_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/273/036/273036818_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/273/036/273036818_295.jpg
+image: posts/273036818_295.jpg
+thumb: posts/273036818_295.jpg
+relatedthumb: posts/273036818_295.jpg
 blurb: 2008 Disposable Film Festival Competitive Shorts.
 ---
 

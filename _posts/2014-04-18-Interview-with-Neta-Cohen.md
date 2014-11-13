@@ -8,9 +8,9 @@ tags:
  - Neta Cohen
 
 video: //player.vimeo.com/video/62714383
-image: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
+image: posts/432685878_295.jpg
+thumb: posts/432685878_295.jpg
+relatedthumb: posts/432685878_295.jpg
 blurb: An interesting Q&A with Neta Cohen, creator of the film "Tap to Retry".
 collections:
  - 2014-12-27-filmmaker-q-and-a.md

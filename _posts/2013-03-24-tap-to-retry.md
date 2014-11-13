@@ -14,9 +14,9 @@ tags:
  - filmfestival
  - 2013
  - DFF
-image: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/432/685/432685878_295.jpg
+image: posts/432685878_295.jpg
+thumb: posts/432685878_295.jpg
+relatedthumb: posts/432685878_295.jpg
 
 video: //player.vimeo.com/video/62714383
 collections:

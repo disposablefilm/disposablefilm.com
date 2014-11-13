@@ -13,9 +13,9 @@ tags:
  - filmfestival
  - 2010
  - DFF
-image: https://secure-b.vimeocdn.com/ts/529/066/52906619_295.jpg
-thumb: https://secure-b.vimeocdn.com/ts/529/066/52906619_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/529/066/52906619_295.jpg
+image: posts/52906619_295.jpg
+thumb: posts/52906619_295.jpg
+relatedthumb: posts/52906619_295.jpg
 
 video: //player.vimeo.com/video/10225120
 collections:

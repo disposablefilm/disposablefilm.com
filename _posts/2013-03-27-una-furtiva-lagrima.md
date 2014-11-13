@@ -18,8 +18,8 @@ tags:
  - 2013
  - DFF
 image: posts/Una-Furtiva-Lagrima-shot.jpg
-thumb: https://secure-b.vimeocdn.com/ts/432/702/432702476_295.jpg
-relatedthumb: https://secure-b.vimeocdn.com/ts/432/702/432702476_295.jpg
+thumb: posts/432702476_295.jpg
+relatedthumb: posts/432702476_295.jpg
 
 video: //player.vimeo.com/video/62719574
 collections:
