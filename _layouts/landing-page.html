@@ -6,7 +6,7 @@ layout: layout
   <div class='video'>
     <iframe class="marquee-video" src="{{ page.video }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
-  {% else if page.image %}
+  {% elsif page.image %}
   <div class='image'>
     <img class="img-responsive" src='{{ page.image | asset_path }}'>
   </div>
