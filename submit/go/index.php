@@ -146,7 +146,8 @@ if (array_key_exists('Submission', $_REQUEST))
 
 				sendConfirmationEmail($_REQUEST);
 				sendSubmissionEmail($_REQUEST);
-				header('Location: /submit/' . $submissionFormFolder . '/thanks.php');
+				header('Location: http://disposablefilm.com/submit/' . $submissionFormFolder . '/thanks.php');
+				exit;
 			}
 			else
 			{
