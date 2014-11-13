@@ -10,23 +10,23 @@
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
     {% if page.blurb %}
     <meta property="og:description" content="{{ page.blurb }}" />
-    <meta property="twitter:description" content="{{ page.blurb }}" />
+    <meta name="twitter:description" content="{{ page.blurb }}" />
     {% endif %}
 
     {% if page.image %}
     <meta property="og:image" content="http://disposablefilm.com{{ page.image | asset_path }}" />
-    <meta property="twitter:image" content="http://disposablefilm.com{{ page.image | asset_path }}" />
+    <meta name="twitter:image" content="http://disposablefilm.com{{ page.image | asset_path }}" />
     {% endif %}
 
     <meta name="twitter:card" content="summary">
     <meta property="og:type" content="movie" />
     <meta property="og:url" content="http://disposablefilm.com{{ page.url }}" />
-    <meta property="twitter:url" content="http://disposablefilm.com{{ page.url }}" />
+    <meta name="twitter:url" content="http://disposablefilm.com{{ page.url }}" />
     <meta property="og:site_name" content="Disposable Film" />
     <meta property="fb:app_id" content="119121714828796"/>
 

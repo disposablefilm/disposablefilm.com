@@ -146,7 +146,7 @@ if (array_key_exists('Submission', $_REQUEST))
 
 				sendConfirmationEmail($_REQUEST);
 				sendSubmissionEmail($_REQUEST);
-				header('Location: http://disposablefilm.com/submit/' . $submissionFormFolder . '/thanks.php');
+				header('Location: /submit/' . $submissionFormFolder . '/thanks.php');
 			}
 			else
 			{
@@ -437,7 +437,7 @@ Thanks for submitting your film to the 2015 Disposable Film Festival!
 
 Your film is currently under review and if selected, you will be notified no later than February 15th, 2015 with an email explaining how to get us the uncompressed file we need.
 
-In the meantime, check out our Footage Free For All group on Vimeo at <http://www.vimeo.com/groups/dff>, a Creative Commons of disposable footage, and be sure be our fans on Facebook at <http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601>.
+In the meantime, check out all our films at <http://disposablefilm.com> and be sure to like us on Facebook at <https://www.facebook.com/DISPOSABLEFILMFESTIVAL>.
 
 If you have any questions, you can contact us at info@disposablefilmfest.com
 
