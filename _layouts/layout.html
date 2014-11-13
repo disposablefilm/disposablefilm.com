@@ -45,6 +45,7 @@
     {% endif %}
 
   <body class="page-{{ page.title | downcase | replace:" ", "-" | replace:":","-" }}">
+    <div id="fb-root"></div>
     <script>
       window.fbAsyncInit = function() {
         FB.init({
