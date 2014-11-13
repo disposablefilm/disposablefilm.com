@@ -12,9 +12,9 @@ tags:
  - sync settings
  - landingpage
  - tutorial
-image: posts/How-to.png
-thumb: posts/How-to-thumb.png
-relatedthumb: posts/How-to-thumb.png
+image: posts/How-to.jpg
+thumb: posts/thumbs/How-to.jpg
+relatedthumb: posts/thumbs/How-to.jpg
 blurb: Learn the tricks of the trade in these helpful how-to tutorials
 ---
 
