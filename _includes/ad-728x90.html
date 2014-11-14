@@ -1,15 +1,20 @@
-{% if site.show_ads %}
-  <!-- Leaderboard -->
-  <ins class="adsbygoogle"
-       style="display:inline-block;width:728px;height:90px"
-       data-ad-client="ca-pub-9204806821782483"
-       data-ad-slot="2235621851"></ins>
+<div class="footer-leader-board">
+  <style>
+    .site-footer { width: 320px; height: 50px; }
+    @media(min-width: 500px) { .site-footer { width: 468px; height: 60px; } }
+    @media(min-width: 800px) { .site-footer { width: 728px; height: 90px; } }
+  </style>
+  {% if site.show_ads %}
+  <!-- Site Footer -->
+  <ins class="adsbygoogle site-footer"
+     style="display:inline-block"
+     data-ad-client="ca-pub-9204806821782483"
+     data-ad-slot="5459139859"></ins>
   <script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
+    (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
-{% else %}
-  <img src="{{ 'ad-728x90.jpg' | asset_path }}">
-{% endif %}
-
-
+  {% else %}
+    <img class="site-footer" src="{{ 'ad-728x90.jpg' | asset_path }}">
+  {% endif %}
+</div>
 

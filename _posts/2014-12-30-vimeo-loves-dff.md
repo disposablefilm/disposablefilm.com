@@ -18,7 +18,7 @@ tags:
 image: posts/vimeo-loves-dff.jpg
 thumb: posts/thumbs/vimeo-loves-dff.jpg
 relatedthumb: posts/thumbs/vimeo-loves-dff.jpg
-blurb:  Vimeo loves the DFF and we love Vimeo!! These wonderful people want to share the love by offering you a special DFF 10% discount when signing up to Vimeo Pro.
+blurb:  The wonderful people at DFF want to share the love by offering you a special DFF 10% discount when signing up to Vimeo Pro.
 ---
 
 Vimeo loves the DFF and we love Vimeo!! These wonderful people want to share the love by offering you a special DFF 10% discount when signing up to <a href="http://vimeo.com/pro" target="_blank">Vimeo Pro</a>.
