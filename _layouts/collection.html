@@ -27,24 +27,7 @@ related: true
       {% for collection in post.collections %}
         {% capture collection_path %}_posts/{{ collection }}{% endcapture %}
           {% if collection_path == page.path %}
-            <div class="feature-post">
-              <div class="row">
-
-                <div class="col-xs-5 col-sm-4">
-                  <a href='{{ post.url }}'>
-                    <img class="img-responsive" src='{{ post.thumb | asset_path }}' width="220" height="100">
-                  </a>
-                </div>
-
-                <div class="col-xs-7 col-sm-8">
-                  <div class='feature-content'>
-                    <div class='feature-category {{ post.categories }}'></div>
-                    <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
-                    <div class="feature-blurb">{{ post.blurb }}</div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            {% include post_list.html %}
           {% endif %}
       {% endfor %}
     {% endfor %}
