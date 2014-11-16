@@ -1,5 +1,6 @@
 @import 'constants';
 @import 'mixins';
+@import "lib/bootstrap-3.0.3/_variables";
 
 body
 {
@@ -28,13 +29,9 @@ body
 
       .feature-content
       {
-        padding-left: 18px;
-
         .feature-title
         {
-          font-size: 21px;
           margin: 0 0 9px 0;
-          line-height: 21px;
           text-transform: uppercase;
         }
 
@@ -284,6 +281,61 @@ body
     h1
     {
       text-align: center;
+    }
+  }
+}
+
+@media (min-width: $screen-lg)
+{
+  body
+  {
+    .feature-posts
+    {
+      .feature-post
+      {
+        .feature-content
+        {
+          padding-left: 0;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: $screen-sm)
+{
+  .feature-content
+  {
+    padding-left: 18px;
+
+    .feature-title
+    {
+      font-size: 21px;
+      line-height: 21px;
+    }
+
+    .feature-blurb
+    {
+      font-size: 14px;
+    }
+  }
+}
+
+@media (max-width: $screen-sm-max)
+{
+  .feature-content
+  {
+    padding-left: 0;
+
+    .feature-title
+    {
+      font-size: 18px;
+      line-height: 18px;
+    }
+
+    .feature-blurb
+    {
+      font-size: 12px;
     }
   }
 }

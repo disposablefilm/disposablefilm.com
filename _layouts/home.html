@@ -23,9 +23,9 @@ layout: layout
     {% for post in site.tags.carousel %}
       {% if post.categories contains 'home' %}
         {% if counter == 0 %}
-          <div class='item active' style="width: 750px; height: 300px; background-image: url('{{ post.image | asset_path }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
+          <div class='item active' style="width: 750px; height: 300px; background-image: url('{{ post.image | asset_path }}'); background-size: 100%; background-position: center bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
         {% else %}
-          <div class='item' style="width: 750px; height: 300px; background-image: url('{{ post.image | asset_path }}'); background-size: 100%; background-position: left bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
+          <div class='item' style="width: 750px; height: 300px; background-image: url('{{ post.image | asset_path }}'); background-size: 100%; background-position: center bottom; background-repeat: no-repeat;" onclick="document.location = '{{ post.url }}';return false;">
         {% endif %}
             <div class='carousel-caption {{ post.categories }}'>
               <div class="title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
@@ -52,13 +52,13 @@ layout: layout
         <div class="feature-post">
           <div class="row">
 
-            <div class="col-xs-4">
+            <div class="col-xs-5 col-sm-4">
               <a href='{{ post.url }}'>
                 <img class="img-responsive" src='{{ post.thumb | asset_path }}' width="220" height="100">
               </a>
             </div>
 
-            <div class="col-xs-8">
+            <div class="col-xs-7 col-sm-8">
               <div class='feature-content'>
                 <div class='feature-category {{ post.categories | join: ' ' }}'></div>
                 <div class="feature-title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
