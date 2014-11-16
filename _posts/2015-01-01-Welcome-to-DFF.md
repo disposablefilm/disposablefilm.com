@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: Welcome to DisposableFilm.com
+title: Welcome to DisposableFilm
 categories:
  - news
  - culture
