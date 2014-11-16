@@ -302,7 +302,7 @@ body
   }
 }
 
-@media (min-width: $screen-sm)
+@media (min-width: $screen-xs)
 {
   .feature-content
   {
@@ -321,7 +321,7 @@ body
   }
 }
 
-@media (max-width: $screen-sm-max)
+@media (max-width: $screen-xs-max)
 {
   .feature-content
   {
