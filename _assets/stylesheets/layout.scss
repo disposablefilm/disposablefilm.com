@@ -1,5 +1,6 @@
 @import 'constants';
 @import 'mixins';
+@import "lib/bootstrap-3.0.3/_variables";
 
 body
 {
@@ -252,5 +253,13 @@ body
   .footer
   {
     margin-top: 32px;
+  }
+}
+
+@media (max-width: $screen-sm-max)
+{
+  .copyright
+  {
+    margin-bottom: 21px;
   }
 }
