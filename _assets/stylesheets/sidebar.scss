@@ -1,5 +1,6 @@
 @import 'constants';
 @import 'mixins';
+@import "lib/bootstrap-3.0.3/_variables";
 
 body
 {
@@ -105,13 +106,14 @@ body
   }
 }
 
-@media (max-width: 767px)
+@media (max-width: $screen-sm-max)
 {
   body
   {
     .sidebar
     {
-      width: 100%;
+      float: none;
+      margin: auto;
     }
   }
 }
