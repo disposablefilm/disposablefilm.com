@@ -1,0 +1,25 @@
+@import "lib/bootstrap-3.0.3/_variables";
+
+.site-footer
+{
+  width: 320px;
+  height: 50px;
+}
+
+@media(min-width: $screen-xs-min)
+{
+  .site-footer
+  {
+    width: 468px;
+    height: 60px;
+  }
+}
+
+@media(min-width: $screen-sm-min)
+{
+  .site-footer
+  {
+    width: 728px;
+    height: 90px;
+  }
+}
