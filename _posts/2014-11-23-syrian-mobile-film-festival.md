@@ -3,6 +3,7 @@ layout: singleton
 title: Syria's Mobile Phone Films Festival
 categories:
  - news
+ - home
 tags:
  - landingpage
  - syria
