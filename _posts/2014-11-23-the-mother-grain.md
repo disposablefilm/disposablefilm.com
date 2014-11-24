@@ -4,6 +4,7 @@ title: "Documentary: The Mother Grain by Michael Wilcox"
 categories:
  - news
  - culture
+ - home
 tags:
  - landingpage
  - documentary
@@ -16,7 +17,7 @@ relatedthumb: posts/thumbs/the-mother-grain.jpg
 blurb: One of the things we value about being able to shoot with the camera in our pocket and share with the world is that issues are brought to the public's attention that would normally go unheard.
 ---
 
-One of the things we value about being able to shoot with the camera in our pocket and share with the world is that issues are brought to the public's attention that would normally go unheard, little corners of the planet that were previously hidden have been exposed, injustices highlighted and important developments effecting human lives is addressed.
+One of the things we value about being able to shoot with the camera in our pocket and share with the world is that issues are brought to the public's attention that would normally go unheard, little corners of the planet that were previously hidden have been exposed, injustices highlighted and important developments effecting human lives are addressed.
 
 <img align="center" class="img-responsive" src="{{ 'posts/mother-grain-people.jpg' | asset_path }}" width="750" alt="Mother Grain People">
 
