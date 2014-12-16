@@ -20,7 +20,7 @@ If you haven’t been living in a cave without Wifi the last few years, you’ll
 Let’s cut to the chase; what are the top 5 movie making apps out there (according to me who is writing this article)? It’s a slight subjective question, depending on your tastes – but you certainly wont be disappointed with these apps which will help up your smartphone movie making game:
 
 ### 1. <a href="http://www.kinemaster.com/" target="_blank">Kinemaster</a>
-Unleash your creativity with an extensible library of various themes and cutting edge special effects. Kinemaster grants you the power of professional video editing in the palm of your hand.
+With so many iphone and iOS apps out there it's refreshing to see something so impressive on offer to  the rest of us. KineMaster is a video editor for Android users providing a range of video editing functions including theme selection, scene changes, handwriting, stickers, background music and photo addition, which are used to create fun and exciting video content. Pegged as a 'premium video editor', Kinemaster helps smartphone users to experience the performance of video editors that are usually only available for PCs so whether your shooting for fun or shooting for the stars this is a great app to have in your arsenal.
 
 ### 2. <a href="https://itunes.apple.com/us/app/video-editor-free/id450722848?mt=8" target="_blank">Video Editor FREE</a>
 It’s not entirely free – but everyone has to pay the bills.  For a mere 99 cents, you can have a phone editing setup – that’s faster and easier to use than the popular iMovie app. Video Editor For Free (though it costs 99 cents) allows you to trim, merge and share your videos, along with additional snazzy features as recording voiceovers and adding transitions and music from iTunes.
