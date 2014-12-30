@@ -11,9 +11,9 @@ tags:
  - landingpage
  - q&a
 video: //player.vimeo.com/video/81601719
-image: http://www.shustersound.com/neve88d.jpg
-thumb: http://www.shustersound.com/neve88d.jpg
-relatedthumb: http://www.shustersound.com/neve88d.jpg
+image: posts/filmmaker-q-and-a.jpg
+thumb: posts/thumbs/filmmaker-q-and-a.jpg
+relatedthumb: posts/thumbs/filmmaker-q-and-a.jpg
 blurb: A collection of interviews with award-winning DFF filmmakers.
 ---
 
