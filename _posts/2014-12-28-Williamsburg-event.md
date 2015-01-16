@@ -20,9 +20,9 @@ blurb: The DFF is excited to host the 2nd of our regular screenings at Videology
 ---
 
 
-The Disposable Film Festival is really excited to host the second, regularly occurring screenings at [Videology] in Williamsburg on December 5, 2014. This video store/bar and all-around amazing venue is the perfect spot to watch a curated selection of Disposable Films focused on a different theme each month. Hope to see you there!
+Welcome to 2015! DFF Brooklyn is upon us once more and as usual we're very excited about our next screening at Videology in Williamsburg on Friday, February 6th from 8:30pm - 10:30pm. Our last event saw a packed house as we ran waaaay over time to show some of the best submissions from the last few years so come down early to get a good spot. If you have a film you'd like to submit please send your film and details to <a href="mailto:caitlin@disposablefilm.com">caitlin@disposablefilm.com</a>.
 
-Admission is FREE!
+Admission is FREE! See you there :).
 
 <img src="{{ 'posts/videology.png' | asset_path }}">
 
