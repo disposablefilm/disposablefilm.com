@@ -16,7 +16,7 @@ tags:
 image: posts/videology.jpg
 thumb: posts/thumbs/videology.jpg
 relatedthumb: posts/thumbs/videology.jpg
-blurb: The DFF is excited to host the 2nd of our regular screenings at Videology in Williamsburg. The next FREE event will be held on December 5th.
+blurb: We're very excited about our next FREE screening at Videology in Williamsburg on Friday, February 6th from 8:30pm - 10:30pm.
 ---
 
 
