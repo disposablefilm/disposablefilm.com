@@ -3,8 +3,10 @@ layout: collection
 title: Disposable Film Festival 2015
 categories:
  - events
+ - news
  - home
 tags:
+ - events
  - carousel
  - disposable
  - competitiveshorts
