@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: singleton
 title: Disposable Film Festival 2015
 categories:
  - events
