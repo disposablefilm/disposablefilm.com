@@ -35,7 +35,7 @@ error_reporting(0);
           <div id="vimeo_submit">
             <table cellpadding="0" cellspacing="0" border="0">
               <tr>
-                <td class="vimeo_logo"><img src="{{ 'jurors/vimeo_lrg.gif' | asset_path }}" alt="Vimeo" width="34" height="30" style="padding: 0; margin: 0;"></td>
+                <td class="vimeo_logo"><img src="{{ 'vimeo_lrg.gif' | asset_path }}" alt="Vimeo" width="34" height="30" style="padding: 0; margin: 0;"></td>
                 <td class="vimeo_text">Welcome, friends of Vimeo! If you're new to the Disposable Film Festival, <a href="/">start here</a> to find out more.</td>
               </tr>
             </table>
