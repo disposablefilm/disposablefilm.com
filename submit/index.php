@@ -90,6 +90,12 @@ error_reporting(0);
 
       <p>Disposable Film Festival's esteemed panel of judges includes:</p>
 
+      <h4>DANIELS</h4>
+      <p>DANIELS is comprised of two guys named Daniel [Daniel Scheinert and Daniel Kwan]. Daniel grew up in Massachusetts, began working in animation and graphics, when all of a sudden he met Daniel. Daniel is from Alabama and comes from a comedy and theatre background. Together they share the writing, directing, editing, and VFX on every kind of film they can possibly tackle. Often times they hold a camera. And when necessary they act, dance, or stunt double. They have a penchant for weird dramas and straight-faced comedies. Self-aware stories that tear themselves apart in an attempt to show audiences something a little bit new, or an attempt to be as honest as possible, or maybe just an attempt to not be boring. They’ve been nominated for a best music video Grammy, an MTV VMA award, awarded a UK MVA for Best Music Video 2011, and a Vimeo Award for Best Music Video in 2012. But most importantly they got into the 2014 Sundance Labs with their forthcoming film Swiss Army Man!  Collectively their music videos, short films, viral videos, commercials, have earned millions of views – and one time, they dressed up as pigeons and danced at the Hammer Museum. They both currently live and work in LA. But to be honest, Daniel does most of the work.</p>
+
+      <h4>Kirsten Lepore</h4>
+      <p>Kirsten Lepore is a Los Angeles-based director and animator, and alumna of CalArts. Her films have taken top prizes at SXSW, Slamdance, and many other international festivals. Commercially, she has worked with Google, MTV, Yo Gabba Gabba, Newsweek, Whole Foods, Toyota, Facebook, Nickelodeon, Nestle, and Glamour Magazine. Kirsten has given presentations everywhere from Pixar to Portugal and has also been featured in Juxtapoz, Shots, and was named one of the 50 most creative people by Creativity Magazine.</p>
+
       <h4>Sascha Ciezata</h4>
       <p>Sascha Ciezata is an independent animator and illustrator whose work is in the hand-drawn tradition. His stylish brand of animation has played SXSW and numerous film festivals in the US and abroad. He has also animated the tales of such luminaries as Werner Herzog, Larry David and Bret Easton Ellis, among others. His first animated graphic novel Heart of Darkness is currently unfolding on Instagram @darkheartnyc.</p>
 
@@ -101,12 +107,6 @@ error_reporting(0);
 
       <h4>Bruno Smadja</h4>
       <p>Bruno Smadja is french and he turns 44 years old in 2015. In the last ten years, he has created 2 events dedicated to new forms of video. 10 years ago, he launched the first ever Mobile Film Festival in the world. Based in Paris on simple principle 1 Mobile, 1 Minute, 1 Film. Great films to discover www.mobilefilmfestival.com. He created Cross Video Days that became in 6 years the European leading financing market for digital content. Next edition will be in Paris on 11/12 June. (more info on www.crossvideodays.com). Bruno loves short, very short, long, webseries, transmedia, documentaries, animation, in one world he loves films and he is so honored to be part of the jury of such a creative festival as the Disposable Film Festival.</p>
-
-      <h4>DANIELS</h4>
-      <p>DANIELS is comprised of two guys named Daniel [Daniel Scheinert and Daniel Kwan]. Daniel grew up in Massachusetts, began working in animation and graphics, when all of a sudden he met Daniel. Daniel is from Alabama and comes from a comedy and theatre background. Together they share the writing, directing, editing, and VFX on every kind of film they can possibly tackle. Often times they hold a camera. And when necessary they act, dance, or stunt double. They have a penchant for weird dramas and straight-faced comedies. Self-aware stories that tear themselves apart in an attempt to show audiences something a little bit new, or an attempt to be as honest as possible, or maybe just an attempt to not be boring. They’ve been nominated for a best music video Grammy, an MTV VMA award, awarded a UK MVA for Best Music Video 2011, and a Vimeo Award for Best Music Video in 2012. But most importantly they got into the 2014 Sundance Labs with their forthcoming film Swiss Army Man!  Collectively their music videos, short films, viral videos, commercials, have earned millions of views – and one time, they dressed up as pigeons and danced at the Hammer Museum. They both currently live and work in LA. But to be honest, Daniel does most of the work.</p>
-
-      <h4>Kirsten Lepore</h4>
-      <p>Kirsten Lepore is a Los Angeles-based director and animator, and alumna of CalArts. Her films have taken top prizes at SXSW, Slamdance, and many other international festivals. Commercially, she has worked with Google, MTV, Yo Gabba Gabba, Newsweek, Whole Foods, Toyota, Facebook, Nickelodeon, Nestle, and Glamour Magazine. Kirsten has given presentations everywhere from Pixar to Portugal and has also been featured in Juxtapoz, Shots, and was named one of the 50 most creative people by Creativity Magazine.</p>
     </div>
 
   </div>

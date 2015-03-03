@@ -38,6 +38,13 @@ Join us for opening night at the Castro Theater for Disposable Film Festivals 8t
 
 <a href="https://disposablefilmfest.attendease.com/" target="_blank">Register here for Disposable Film Festival 2015 opening night</a>
 
+<h4 style="padding-top: 24px;">Friday, April 10, 2015</h4>
+
+### Drinks for DFF @ The Brick Yard
+
+Join DFF from 6pm-9pm on April 10th at The Brick Yard for drink specials and a % of proceeds go back to support DFF!
+
+<a href="https://drinks4dff.attendease.com/" target="_blank">Register here for Drinks for DFF @ The Brick Yard</a>
 
 <h4 style="padding-top: 24px;">Saturday, April 11, 2015</h4>
 
@@ -49,7 +56,9 @@ Mobile filmmaking is making waves in today’s film industry. All you need to ma
 
 ### Farm to Table Dinner (7pm - 11pm)
 
-Registration Coming Soon!
+Join us at historic SF venue, The Red Vic for a 4 course farm to table dinner with beer and wine included in ticket price.
+
+<a href="https://farmtotable.attendease.com/" target="_blank">Register here for the Farm to Table Dinner</a>
 
 <h4 style="padding-top: 24px;">Sunday, April 12, 2015</h4>
 
