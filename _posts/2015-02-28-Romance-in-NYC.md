@@ -14,7 +14,7 @@ tags:
 image: posts/romance-in-nyc.jpg
 thumb: posts/thumbs/romance-in-nyc.jpg
 relatedthumb: posts/thumbs/romance-in-nyc.jpg
-blurb: The Disposable Film Festival premieres its 8th annual competitive shorts program here in San Francisco before screening it around the world. Be the first to see this year's collection of the best disposable films made on cameras like mobile phones, DSLRs, and webcams.
+blurb: As DFF 2015 approaches and we celebrate another amazing set of non professional short films (April 9th, Castro Theatre, SF) the latest effort from Emmy Award winning Director,Tristan Pope, "Romance in NYC" caught our eye. Shot entirely on an iPhone 6 the plan was to capture the everyday between a boyfriend and his girlfriend and to Pope the process of shooting on an iphone was just as intriguing as the actual film.
 ---
 
 As DFF 2015 approaches and we celebrate another amazing set of non professional short films (April 9th, Castro Theatre, SF) the latest effort from Emmy Award winning Director,Tristan Pope, "Romance in NYC" caught our eye. Shot entirely on an iPhone 6 the plan was to capture the everyday between a boyfriend and his girlfriend and to Pope the process of shooting on an iphone was just as intriguing as the actual film. In a guest post for www.indiewire.com he goes on to say;
