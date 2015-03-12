@@ -71,7 +71,7 @@ function getRequest($index = NULL)
 	}
 }
 
-require_once('../recaptchalib.php');
+//require_once('../recaptchalib.php');
 
 $submitMessage = '';
 
@@ -116,10 +116,10 @@ if (array_key_exists('Submission', $_REQUEST))
 {
 	$EMAIL = $_REQUEST['Email'];
 
-  $privatekey = "6LfkgwoAAAAAAMhviPRSiGSKuXTcJCIAxt7fhC4k";
-  $resp = recaptcha_check_answer ($privatekey, $_SERVER["REMOTE_ADDR"], $_POST["recaptcha_challenge_field"], $_POST["recaptcha_response_field"]);
+  //$privatekey = "6LfkgwoAAAAAAMhviPRSiGSKuXTcJCIAxt7fhC4k";
+  //$resp = recaptcha_check_answer ($privatekey, $_SERVER["REMOTE_ADDR"], $_POST["recaptcha_challenge_field"], $_POST["recaptcha_response_field"]);
 
-  if (!$resp->is_valid)
+  if (false) //(!$resp->is_valid)
   {
     $submitMessage = "Your security verification words weren't entered correctly below. Please try again.";
   }
@@ -534,11 +534,13 @@ EOF;
 
 <?php if ((time() < strtotime('11:59pm December 1, 2015')) || ((array_key_exists('backdoor', $_REQUEST) && ($_REQUEST['backdoor'] == 'yo')))) { ?>
 
+<!--
 <script>
 var RecaptchaOptions = {
    theme : 'white'
 };
 </script>
+-->
 
 <?php
   // $Id: donate.php,v 1.40 2010/01/14 20:52:38 jamie Exp $
@@ -754,13 +756,14 @@ var RecaptchaOptions = {
 
       </div>
 
+<!--
       <h3>Security Verification*</h3>
       <div align="left">
         <?php echo recaptcha_get_html($publickey); ?>
       </div>
 
       <br>
-
+-->
       <input class="rounded" type="submit" value="Send Your Submission">
 
   </form>
