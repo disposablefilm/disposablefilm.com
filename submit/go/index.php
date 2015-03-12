@@ -761,9 +761,10 @@ var RecaptchaOptions = {
       <div align="left">
         <?php echo recaptcha_get_html($publickey); ?>
       </div>
+-->
 
       <br>
--->
+
       <input class="rounded" type="submit" value="Send Your Submission">
 
   </form>
