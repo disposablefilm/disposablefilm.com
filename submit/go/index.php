@@ -433,9 +433,9 @@ function sendConfirmationEmail($parameters)
 
 
 	$content = <<<EOF
-Thanks for submitting your film to the 2015 Disposable Film Festival!
+Thanks for submitting your film to the 2016 Disposable Film Festival!
 
-Your film is currently under review and if selected, you will be notified no later than February 15th, 2015 with an email explaining how to get us the uncompressed file we need.
+Your film is currently under review and if selected, you will be notified no later than February 15th, 2016 with an email explaining how to get us the uncompressed file we need.
 
 In the meantime, check out all our films at <http://disposablefilm.com> and be sure to like us on Facebook at <https://www.facebook.com/DISPOSABLEFILMFESTIVAL>.
 
@@ -532,7 +532,7 @@ EOF;
 
 ?>
 
-<?php if ((time() < strtotime('11:59pm December 1, 2014')) || ((array_key_exists('backdoor', $_REQUEST) && ($_REQUEST['backdoor'] == 'yo')))) { ?>
+<?php if ((time() < strtotime('11:59pm December 1, 2015')) || ((array_key_exists('backdoor', $_REQUEST) && ($_REQUEST['backdoor'] == 'yo')))) { ?>
 
 <script>
 var RecaptchaOptions = {
@@ -549,9 +549,9 @@ var RecaptchaOptions = {
 
       <h1>Entry Form</h1>
 
-     <h3>DFF 2015 Deadlines</h3>
-     <p>Early Submission Deadline: <b>October 1, 2014 at 11:59pm PST</b> - $5.00 fee per submission</p>
-     <p>Final Submission Deadline: <b>December 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
+     <h3>DFF 2016 Deadlines</h3>
+     <p>Early Submission Deadline: <b>October 1, 2015 at 11:59pm PST</b> - $5.00 fee per submission</p>
+     <p>Final Submission Deadline: <b>December 1, 2015 at 11:59pm PST</b> - $15.00 fee per submission</p>
 
       <h3>Guidelines</h3>
       <p>
@@ -576,7 +576,7 @@ var RecaptchaOptions = {
 
       <p>All fields marked with a * are required.</p>
 
-      <form onSubmit="return checkForm()" id="submissionForm" action="<?php echo ((time() > strtotime('11:59pm December 1, 2014')) && array_key_exists('backdoor', $_REQUEST)) ? '?backdoor=' . $_REQUEST['backdoor'] : ''  ?>" method="POST">
+      <form onSubmit="return checkForm()" id="submissionForm" action="<?php echo ((time() > strtotime('11:59pm December 1, 2015')) && array_key_exists('backdoor', $_REQUEST)) ? '?backdoor=' . $_REQUEST['backdoor'] : ''  ?>" method="POST">
       <input type="hidden" name="Submission" value="yes">
 
        <table cellpadding="5" cellspacing="5" border="0">
@@ -710,12 +710,12 @@ var RecaptchaOptions = {
        <tr>
         <td class="paypal_text">
 
-          1. Pay the <?php echo time() < strtotime('11:59pm October 1, 2014') ? '$5.00' : '$15.00' ?> fee*
+          1. Pay the <?php echo time() < strtotime('11:59pm October 1, 2015') ? '$5.00' : '$15.00' ?> fee*
         </td>
 
         <td class="paypal">
 
-          <?php if (time() < strtotime('11:59pm October 1, 2014')) { ?>
+          <?php if (time() < strtotime('11:59pm October 1, 2015')) { ?>
 
           <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2YF9QKBJKUG64" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" border="0"></a>
 
@@ -767,6 +767,6 @@ var RecaptchaOptions = {
 
 <?php } else { ?>
 
-<h5>Submissions for 2015 are now closed!</h5>
+<h5>Submissions for 2016 are now closed!</h5>
 
 <?php } ?>

@@ -22,9 +22,9 @@ error_reporting(0);
 
       <h1>Film Submissions</h1>
 
-     <h3>DFF 2015 Deadlines</h3>
-     <p>Early Submission Deadline: <b>October 1, 2014 at 11:59pm PST</b> - $5.00 fee per submission</p>
-     <p>Final Submission Deadline: <b>December 1, 2014 at 11:59pm PST</b> - $15.00 fee per submission</p>
+     <h3>DFF 2016 Deadlines</h3>
+     <p>Early Submission Deadline: <b>October 1, 2015 at 11:59pm PST</b> - $5.00 fee per submission</p>
+     <p>Final Submission Deadline: <b>December 1, 2015 at 11:59pm PST</b> - $15.00 fee per submission</p>
 
       <!--<p style="font-size: 16px;"><b>Submissions for DFF 2015 are now <span class="orange">closed</span>.</b></p>-->
 
@@ -66,7 +66,7 @@ error_reporting(0);
 
       <h3>Prizes</h3>
 
-      <p>The prizes for 2015 are bigger and better than ever! Stay tuned for more info.</p>
+      <p>The prizes for 2016 are bigger and better than ever! Stay tuned for more info.</p>
 
       <h3>Entering the Competition</h3>
 
@@ -79,7 +79,7 @@ error_reporting(0);
 
         <?php } else { ?>
 
-          <b>Submissions for DFF 2015 are now <span class="orange">closed</span>.</b>
+          <b>Submissions for DFF 2016 are now <span class="orange">closed</span>.</b>
 
         <?php } ?>
       </div>

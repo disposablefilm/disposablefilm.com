@@ -8,11 +8,11 @@ thumb: posts/thumb-submit.png
 <h1>You Rock!</h1>
 
 <p>
-Thank you for submitting your film to the 2015 Disposable Film Festival.
+Thank you for submitting your film to the 2016 Disposable Film Festival.
 </p>
 
 <p>
-Your film is currently under review and, if selected, you will be notified no later than February 15th, 2015 with an email explaining how to get us the uncompressed file we need.
+Your film is currently under review and, if selected, you will be notified no later than February 15th, 2016 with an email explaining how to get us the uncompressed file we need.
 </p>
 
 <p>
