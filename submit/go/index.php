@@ -756,16 +756,14 @@ var RecaptchaOptions = {
 
       </div>
 
-<!--
-      <h3>Security Verification*</h3>
-      <div align="left">
-        <?php echo recaptcha_get_html($publickey); ?>
-      </div>
--->
-
       <br>
 
       <input class="rounded" type="submit" value="Send Your Submission">
+
+<!-- <h3>Security Verification*</h3> -->
+<!-- <div align="left"> -->
+        <?php //echo recaptcha_get_html($publickey); ?>
+<!-- </div> -->
 
   </form>
 
