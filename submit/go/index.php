@@ -1,5 +1,5 @@
 ---
-layout: static
+layout: static-php
 title: Entry Form
 image: posts/Screen-Shot-2014-05-30-submit.png
 thumb: posts/thumb-submit.png

@@ -16,7 +16,7 @@ Your film is currently under review and, if selected, you will be notified no la
 </p>
 
 <p>
-Be sure to friend us on <a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601?ref=ts" target="_blank">Facebook</a> and <a href="http://www.twitter.com/dffest" target="_blank">Twitter</a> and follow us on <a href="http://statigr.am/disposablefilmfest" target="_blank">Instagram</a> (#disposablefilmfest).
+Be sure to friend us on <a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601?ref=ts" target="_blank">Facebook</a> and <a href="http://www.twitter.com/dffest" target="_blank">Twitter</a> and follow us on <a href="https://instagram.com/disposablefilmfest/" target="_blank">Instagram</a> (#disposablefilmfest).
 </p>
 
 <p>
