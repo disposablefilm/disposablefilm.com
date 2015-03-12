@@ -71,7 +71,7 @@ error_reporting(0);
       <h3>Entering the Competition</h3>
 
       <div class="cta">
-        <?php if (time() < strtotime('11:59pm December 1, 2014')) { ?>
+        <?php if (time() < strtotime('11:59pm December 1, 2015')) { ?>
 
           Complete the entry form here:<br>
 
