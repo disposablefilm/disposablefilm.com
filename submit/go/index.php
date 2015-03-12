@@ -10,7 +10,7 @@ thumb: posts/thumb-submit.png
 <?php
 // $Id: header.php,v 1.5 2006/01/12 11:11:03 jamie Exp $
 
-error_reporting(0);
+error_reporting(E_ALL);
 
 $submissionFormFolder = 'go';
 
@@ -147,6 +147,7 @@ if (array_key_exists('Submission', $_REQUEST))
 				sendConfirmationEmail($_REQUEST);
 				sendSubmissionEmail($_REQUEST);
 				header('Location: /submit/' . $submissionFormFolder . '/thanks.php');
+				exit();
 			}
 			else
 			{
@@ -602,7 +603,7 @@ var RecaptchaOptions = {
        </tr>
 
        <tr>
-        <td class="form-label">Link to Film*<br><span class="notes"><i><a rel="lyteframe[vimeo]" rev="width: 300px; height: 150px; scrolling: no;" href="/submit/<?php echo $submissionFormFolder ?>/vimeo.php">Upload to Vimeo</a></i></span></td>
+        <td class="form-label">Link to Film*</td>
         <td><input type="text" size="42" name="Links" id="Links" value="<?php echo $_REQUEST['Links'] ?>"></td>
        </tr>
 
