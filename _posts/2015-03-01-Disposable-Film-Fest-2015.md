@@ -40,11 +40,11 @@ Join us for opening night at the Castro Theater for Disposable Film Festivals 8t
 
 <h4 style="padding-top: 24px;">Friday, April 10, 2015</h4>
 
-### Drinks for DFF @ The Brick Yard
+### Filmmaker Happy Hour @ The Brick Yard
 
 Join DFF from 6pm-9pm on April 10th at The Brick Yard for drink specials and a % of proceeds go back to support DFF!
 
-<a href="https://drinks4dff.attendease.com/" target="_blank">Register here for Drinks for DFF @ The Brick Yard</a>
+<a href="https://drinks4dff.attendease.com/" target="_blank">Register here for Filmmaker Happy Hour @ The Brick Yard</a>
 
 <h4 style="padding-top: 24px;">Saturday, April 11, 2015</h4>
 
@@ -67,3 +67,7 @@ Join us at historic SF venue, The Red Vic for a 4 course farm to table dinner wi
 Join us as we engage activists, filmmakers, educators and leaders in the nonprofit world to discuss how disposable film is spurring social change. Free snacks and coffee will be provided.
 
 <a href="https://dffworkshop2.attendease.com/" target="_blank">Register here for the Lights, Camera, Social Action panel</a>
+
+### Secrets of Crowdfunding (2pm - 3:30pm)
+
+<a href="https://workshopindiegogo.attendease.com/" target="_blank">Register here for the Secrets of Crowdfunding</a>
