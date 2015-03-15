@@ -70,4 +70,6 @@ Join us as we engage activists, filmmakers, educators and leaders in the nonprof
 
 ### Secrets of Crowdfunding (2pm - 3:30pm)
 
+Join Rebecca Lando, Director of Digital + Film at Indiegogo, for advice on every aspect of running a fun and successful crowdfunding campaign for your next film or video project.
+
 <a href="https://workshopindiegogo.attendease.com/" target="_blank">Register here for the Secrets of Crowdfunding</a>
