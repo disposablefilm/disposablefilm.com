@@ -2,6 +2,20 @@
 @import 'mixins';
 @import "lib/bootstrap-3.0.3/_variables";
 
+#PopupSignupForm_0
+{
+  .mc-modal
+  {
+    .mc-closeModal
+    {
+      background-color: #000000;
+      width: auto;
+      height: auto;
+      padding: 5px;
+    }
+  }
+}
+
 body
 {
   color: $dff-foreground;
