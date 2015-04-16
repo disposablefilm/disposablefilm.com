@@ -8,7 +8,8 @@ related: true
     <iframe class="marquee-video" src="{{ page.video | asset_path }}" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   </div>
   {% else %}
-  <div class='image img-responsive' style="width: 750px; height: 300px; background-image: url({{ page.image | asset_path }}); background-size: 100%;">
+  <div class='image'>
+    <img class="img-responsive" src='{{ page.image | asset_path }}'>
   </div>
   {% endif %}
 
