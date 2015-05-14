@@ -3,9 +3,7 @@ layout: singleton
 title: "Splitscreen: A Love Story"
 categories:
  - films
- - home
 tags:
- - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

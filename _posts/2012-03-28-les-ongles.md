@@ -3,9 +3,7 @@ layout: singleton
 title: Les Ongles (The Nails)
 categories:
  - films
- - home
 tags:
- - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

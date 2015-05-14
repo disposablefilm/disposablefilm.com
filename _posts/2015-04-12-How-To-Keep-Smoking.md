@@ -1,8 +1,11 @@
 ---
 layout: singleton
 title: How to Keep Smoking - Audience Choice Award
-categories: films
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

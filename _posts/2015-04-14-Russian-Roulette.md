@@ -1,8 +1,11 @@
 ---
 layout: singleton
 title: Russian Roulette - Grand Jury Prize
-categories: films
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

@@ -1,8 +1,11 @@
 ---
 layout: singleton
 title: How You Doin, Boy? Voicemails From Gran'pa - Honorable Mention
-categories: films
+categories:
+ - films
+ - home
 tags:
+ - carousel
  - disposable
  - disposablefilmfest
  - disposablefest
