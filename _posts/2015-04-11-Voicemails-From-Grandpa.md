@@ -1,6 +1,7 @@
 ---
 layout: singleton
 title: How You Doin, Boy? Voicemails From Gran'pa - Honorable Mention
+carouseltitle: How You Doin, Boy? Voicemails From Gran'pa
 categories:
  - films
  - home

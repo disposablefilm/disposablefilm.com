@@ -22,15 +22,21 @@ layout: layout
     {% assign counter=0 %}
     {% for post in site.tags.carousel %}
       {% if post.categories contains 'home' %}
+        {% if post.carouseltitle %}
+          {% assign title = post.carouseltitle%}
+        {% else %}
+          {% assign title = post.title%}
+        {% endif %}
+
         {% if counter == 0 %}
           <div class="item active" onclick="document.location = '{{ post.url }}';return false;">
-            <img src="{{ post.image | asset_path }}" alt="{{ post.title }}">
+            <img src="{{ post.image | asset_path }}" alt="{{ title }}">
         {% else %}
           <div class='item' onclick="document.location = '{{ post.url }}';return false;">
-           <img src="{{ post.image | asset_path }}" alt="{{ post.title }}">
+           <img src="{{ post.image | asset_path }}" alt="{{ title }}">
         {% endif %}
             <div class='carousel-caption {{ post.categories }}'>
-              <div class="title"><a href='{{ post.url }}'>{{ post.title }}</a></div>
+              <div class="title"><a href='{{ post.url }}'>{{ title }}</a></div>
             </div>
           </div>
         {% assign counter=counter | plus:1 %}

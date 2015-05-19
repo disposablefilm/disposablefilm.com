@@ -1,6 +1,7 @@
 ---
 layout: singleton
 title: Russian Roulette - Grand Jury Prize
+carouseltitle: Russian Roulette
 categories:
  - films
  - home

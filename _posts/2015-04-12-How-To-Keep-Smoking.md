@@ -1,6 +1,7 @@
 ---
 layout: singleton
 title: How to Keep Smoking - Audience Choice Award
+carouseltitle: How to Keep Smoking
 categories:
  - films
  - home
