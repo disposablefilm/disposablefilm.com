@@ -1,7 +1,13 @@
 /*voting style */
+
+.vote
+{
+  height: 20px;
+}
+
 .voting_wrapper
 {
-  display:inline-block;
+  float: right;
   margin-left: 20px;
 
   .down_button

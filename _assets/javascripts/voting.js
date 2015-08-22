@@ -1,11 +1,13 @@
 $(document).ready(function() {
 
+  // FROM http://www.sanwebe.com/2013/04/voting-system-with-jquery-php
+
   //####### on page load, retrive votes for each content
   $.each( $('.voting_wrapper'), function(){
     //retrive unique id from this voting_wrapper element
     var unique_id = $(this).attr("id");
 
-    console.log("processing: " + unique_id)
+    //console.log("processing: " + unique_id)
 
     //prepare post content
     post_data = {'unique_id':unique_id, 'vote':'fetch'};
@@ -28,7 +30,7 @@ $(document).ready(function() {
     if(clicked_button==='down_button') //user disliked the content
     {
 
-      console.log("voted down: " + unique_id)
+      //console.log("voted down: " + unique_id)
 
       //prepare post content
       post_data = {'unique_id':unique_id, 'vote':'down'};
@@ -40,7 +42,7 @@ $(document).ready(function() {
           $('#'+unique_id+' .down_votes').text(data);
 
           //thank user for the dislike
-          alert("Thanks! Each Vote Counts, Even Dislikes!");
+          //alert("Thanks! Each Vote Counts, Even Dislikes!");
 
       }).fail(function(err) {
 
@@ -50,7 +52,7 @@ $(document).ready(function() {
     }
     else if(clicked_button==='up_button') //user liked the content
     {
-      console.log("voted up: " + unique_id)
+      //console.log("voted up: " + unique_id)
 
       //prepare post content
       post_data = {'unique_id':unique_id, 'vote':'up'};
@@ -62,7 +64,7 @@ $(document).ready(function() {
           $('#'+unique_id+' .up_votes').text(data);
 
           //thank user for liking the content
-          alert("Thanks! For Liking This Content.");
+          //alert("Thanks! For Liking This Content.");
       }).fail(function(err) {
 
       //alert user about the HTTP server error
