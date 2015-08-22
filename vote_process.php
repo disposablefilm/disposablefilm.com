@@ -18,7 +18,7 @@ if($_POST)
     $unique_content_id = filter_var(trim($_POST["unique_id"]),FILTER_SANITIZE_STRING, FILTER_FLAG_STRIP_LOW | FILTER_FLAG_STRIP_HIGH);
 
     //Convert content ID to MD5 hash (optional)
-    $unique_content_id = hash('md5', $unique_content_id);
+    //$unique_content_id = hash('md5', $unique_content_id);
 
     //check if its an ajax request, exit if not
     if(!isset($_SERVER['HTTP_X_REQUESTED_WITH']) AND strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) != 'xmlhttprequest') {
