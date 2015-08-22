@@ -2,7 +2,6 @@
 layout: singleton
 title: Q&A With Filmmaker Drew Christie
 categories:
- - culture
 tags:
  - dff2014
  - drew christie

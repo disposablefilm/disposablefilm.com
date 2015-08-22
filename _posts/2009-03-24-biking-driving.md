@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Biking/Driving/Throwing
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

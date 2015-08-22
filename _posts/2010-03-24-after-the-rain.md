@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: After the Rain
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

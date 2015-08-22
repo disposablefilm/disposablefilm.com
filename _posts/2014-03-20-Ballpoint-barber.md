@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Ballpoint Barber
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -2,7 +2,7 @@
 layout: static
 title: Film Submissions
 categories:
-  - news
+  - blog
   - home
 tags:
   - landing page

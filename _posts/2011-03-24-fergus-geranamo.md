@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Fergus and Geronimo - Where The Walls Are Made of Grass
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: What's Cookin?
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: An Open Letter to Canon
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

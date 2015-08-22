@@ -2,7 +2,6 @@
 layout: singleton
 title: Q&A With Filmmaker Fabrice Mathieu
 categories:
- - culture
 tags:
  - dff2014
  - fabrice mathieu

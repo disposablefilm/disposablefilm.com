@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: All Kinds of Time - Honorable Mention
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

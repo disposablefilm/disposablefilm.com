@@ -2,7 +2,6 @@
 layout: singleton
 title: 5 News Stories Changed by the Rise of Citizen Journalists
 categories:
- - culture
 tags:
  - citizen journalist
  - cell phones

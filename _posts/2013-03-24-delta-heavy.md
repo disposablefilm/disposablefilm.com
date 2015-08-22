@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Delta Heavy - Get By
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

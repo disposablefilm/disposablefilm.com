@@ -2,7 +2,7 @@
 layout: singleton
 title: Una Furtiva Lagrima
 categories:
- - films
+ - watch
  - home
 tags:
  - carousel

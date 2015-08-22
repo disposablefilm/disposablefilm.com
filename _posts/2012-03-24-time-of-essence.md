@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Cold Mailman - Time is of the Essence
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Housse de Racket - 1234
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Old Flames
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

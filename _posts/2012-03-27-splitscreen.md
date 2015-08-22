@@ -2,7 +2,7 @@
 layout: singleton
 title: "Splitscreen: A Love Story"
 categories:
- - films
+ - watch
 tags:
  - disposable
  - disposablefilmfest

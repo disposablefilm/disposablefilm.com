@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Disposable Film Festival Health 2011
-categories: films
+categories: watch
 tags:
  - disposable
  - healthfestival

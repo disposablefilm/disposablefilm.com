@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Garmiani - Dance Motherfucker
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

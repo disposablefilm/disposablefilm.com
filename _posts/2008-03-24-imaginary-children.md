@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Parents of Imaginary Children
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -2,11 +2,10 @@
 layout: singleton
 title: Q&A With Filmmaker Michael Wilcox
 categories:
- - culture
 tags:
  - documentary
  - citizen journalism
- - news
+ - blog
 image: posts/michael-wilcox.jpg
 thumb: posts/thumbs/michael-wilcox.jpg
 relatedthumb: posts/thumbs/michael-wilcox.jpg

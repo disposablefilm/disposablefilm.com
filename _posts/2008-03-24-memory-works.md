@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: How Memory Works
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

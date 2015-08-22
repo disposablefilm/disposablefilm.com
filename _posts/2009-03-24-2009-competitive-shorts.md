@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: 2009 Disposable Film Festival Competitive Shorts
-categories: films
+categories: watch
 tags:
  - disposable
  - competitiveshorts

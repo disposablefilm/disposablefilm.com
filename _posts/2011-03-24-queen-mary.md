@@ -2,7 +2,7 @@
 layout: singleton
 title: |
   Queen Mary 2: Atlantic Timelapse
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

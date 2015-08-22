@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Let's Not Keep Score
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

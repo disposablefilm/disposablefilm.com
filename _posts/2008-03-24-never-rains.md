@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: It Never Rains in Los Angeles
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Death the Dialogue
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: How to Make a Baby
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Verknipte Tijden/ Distorted Times
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

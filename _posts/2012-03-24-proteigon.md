@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: PROTÉIGON
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

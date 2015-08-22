@@ -2,7 +2,7 @@
 layout: singleton
 title: Mondo Taurobolium
 categories:
- - films
+ - watch
  - home
 tags:
  - carousel

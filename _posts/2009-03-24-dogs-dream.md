@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: A Dog's Dream
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

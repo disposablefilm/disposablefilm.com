@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: How to Catch a Bird
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

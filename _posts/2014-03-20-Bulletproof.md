@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Bulletproof Thoughts #1-Joe Strummer
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Synchronize
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

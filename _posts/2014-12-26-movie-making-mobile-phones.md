@@ -3,8 +3,7 @@ layout: singleton
 title: 10 Best Smartphones For Video
 categories:
  - home
- - news
- - culture
+ - blog
 tags:
  - iphone
  - landingpage

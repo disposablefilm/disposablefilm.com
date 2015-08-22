@@ -2,7 +2,6 @@
 layout: singleton
 title: Q&A With Filmmaker Neta Cohen
 categories:
- - culture
 tags:
  - dff2012
  - Neta Cohen

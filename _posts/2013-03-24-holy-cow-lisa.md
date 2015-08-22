@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Holy Cow Lisa
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

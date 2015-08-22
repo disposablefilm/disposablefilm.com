@@ -2,15 +2,14 @@
 layout: singleton
 title: "Documentary: The Mother Grain by Michael Wilcox"
 categories:
- - news
- - culture
+ - blog
  - home
 tags:
  - landingpage
  - documentary
  - democratization
  - citizen journalism
- - news
+ - blog
 image: posts/the-mother-grain.jpg
 thumb: posts/thumbs/the-mother-grain.jpg
 relatedthumb: posts/thumbs/the-mother-grain.jpg

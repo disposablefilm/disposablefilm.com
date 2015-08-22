@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Rise of the Machine
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

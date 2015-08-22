@@ -2,7 +2,7 @@
 layout: singleton
 title: Les Ongles (The Nails)
 categories:
- - films
+ - watch
 tags:
  - disposable
  - disposablefilmfest

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Lil' Aliens
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

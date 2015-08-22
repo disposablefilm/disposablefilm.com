@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Toilet Paper Animation
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

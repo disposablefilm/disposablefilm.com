@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Dean Zimmer-Drummer Wanted
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

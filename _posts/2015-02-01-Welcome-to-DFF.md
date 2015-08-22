@@ -2,8 +2,7 @@
 layout: singleton
 title: Welcome to DisposableFilm
 categories:
- - news
- - culture
+ - blog
  - home
 tags:
  - carlton evans

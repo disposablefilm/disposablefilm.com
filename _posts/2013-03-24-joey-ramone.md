@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Joey Ramone - NYC
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

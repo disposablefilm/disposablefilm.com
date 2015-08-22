@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Gonzo Calling
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

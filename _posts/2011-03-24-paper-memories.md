@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Paper Memories
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

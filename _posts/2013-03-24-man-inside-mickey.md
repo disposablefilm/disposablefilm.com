@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: The Man Inside Mickey
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

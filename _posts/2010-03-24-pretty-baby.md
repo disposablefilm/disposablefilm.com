@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Pretty Baby
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

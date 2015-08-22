@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Owls At The Revolution
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

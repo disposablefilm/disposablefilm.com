@@ -2,7 +2,7 @@
 layout: collection
 title: 2015 Disposable Film Festival Winners
 categories:
- - films
+ - watch
  - home
 tags:
  - disposable

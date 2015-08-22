@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Full Circle
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

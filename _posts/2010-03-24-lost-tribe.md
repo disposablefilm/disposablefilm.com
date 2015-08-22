@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Lost Tribe of New York City
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

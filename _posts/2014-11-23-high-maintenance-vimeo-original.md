@@ -2,8 +2,7 @@
 layout: singleton
 title: "High Maintenance: a Vimeo Original"
 categories:
- - culture
- - news
+ - blog
  - home
 tags:
  - vimeo

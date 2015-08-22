@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Roy Kafri - Mayokero - Honorable Mention
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

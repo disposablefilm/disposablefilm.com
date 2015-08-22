@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Wrangling Ice
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

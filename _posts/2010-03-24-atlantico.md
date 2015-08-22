@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Atlantico
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

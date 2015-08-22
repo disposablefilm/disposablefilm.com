@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: My 60 Second Documentary of the Stuff What is in This Room
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

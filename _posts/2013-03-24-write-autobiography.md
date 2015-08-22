@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: How to Write an Autobiography
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

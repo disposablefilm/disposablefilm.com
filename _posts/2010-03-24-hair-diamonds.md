@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Hair and Diamonds
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -2,7 +2,6 @@
 layout: singleton
 title: Top Cell Phone Tips for Citizen Journalists
 categories:
- - culture
  - home
 tags:
  - journalism

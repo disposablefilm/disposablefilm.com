@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: How To Google Maps
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

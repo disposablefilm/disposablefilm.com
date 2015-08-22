@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Graffiti Stop-Motion
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

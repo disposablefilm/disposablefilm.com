@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Woodsmoke
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

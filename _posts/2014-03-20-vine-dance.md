@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Vine Dance Compilation
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

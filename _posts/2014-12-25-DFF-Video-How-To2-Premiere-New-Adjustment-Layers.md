@@ -3,7 +3,6 @@ layout: singleton
 title: Tutorial - New Adjustment Layers in Premiere Pro CS6
 categories:
  - home
- - culture
 tags:
  - premiere pro cs6
  - adobe premiere pro cc

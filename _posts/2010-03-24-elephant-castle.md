@@ -2,7 +2,7 @@
 layout: singleton
 title: |
   Filip A Guinea: The Elephant and Castle
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

@@ -85,6 +85,10 @@
                       <a href="/" alt="Home">Home</a>
                     </li>
 
+                    <li class="item{% if page.url == '/watch/index.html' %} active{% endif %}">
+                      <a href="/watch" alt="Watch">Watch</a>
+                    </li>
+
                     <li class="item{% if page.url contains '/submit/' %} active{% endif %}">
                       <a href="/submit" alt="Submit">Submit</a>
                     </li>
@@ -93,24 +97,20 @@
                       <a href="/events" alt="Events">Events</a>
                     </li>
 
-                    <li class="item{% if page.url == '/films/index.html' %} active{% endif %}">
-                      <a href="/films" alt="Films">Films</a>
+                    <li class="item{% if page.url == '/blog/index.html' %} active{% endif %}">
+                      <a href="/blog" alt="Blog">Blog</a>
                     </li>
 
-                    <li class="item{% if page.url == '/news/index.html' %} active{% endif %}">
-                      <a href="/news" alt="News & Reviews">News</a>
+                    <li class="item{% if page.url == '/press/index.html' %} active{% endif %}">
+                      <a href="/press" alt="Press">Press</a>
                     </li>
 
-                    <li class="item{% if page.url == '/culture/index.html' %} active{% endif %}">
-                      <a href="/culture" alt="Culture & Creation"><nobr>Culture & Creation</nobr></a>
+                    <li class="item{% if page.url == '/about/index.html' %} active{% endif %}">
+                      <a href="/about" alt="About">About</a>
                     </li>
 
                     <li class="item">
                       <a href="http://disposablefilmfest.bigcartel.com" target="_blank" alt="DFF Merch Store" alt="Store">Store</a>
-                    </li>
-
-                    <li class="item{% if page.url == '/sponsors/index.html' %} active{% endif %}">
-                      <a href="/sponsors" alt="Sponsors">Sponsors</a>
                     </li>
                   </ul>
                 </div><!-- /.navbar-collapse -->
@@ -143,15 +143,6 @@
         <div class="container">
           <div class="row">
             <div class="col-md-4">
-              <nav>
-                <ul>
-                  <li><a href="/" alt="Home">Home</a></li>
-                  <li><a href="/about/" alt="About Us">About Us</a></li>
-                  <li><a href="/press/" alt="Press">Press</a></li>
-                  <li><a href="/about/" alt="Contact Us">Contact Us</a></li>
-                </ul>
-              </nav>
-
               <div class="dff-socials">
                 <div class="dff-social"><a href="http://www.facebook.com/pages/DISPOSABLE-FILM-FESTIVAL/31378810601" target="_blank"><i class="fa fa-facebook"></i></a></div>
                 <div class="dff-social"><a href="http://twitter.com/DFFest" target="_blank" alt="Twitter"><i class="fa fa-twitter"></i></a></div>

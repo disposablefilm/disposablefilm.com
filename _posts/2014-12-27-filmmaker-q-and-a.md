@@ -2,7 +2,6 @@
 layout: collection
 title: Q&A with DFF Filmmakers
 categories:
- - culture
  - home
 tags:
  - filmmaker

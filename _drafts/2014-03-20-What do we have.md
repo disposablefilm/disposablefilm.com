@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: What Do We Have in Our Pockets
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

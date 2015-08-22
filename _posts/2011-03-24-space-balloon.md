@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Space Balloon
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

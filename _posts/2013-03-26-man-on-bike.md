@@ -2,7 +2,7 @@
 layout: singleton
 title: The Man Who Lived on His Bike
 categories:
- - films
+ - watch
  - home
 tags:
  - carousel

@@ -2,10 +2,9 @@
 layout: singleton
 title: Make your videos look more amazing with Vimeo and the DFF
 categories:
- - films
- - news
+ - watch
+ - blog
  - home
- - culture
 tags:
  - film
  - landingpage

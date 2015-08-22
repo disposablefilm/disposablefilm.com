@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: The International Banana Museum
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

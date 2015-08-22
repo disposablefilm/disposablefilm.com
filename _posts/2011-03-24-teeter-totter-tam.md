@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Teeter-Totter Tam
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

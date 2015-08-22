@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: City Distortions
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

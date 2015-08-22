@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Mala Suerte
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

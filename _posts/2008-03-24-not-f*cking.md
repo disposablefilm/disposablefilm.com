@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Not F*cking
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

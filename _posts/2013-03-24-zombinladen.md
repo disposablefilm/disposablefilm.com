@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Zombinladen - The Axis of Evil Dead
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

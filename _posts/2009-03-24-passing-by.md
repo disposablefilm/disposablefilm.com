@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Passing By
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

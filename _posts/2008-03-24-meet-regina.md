@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Meet Regina
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

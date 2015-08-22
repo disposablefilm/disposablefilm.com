@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Heavy Metal Parking Lot
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

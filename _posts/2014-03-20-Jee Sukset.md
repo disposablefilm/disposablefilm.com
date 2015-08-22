@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Jee! Sukset (Gee! Success)
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

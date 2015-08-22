@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Publicite
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

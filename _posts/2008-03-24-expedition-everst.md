@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Expedition Everest
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

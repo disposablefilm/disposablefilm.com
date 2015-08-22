@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Eppur Si Muove
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

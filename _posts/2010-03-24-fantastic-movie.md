@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: My Fantastic Movie
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

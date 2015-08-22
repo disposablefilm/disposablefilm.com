@@ -3,7 +3,6 @@ layout: singleton
 title: Tutorial - 10 Things Beginners Want to Know about How To Get Started with Adobe Premiere Pro CC
 categories:
  - home
- - culture
 tags:
  - premiere pro cs6
  - tutorial

@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Tap to Retry
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

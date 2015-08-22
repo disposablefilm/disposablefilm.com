@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Janine, Let Me Be Lord
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

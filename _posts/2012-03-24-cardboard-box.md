@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: The Adventures of a Cardboard Box
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

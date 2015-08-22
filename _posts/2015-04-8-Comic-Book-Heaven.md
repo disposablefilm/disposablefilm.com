@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Comic Book Heaven - Honorable Mention
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest

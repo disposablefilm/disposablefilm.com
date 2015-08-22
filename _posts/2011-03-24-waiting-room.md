@@ -1,7 +1,7 @@
 ---
 layout: singleton
 title: Waiting Room
-categories: films
+categories: watch
 tags:
  - disposable
  - disposablefilmfest
