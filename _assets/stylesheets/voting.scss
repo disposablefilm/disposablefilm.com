@@ -1,0 +1,48 @@
+/*voting style */
+.voting_wrapper
+{
+  display:inline-block;
+  margin-left: 20px;
+
+  .down_button
+  {
+    background: image-url('thumbs.png') no-repeat;
+    float: left;
+    height: 14px;
+    width: 16px;
+    cursor: pointer;
+    margin-top: 3px;
+  }
+
+  .down_button:hover
+  {
+    background: image-url('thumbs.png') no-repeat 0px -16px;
+  }
+
+  .up_button
+  {
+    background: image-url('thumbs.png') no-repeat -16px 0px;
+    float: left;
+    height: 14px;
+    width: 16px;
+    cursor:pointer;
+  }
+
+  .up_button:hover
+  {
+    background: image-url('thumbs.png') no-repeat -16px -16px;
+  }
+}
+
+.voting_btn
+{
+  float:left;
+  margin-right:5px;
+}
+
+.voting_btn span
+{
+  font-size: 11px;
+  float: left;
+  margin-left: 3px;
+}
