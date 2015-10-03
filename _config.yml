@@ -71,4 +71,4 @@ prose:
         field:
           element: "text"
           label: "Post or Collection Title"
-          type: "text"
+          value: ""
