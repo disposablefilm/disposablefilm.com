@@ -60,7 +60,7 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: select
+          element: "select"
           label: "Is this a single post or a collection post?"
           options:
             - name: "Single Post"
@@ -70,5 +70,5 @@ prose:
       - name: "title"
         field:
           element: "text"
-          type: "text"
           label: "Post or Collection Title"
+          type: "text"
