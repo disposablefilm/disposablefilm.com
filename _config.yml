@@ -40,3 +40,18 @@ prose:
     - /_site
     - /_includes
     - /_plugins
+    - /blog
+    - /events
+    - /fonts
+    - /lcs
+    - /search
+    - /watch
+    - .gitignore
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - Rakefile
+    - favicon.ico
+    - index.haml
+    - process.txt
+    - vote_process.php
