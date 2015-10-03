@@ -29,3 +29,15 @@ show_ads: false
 
 # Outputting
 permalink: /:title.html
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://disposablefilm.com/'
+
+  ignore:
+    - _config_production.yml
+    - _config.yml
+    - /_layouts
+    - /_site
+    - /_includes
+    - /_plugins
