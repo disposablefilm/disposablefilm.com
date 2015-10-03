@@ -69,6 +69,6 @@ prose:
               value: "collection"
       - name: "title"
         field:
-          element: text
-          type: text
+          element: "text"
+          type: "text"
           label: "Post or Collection Title"
