@@ -96,3 +96,20 @@ prose:
           label: "Link to 750x300px image"
           help: "Images need to be placed in _assets/images/posts/<filename>"
           placeholder: "posts/<filename>"
+      - name: "thumb" 
+        field:
+          element: "text"
+          label: "Thumbnail Image"
+          help: "Path to 220x100 image. Images need to be placed in _assets/images/posts/thumbs/<filename>"
+          placeholder: "posts/thumbs/<filename>"
+      - name: "relatedthumb"
+        field:
+          element: "text"
+          label: "Thumbnail Image (Related Content)"
+          help: "Path to 110x50 image. Images need to be placed in _assets/images/posts/thumbs/<filename>"
+          placeholder: "posts/thumbs/<filename>"
+      - name: "blurb"
+        field:
+          element: "textarea"
+          label: "Short blurb displayed when this post is part of a collection."
+          default: ""
