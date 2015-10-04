@@ -55,6 +55,9 @@ prose:
     - index.haml
     - process.txt
     - vote_process.php
+    - /_assets
+    - /lib
+    - /submit
 
   metadata:
     _posts:
