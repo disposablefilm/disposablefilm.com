@@ -90,3 +90,9 @@ prose:
           element: "textarea"
           label: "Tags"
           default: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "Link to 750x300px image"
+          help: "Images need to be placed in _assets/images/posts/<filename>"
+          placeholder: "posts/<filename>"
