@@ -85,3 +85,8 @@ prose:
               value: "events"
             - name: "Blog Page"
               value: "blog"
+      - name: "tags"
+        field:
+          element: "textarea"
+          label: "Tags"
+          default: ""
