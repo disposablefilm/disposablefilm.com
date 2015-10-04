@@ -33,7 +33,7 @@ permalink: /:title.html
 prose:
   siteurl: 'http://disposablefilm.com/'
 
-  media: "_assets/images/posts/"
+  media: "_assets/images/"
   
   ignore:
     - _config_production.yml
