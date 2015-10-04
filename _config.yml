@@ -72,3 +72,16 @@ prose:
           element: "text"
           label: "Post or Collection Title"
           value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Show this post on the following pages:"
+          options:
+            - name: "Homepage"
+              value: "home"
+            - name: "Watch Page"
+              value: "watch"
+            - name: "Event Page"
+              value: "events"
+            - name: "Blog Page"
+              value: "blog"
