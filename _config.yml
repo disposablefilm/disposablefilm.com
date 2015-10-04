@@ -89,9 +89,9 @@ prose:
               value: "blog"
       - name: "tags"
         field:
-          element: "textarea"
+          element: "multiselect"
           label: "Tags"
-          default: ""
+          alterable: true
       - name: "video"
         field:
           element: "text"
