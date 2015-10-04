@@ -90,6 +90,11 @@ prose:
           element: "textarea"
           label: "Tags"
           default: ""
+      - name: "video"
+        field:
+          element: "text"
+          label: "Post Video"
+          help: "Path to video on Vimeo or YouTube. Format is: //player.vimeo.com/video/106526309 or https://www.youtube.com/embed/35tBYFUMwzw?list=PLqHxwRtSQAmKqhstdgfvirrcAuUa-EDww"
       - name: "image"
         field:
           element: "text"
