@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: Comic Book Heaven - Honorable Mention
+title: "Comic Book Heaven - Honorable Mention"
 categories: watch
 tags:
  - disposable
