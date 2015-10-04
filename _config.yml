@@ -60,8 +60,9 @@ prose:
     _posts:
       - name: "layout"
         field:
-          element: "select"
+          element: select
           label: "Is this a single post or a collection post?"
+          help: "Do this with gusto!"
           options:
             - name: "Single Post"
               value: "singleton"
@@ -71,11 +72,12 @@ prose:
         field:
           element: "text"
           label: "Post or Collection Title"
-          value: ""
+          default: ""
       - name: "categories"
         field:
           element: "multiselect"
           label: "Show this post on the following pages:"
+          help: "Do this with gusto!"
           options:
             - name: "Homepage"
               value: "home"
@@ -93,15 +95,15 @@ prose:
       - name: "video"
         field:
           element: "text"
-          label: "Post Video"
+          label: "Video"
           help: "Path to video on Vimeo or YouTube. Format is: //player.vimeo.com/video/106526309 or https://www.youtube.com/embed/35tBYFUMwzw?list=PLqHxwRtSQAmKqhstdgfvirrcAuUa-EDww"
       - name: "image"
         field:
           element: "text"
-          label: "Link to 750x300px image"
-          help: "Images need to be placed in _assets/images/posts/<filename>"
+          label: "Marquee Image"
+          help: "Path to 750x300 image. Images need to be placed in _assets/images/posts/<filename>"
           placeholder: "posts/<filename>"
-      - name: "thumb" 
+      - name: "thumb"
         field:
           element: "text"
           label: "Thumbnail Image"
