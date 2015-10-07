@@ -33,6 +33,8 @@ permalink: /:title.html
 prose:
   siteurl: 'http://disposablefilm.com/'
 
+  media: "_assets/images/"
+  
   ignore:
     - _config_production.yml
     - _config.yml
@@ -55,9 +57,75 @@ prose:
     - index.haml
     - process.txt
     - vote_process.php
+    - /_assets
+    - /lib
+    - /submit
 
   metadata:
     _posts:
+      - name: "layout"
+        field:
+          element: select
+          label: "Is this a single post or a collection post?"
+          options:
+            - name: "Single Post"
+              value: "singleton"
+            - name: "Collection"
+              value: "collection"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Show this post on the following pages:"
+          options:
+            - name: "Homepage"
+              value: "home"
+            - name: "Watch Page"
+              value: "watch"
+            - name: "Event Page"
+              value: "events"
+            - name: "Blog Page"
+              value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          alterable: true
+      - name: "video"
+        field:
+          element: "text"
+          label: "Video"
+          help: "Path to video on Vimeo or YouTube. Format is: //player.vimeo.com/video/106526309 or https://www.youtube.com/embed/35tBYFUMwzw?list=PLqHxwRtSQAmKqhstdgfvirrcAuUa-EDww"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Marquee Image"
+          help: "Path to 750x300 image. Images need to be placed in _assets/images/posts/<filename>"
+          placeholder: "posts/<filename>"
+      - name: "thumb"
+        field:
+          element: "text"
+          label: "Thumbnail Image"
+          help: "Path to 220x100 image. Images need to be placed in _assets/images/posts/thumbs/<filename>"
+          placeholder: "posts/thumbs/<filename>"
+      - name: "relatedthumb"
+        field:
+          element: "text"
+          label: "Thumbnail Image (Related Content)"
+          help: "Path to 110x50 image. Images need to be placed in _assets/images/posts/thumbs/<filename>"
+          placeholder: "posts/thumbs/<filename>"
+      - name: "blurb"
+        field:
+          element: "textarea"
+          label: "Short blurb displayed when this post is part of a collection."
+          default: ""
+      - name: "collections"
+        field:
+          element: "multiselect"
+          label: "Which collections is this post part of?"
+          alterable: true
+          help: "Enter the filename of the collection this post belongs to (e.g. 2015-04-15-Disposable-Film-Fest-2015-Winners.md)"
+          
+    _drafts:
       - name: "layout"
         field:
           element: select
