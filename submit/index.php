@@ -97,7 +97,7 @@ error_reporting(0);
 
       <br>
       <h4>Business Club Royale</h4>
-      <a href="https://www.businessclubroyale.com" target="_blank"><img src="{{ 'jurors/business_club_royale.png' | asset_path }}" width="80" height="80" alt="Business Club Royale" /></a>
+      <a href="http://www.businessclubroyale.com" target="_blank"><img src="{{ 'jurors/business_club_royale.png' | asset_path }}" width="80" height="80" alt="Business Club Royale" /></a>
       <p>Business Club Royale is a production company in Gothenburg on the west coast of Sweden. We strongly believe in exclusion. If something is intended for everyone, it ends up being for no one. We try not to communicate to boring people. Which is very liberating.
 So buckle up Jimmy, shit is about to get weird. Premium weird. We are: Christian Kuosmanen, Producer; Vedran Rupic, Director; Gustav Sundström, Director</p>
 
@@ -108,8 +108,8 @@ So buckle up Jimmy, shit is about to get weird. Premium weird. We are: Christian
 
       <br>
       <h4>DANIELS</h4>
-      <img src="{{ 'jurors/daniel_scheinert.png' | asset_path }}" width="80" height="80" alt="Daniel Scheinert" />
-      <img src="{{ 'jurors/daniel_kwan.png' | asset_path }}" width="80" height="80" alt="Daniel Kwan" />
+      <a href="http://www.danieldaniel.us/" target="_blank"><img src="{{ 'jurors/daniel_scheinert.png' | asset_path }}" width="80" height="80" alt="Daniel Scheinert" /></a>
+      <a href="http://www.danieldaniel.us/" target="_blank"><img src="{{ 'jurors/daniel_kwan.png' | asset_path }}" width="80" height="80" alt="Daniel Kwan" /></a>
       <p>DANIELS is comprised of two guys named Daniel [Daniel Scheinert and Daniel Kwan]. Daniel grew up in Massachusetts, began working in animation and graphics, when all of a sudden he met Daniel. Daniel is from Alabama and comes from a comedy and theatre background. Together they share the writing, directing, editing, and VFX on every kind of film they can possibly tackle. Often times they hold a camera. And when necessary they act, dance, or stunt double. They have a penchant for weird dramas and straight-faced comedies. Self-aware stories that tear themselves apart in an attempt to show audiences something a little bit new, or an attempt to be as honest as possible, or maybe just an attempt to not be boring. They’ve been nominated for a best music video Grammy, an MTV VMA award, awarded a UK MVA for Best Music Video 2011, and a Vimeo Award for Best Music Video in 2012. But most importantly they got into the 2014 Sundance Labs with their forthcoming film Swiss Army Man!  Collectively their music videos, short films, viral videos, commercials, have earned millions of views – and one time, they dressed up as pigeons and danced at the Hammer Museum. They both currently live and work in LA. But to be honest, Daniel does most of the work.</p>
 
       <br>
@@ -139,7 +139,7 @@ So buckle up Jimmy, shit is about to get weird. Premium weird. We are: Christian
 
       <br>
       <h4>Kirsten Lepore</h4>
-      <img src="{{ 'jurors/kirsten_lepore.png' | asset_path }}" width="80" height="80" alt="Kirsten Lepore" />
+      <a href="http://www.kirstenlepore.com/" target="_blank"><img src="{{ 'jurors/kirsten_lepore.png' | asset_path }}" width="80" height="80" alt="Kirsten Lepore" /></a>
       <p>Kirsten Lepore is a Los Angeles-based director and animator, and alumna of CalArts. Her films have taken top prizes at SXSW, Slamdance, and many other international festivals. Commercially, she has worked with Google, MTV, Yo Gabba Gabba, Newsweek, Whole Foods, Toyota, Facebook, Nickelodeon, Nestle, and Glamour Magazine. Kirsten has given presentations everywhere from Pixar to Portugal and has also been featured in Juxtapoz, Shots, and was named one of the 50 most creative people by Creativity Magazine.</p>
 
       <br>
