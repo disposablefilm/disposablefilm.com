@@ -22,12 +22,14 @@ blurb: Grab tickets to our Opening Night featuring the Best Shorts of the Year, 
 
 April 7, 2016, 8:00 PM , Castro Theater in San Francisco
 
-<a href="https://castrogeneraladmission.attendease.com/" target="_blank">https://castrovip.attendease.com</a>
+<a href="https://castrogeneraladmission.attendease.com/" target="_blank">https://castrogeneraladmission.attendease.com</a>
 
 ### VIP Tickets to Opening Night 
 
 April 7, 2016, 6:00 PM , Castro Theater in San Francisco
 
-<a href="https://castrovip.attendease.com/" target="_blank">Register here for Disposable Film Festival 2015 opening night</a>
+<a href="https://castrovip.attendease.com/" target="_blank">https://castrovip.attendease.com</a>
+
+<div style="margin-top: 42px"></div>
 
 #### More events to follow - stay tuned!
