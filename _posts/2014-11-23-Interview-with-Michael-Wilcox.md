@@ -5,7 +5,6 @@ categories:
 tags:
  - documentary
  - citizen journalism
- - blog
 image: posts/michael-wilcox.jpg
 thumb: posts/thumbs/michael-wilcox.jpg
 relatedthumb: posts/thumbs/michael-wilcox.jpg

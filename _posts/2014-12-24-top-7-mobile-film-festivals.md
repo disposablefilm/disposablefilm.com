@@ -3,7 +3,6 @@ layout: singleton
 title: Top 7 Mobile Film Festivals in the World
 categories:
  - events
- - blog
 tags:
  - festivals
  - mobile

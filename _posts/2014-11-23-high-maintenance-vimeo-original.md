@@ -2,7 +2,6 @@
 layout: singleton
 title: "High Maintenance: a Vimeo Original"
 categories:
- - blog
 tags:
  - vimeo
  - landingpage

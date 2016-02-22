@@ -2,8 +2,7 @@
 layout: static
 title: Film Submissions
 categories:
-  - blog
-tags:
+ tags:
   - landing page
 image: posts/Screen-Shot-2014-05-30-submit.png
 thumb: posts/thumb-submit.png

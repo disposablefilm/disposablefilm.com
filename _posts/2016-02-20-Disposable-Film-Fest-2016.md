@@ -3,7 +3,6 @@ layout: singleton
 title: 2016 Disposable Film Festival April 7 - 10
 categories:
  - events
- - blog
  - watch
 tags:
  - events

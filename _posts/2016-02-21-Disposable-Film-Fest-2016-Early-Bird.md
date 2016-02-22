@@ -2,7 +2,6 @@
 layout: singleton
 title: Early Bird Tickets Are Here!
 categories:
- - blog
  - home
 tags:
  - events

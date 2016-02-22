@@ -3,7 +3,6 @@ layout: singleton
 title: Disposable Film Festival 2015
 categories:
  - events
- - blog
 tags:
  - events
  - carousel

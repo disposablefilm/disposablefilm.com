@@ -3,7 +3,6 @@ layout: singleton
 title: Disposable Film Festival in NYC!
 categories:
  - events
- - blog
 tags:
  - events
  - brooklyn
