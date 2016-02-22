@@ -2,7 +2,6 @@
 layout: singleton
 title: Tutorial - Sync Settings in Creative Cloud with Adobe Premiere Pro CC and After Effects CC
 categories:
- - home
 tags:
  - premiere pro cs6
  - adobe premiere pro cc

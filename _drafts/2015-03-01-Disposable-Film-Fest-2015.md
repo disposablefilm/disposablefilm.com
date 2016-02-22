@@ -4,7 +4,6 @@ title: Disposable Film Festival 2015
 categories:
  - events
  - blog
- - home
 tags:
  - events
  - carousel

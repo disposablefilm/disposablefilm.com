@@ -3,7 +3,6 @@ layout: singleton
 title: "Film Shot Entirely On iPhone 6: Romance In NYC"
 categories:
  - watch
- - home
 tags:
  - landingpage
  - iphone

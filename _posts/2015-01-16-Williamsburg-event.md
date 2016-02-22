@@ -4,7 +4,6 @@ title: Disposable Film Festival in NYC!
 categories:
  - events
  - blog
- - home
 tags:
  - events
  - brooklyn

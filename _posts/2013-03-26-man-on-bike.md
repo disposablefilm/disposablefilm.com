@@ -3,9 +3,7 @@ layout: singleton
 title: The Man Who Lived on His Bike
 categories:
  - watch
- - home
 tags:
- - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

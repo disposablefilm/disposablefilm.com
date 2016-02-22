@@ -2,7 +2,6 @@
 layout: singleton
 title: Top 6 Video Making Apps That Will Rock Your World
 categories:
- - home
 tags:
  - video
  - apps

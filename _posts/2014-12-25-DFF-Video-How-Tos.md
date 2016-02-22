@@ -2,7 +2,6 @@
 layout: collection
 title: DFF How-To Video Tutorials
 categories:
- - home
 tags:
  - premiere pro cs6
  - adobe premiere pro cc

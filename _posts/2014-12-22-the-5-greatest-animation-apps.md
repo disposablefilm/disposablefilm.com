@@ -2,7 +2,6 @@
 layout: singleton
 title: 5 Great Animation Apps To Rock Your World
 categories:
- - home
 tags:
  - animation
  - video

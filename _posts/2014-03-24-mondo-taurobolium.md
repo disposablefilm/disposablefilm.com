@@ -3,9 +3,7 @@ layout: singleton
 title: Mondo Taurobolium
 categories:
  - watch
- - home
 tags:
- - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

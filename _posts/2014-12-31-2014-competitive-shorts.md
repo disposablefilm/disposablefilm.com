@@ -3,7 +3,6 @@ layout: collection
 title: 2014 Disposable Film Festival Competitive Shorts
 categories:
  - watch
- - home
 tags:
  - disposable
  - competitiveshorts

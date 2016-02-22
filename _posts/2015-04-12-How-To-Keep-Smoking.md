@@ -4,9 +4,7 @@ title: How to Keep Smoking - Audience Choice Award
 carouseltitle: How to Keep Smoking
 categories:
  - watch
- - home
 tags:
- - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

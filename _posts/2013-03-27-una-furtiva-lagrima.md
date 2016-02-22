@@ -3,9 +3,7 @@ layout: singleton
 title: Una Furtiva Lagrima
 categories:
  - watch
- - home
 tags:
- - carousel
  - disposable
  - disposablefilmfest
  - disposablefest

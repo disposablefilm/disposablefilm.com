@@ -4,7 +4,6 @@ title: Make your videos look more amazing with Vimeo and the DFF
 categories:
  - watch
  - blog
- - home
 tags:
  - film
  - landingpage

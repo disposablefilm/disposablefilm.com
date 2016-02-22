@@ -3,12 +3,10 @@ layout: singleton
 title: Syria's Mobile Phone Films Festival
 categories:
  - blog
- - home
 tags:
  - landingpage
  - syria
  - democratization
- - home
 image: posts/syrian-mobile-film-fest.jpg
 thumb: posts/thumbs/syrian-mobile-film-fest.jpg
 relatedthumb: posts/thumbs/syrian-mobile-film-fest.jpg

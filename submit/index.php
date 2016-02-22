@@ -3,7 +3,6 @@ layout: static
 title: Film Submissions
 categories:
   - blog
-  - home
 tags:
   - landing page
 image: posts/Screen-Shot-2014-05-30-submit.png

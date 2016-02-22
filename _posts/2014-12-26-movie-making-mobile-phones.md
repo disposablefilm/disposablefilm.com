@@ -2,7 +2,6 @@
 layout: singleton
 title: 10 Best Smartphones For Video
 categories:
- - home
  - blog
 tags:
  - iphone

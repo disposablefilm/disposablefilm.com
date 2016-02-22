@@ -2,7 +2,6 @@
 layout: singleton
 title: Tutorial - Warp Stabilizer in Premiere Pro CS6
 categories:
- - home
 tags:
  - premiere pro cs6
  - adobe premiere pro cc

@@ -3,7 +3,6 @@ layout: singleton
 title: '"Why Do I Study Physics?" selected by The Atlantic'
 categories:
  - blog
- - home
 tags:
  - landingpage
  - disposable

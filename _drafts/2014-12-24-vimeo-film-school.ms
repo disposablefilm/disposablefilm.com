@@ -3,7 +3,6 @@ layout: singleton
 title: Vimeo Film School
 categories:
  - events
- - home
 tags:
  - events
  - film

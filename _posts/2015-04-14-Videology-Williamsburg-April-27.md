@@ -4,7 +4,6 @@ title: Disposable Film Festival in Brooklyn on April 27!
 categories:
  - events
  - blog
- - home
 tags:
  - events
  - brooklyn

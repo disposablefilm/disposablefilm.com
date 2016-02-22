@@ -3,7 +3,6 @@ layout: singleton
 title: "Documentary: The Mother Grain by Michael Wilcox"
 categories:
  - blog
- - home
 tags:
  - landingpage
  - documentary

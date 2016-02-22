@@ -3,7 +3,6 @@ layout: singleton
 title: Welcome to DisposableFilm
 categories:
  - blog
- - home
 tags:
  - carlton evans
  - dff
