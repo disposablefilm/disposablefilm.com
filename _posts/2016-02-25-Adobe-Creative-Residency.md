@@ -4,13 +4,14 @@ title: Adobe Creative Residency 2016 - 2017
 categories:
  - blog
 tags:
+ - events
  - adobe
  - residency
- - creative
+ - landingpage
  - 2016
-image: posts/adobe_creative_residency.jpg
-thumb: posts/thumbs/adobe_creative_residency.jpg
-relatedthumb: posts/thumbs/adobe_creative_residency.jpg
+image: posts/adobe-creative-residency.jpg
+thumb: posts/thumbs/adobe-creative-residency.jpg
+relatedthumb: posts/thumbs/adobe-creative-residency.jpg
 blurb: The DFF is proud to be working with our partner Adobe for another year! 
 ---
 
