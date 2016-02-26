@@ -11,6 +11,7 @@ tags:
  - dff
  - landingpage
  - 2016
+ - carousel
 image: posts/dff-2016-banner.jpg
 thumb: posts/thumbs/dff-2016-banner.jpg
 relatedthumb: posts/thumbs/dff-2016-banner.jpg
