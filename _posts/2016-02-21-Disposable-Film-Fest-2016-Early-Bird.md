@@ -3,6 +3,7 @@ layout: singleton
 title: Early Bird Tickets to DFF16 are Available 
 categories:
  - blog
+ - home
 tags:
  - events
  - disposable
