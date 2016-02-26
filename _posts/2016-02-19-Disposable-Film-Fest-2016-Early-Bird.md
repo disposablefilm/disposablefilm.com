@@ -22,4 +22,6 @@ Early bird tickets available until March 1.
 
 Early bird tickets: <a href="https://castrogeneraladmission.attendease.com/">https://castrogeneraladmission.attendease.com</a>
 
+Want to go all out? Grab VIP tickets instead: <a href="http://disposablefilm.com/Disposable-Film-Fest-2016-VIP.html">http://disposablefilm.com/Disposable-Film-Fest-2016-VIP.html</a>
+
 Full list of events: <a href="http://disposablefilm.com/events/">http://disposablefilm.com/events</a>
