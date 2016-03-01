@@ -17,18 +17,54 @@ relatedthumb: posts/thumbs/dff-2016-banner.jpg
 blurb: Grab tickets to our Opening Night featuring the Best Shorts of the Year, our weekend workshop, and more!
 ---
 
-### General Admission - Grab Early Bird Tickets Til March 1! 
+## OPENING NIGHT - THURSDAY, APRIL 7, 2016
 
-April 7, 2016, 8:00 PM , Castro Theater in San Francisco
+### VIP Party + Competitive Shorts 
 
-<a href="https://castrogeneraladmission.attendease.com/" target="_blank">https://castrogeneraladmission.attendease.com</a>
+<b>6:00 PM - 8:00 PM, CASTRO THEATRE IN SAN FRANCISCO</b>
 
-### VIP Tickets to Opening Night 
-
-April 7, 2016, 6:00 PM , Castro Theater in San Francisco
+Join us for our pre-party in the Mezzanine of the Castro Theatre for drinks, nibbles, and networking at 6PM. Includes access to the show that starts at 8PM.  
 
 <a href="https://castrovip.attendease.com/" target="_blank">https://castrovip.attendease.com</a>
 
-<div style="margin-top: 42px"></div>
+### General Admission Tickets to Competitive Shorts
 
-#### More events to follow - stay tuned!
+<b>8:00 PM - 10:30 PM, Castro Theater in San Francisco</b>
+
+Join us for our 9th annual festival favorite event, Competitive Shorts on opening night! Get ready to watch the best online video made with personal screens on the silver screen. This event will be held at the iconic Castro Theater in San Francisco on April 7, 2016. Includes awards ceremony and access to our after party. This event always sells out, so tell your friends to grab their tickets now!
+
+<a href="https://castrogeneraladmission.attendease.com/" target="_blank">https://castrogeneraladmission.attendease.com</a>
+
+<br><br>
+
+## FRIDAY, APRIL 8, 2016
+
+### Sound + Vision: A Master Class with Marc Weidenbaum
+
+<b>4:00 PM - 5:30 PM, BAVC IN SAN FRANCISCO</b>
+
+Eyes are forgiving, ears less so. Eyes want to be seduced. Ears are sensitive to incongruity, discontinuity, artifice. How can sound reinforce narrative? How can sound be narrative? How can sound design serve as score? We'll explore the past and the technologically enabled promise of film sound.
+
+<a href="https://soundvision.attendease.com/" target="_blank">https://soundvision.attendease.com/</a>
+
+### DFF16 Filmmaker Happy Hour
+
+<b>6:00 PM - 8:00 PM, CHURCHILL'S IN SAN FRANCISCO</b>
+
+Rub elbows with the most creative kids in the room. This special event is for all Disposable Filmmakers, both aspiring and accomplished. Free!
+
+<a href="https://filmmakerhappyhour.attendease.com/" target="_blank">https://filmmakerhappyhour.attendease.com/</a>
+
+<br><br>
+
+## SATURDAY, APRIL 9 - SUNDAY, APRIL 10
+
+### DFF2016 Storytelling Weekend Workshop Presented by Adobe, Featuring Bianca Giaever
+
+<b>10:30 AM - 4:00 PM, SF FILM HOUSE IN SAN FRANCISCO</b>
+
+Learn the ins and outs of storytelling best practices in this 2 day workshop featuring the  mega-inspiring Bianca Giaever, whose breathtaking work landed her gigs at This American Life, Radiolab, and the New York Times Op-Docs.
+
+Participants will also learn the tools of the trade including Adobe Clip, an app that opens the door for creatives to make video sketches in their devices. We’ll also be touching on the basics of Adobe Premiere. Every participant will be receiving free trials to the latest versions of these Adobe programs.
+
+<a href="https://workshop.attendease.com/" target="_blank">https://workshop.attendease.com/</a>
