@@ -3,6 +3,7 @@ layout: singleton
 title: 2016 Disposable Film Festival Jurers Announced
 categories:
  - blog
+ - home
 tags:
  - events
  - disposable

@@ -12,9 +12,9 @@ tags:
  - landingpage
  - 2016
  - carousel
-image: posts/dff-2016-banner.jpg
-thumb: posts/thumbs/dff-2016-banner.jpg
-relatedthumb: posts/thumbs/dff-2016-banner.jpg
+image: posts/2016-Blog-Banner.png
+thumb: posts/thumbs/2016-Blog-Banner.png
+relatedthumb: posts/thumbs/2016-Blog-Banner.png
 blurb: Join us for our 9th annual festival favorite event, Competitive Shorts on opening night!
 ---
 

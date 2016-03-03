@@ -10,9 +10,9 @@ tags:
  - dff
  - landingpage
  - 2016
-image: posts/dff-2016-banner.jpg
-thumb: posts/thumbs/dff-2016-banner.jpg
-relatedthumb: posts/thumbs/dff-2016-banner.jpg
+image: posts/2016-VIP-Blog-Banner.png
+thumb: posts/thumbs/2016-VIP-Blog-Banner.png
+relatedthumb: posts/thumbs/2016-VIP-Blog-Banner.png
 blurb: Join us for our 9th annual festival in style on April 7, 2016!
 ---
 

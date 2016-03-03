@@ -11,9 +11,9 @@ tags:
  - dff
  - landingpage
  - 2016
-image: posts/dff-2016-banner.jpg
-thumb: posts/thumbs/dff-2016-banner.jpg
-relatedthumb: posts/thumbs/dff-2016-banner.jpg
+image: posts/2016-Site-Banner.png
+thumb: posts/thumbs/2016-Site-Banner.png
+relatedthumb: posts/thumbs/2016-Site-Banner.png
 blurb: Grab tickets to our Opening Night featuring the Best Shorts of the Year, our weekend workshop, and more!
 ---
 
@@ -63,8 +63,8 @@ Rub elbows with the most creative kids in the room. This special event is for al
 
 <b>10:30 AM - 4:00 PM, SF FILM HOUSE IN SAN FRANCISCO</b>
 
-Learn the ins and outs of storytelling best practices in this 2 day workshop featuring the  mega-inspiring Bianca Giaever, whose breathtaking work landed her gigs at This American Life, Radiolab, and the New York Times Op-Docs.
+Learn the ins and outs of storytelling best practices in this 2 day workshop featuring the mega-inspiring Bianca Giaever, whose breathtaking work landed her gigs at This American Life, Radiolab, and the New York Times Op-Docs.
 
-Participants will also learn the tools of the trade including Adobe Clip, an app that opens the door for creatives to make video sketches in their devices. We’ll also be touching on the basics of Adobe Premiere. Every participant will be receiving free trials to the latest versions of these Adobe programs.
+Participants will also learn the tools of the trade including Adobe Premiere Clip, a free mobile app for Android & iOS that opens the door for creatives to make video sketches in their devices. We’ll also be touching on the basics of Adobe Premiere Pro CC.
 
 <a href="https://workshop.attendease.com/" target="_blank">https://workshop.attendease.com/</a>
