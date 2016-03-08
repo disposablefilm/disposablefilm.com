@@ -14,6 +14,7 @@ tags:
  - 2016
  - carousel
 image: posts/2016-Site-Banner.png
+video: //player.vimeo.com/video/158062392
 thumb: posts/thumbs/2016-Site-Banner.png
 relatedthumb: posts/thumbs/2016-Site-Banner.png
 blurb: Grab tickets to our Opening Night featuring the Best Shorts of the Year, our weekend workshop, and more!
