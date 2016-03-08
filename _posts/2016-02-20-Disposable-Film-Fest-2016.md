@@ -4,6 +4,7 @@ title: 2016 Disposable Film Festival April 7 - 10
 categories:
  - events
  - watch
+ - home
 tags:
  - events
  - disposable
@@ -11,6 +12,7 @@ tags:
  - dff
  - landingpage
  - 2016
+ - carousel
 image: posts/2016-Site-Banner.png
 thumb: posts/thumbs/2016-Site-Banner.png
 relatedthumb: posts/thumbs/2016-Site-Banner.png
