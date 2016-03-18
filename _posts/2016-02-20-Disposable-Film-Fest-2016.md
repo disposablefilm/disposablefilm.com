@@ -64,7 +64,7 @@ Rub elbows with the most creative kids in the room. This special event is for al
 
 ### DFF2016 Storytelling Weekend Workshop Presented by Adobe, Featuring Bianca Giaever
 
-<b>10:30 AM - 4:00 PM, SF FILM HOUSE IN SAN FRANCISCO</b>
+<b>10:30 AM - 4:30 PM, SAN FRANCISCO FILM SOCIETY FILMHOUSE</b>
 
 Learn the ins and outs of storytelling best practices in this 2 day workshop featuring the mega-inspiring Bianca Giaever, whose breathtaking work landed her gigs at This American Life, Radiolab, and the New York Times Op-Docs.
 
