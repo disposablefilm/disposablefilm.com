@@ -20,7 +20,7 @@ error_reporting(0);
 
       <h1>Film Submissions</h1>
 
-     <h3>DFF 2016 Deadlines</h3>
+     <h3>DFF 2017 Deadlines</h3>
      <p>Early Submission Deadline: <b>October 1, 2016 at 11:59pm PST</b> - $5.00 fee per submission</p>
      <p>Final Submission Deadline: <b>December 1, 2016 at 11:59pm PST</b> - $15.00 fee per submission</p>
 
