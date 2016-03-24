@@ -71,3 +71,13 @@ Learn the ins and outs of storytelling best practices in this 2 day workshop fea
 Participants will also learn the tools of the trade including Adobe Premiere Clip, a free mobile app for Android & iOS that opens the door for creatives to make video sketches in their devices. We’ll also be touching on the basics of Adobe Premiere Pro CC.
 
 <a href="https://workshop.attendease.com/" target="_blank">https://workshop.attendease.com/</a>
+
+## SUNDAY, APRIL 10
+
+### PALATABLE PAIRING: FILM AND FOOD AT 18 REASONS 
+
+<b>7:00 PM - 9:00 PM, 18 REASONS</b>
+
+DFF is pairing films with tasty treats from 18 Reasons and Pie Ranch for our signature Film + Food event that delights the intellect as much as the palate! We’ll be serving up bites created by 18 Reasons’ Chef Jaime Tjahaja, made from the freshest organic and seasonal ingredients — along with a selection of the year’s best food films from around the world, courtesy of Real Food Media. And of course a selection of wines from Cycles Gladiator and Broadside to round out the experience.
+
+<a href="https://filmandfood2016.attendease.com/" target="_blank">https://filmandfood2016.attendease.com/</a>
