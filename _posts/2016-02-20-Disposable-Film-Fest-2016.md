@@ -72,6 +72,8 @@ Participants will also learn the tools of the trade including Adobe Premiere Cli
 
 <a href="https://workshop.attendease.com/" target="_blank">https://workshop.attendease.com/</a>
 
+<br><br>
+
 ## SUNDAY, APRIL 10
 
 ### PALATABLE PAIRING: FILM AND FOOD AT 18 REASONS 
