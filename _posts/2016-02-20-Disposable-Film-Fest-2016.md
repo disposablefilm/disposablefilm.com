@@ -48,6 +48,8 @@ Join us for our 9th annual festival favorite event, Competitive Shorts on openin
 
 Eyes are forgiving, ears less so. Eyes want to be seduced. Ears are sensitive to incongruity, discontinuity, artifice. How can sound reinforce narrative? How can sound be narrative? How can sound design serve as score? We'll explore the past and the technologically enabled promise of film sound.
 
+Presented by <a href="http://tactiontechnology.com/" target="_blank">Taction Technology</a>.
+
 <a href="https://soundvision.attendease.com/" target="_blank">https://soundvision.attendease.com/</a>
 
 ### DFF16 Filmmaker Happy Hour
