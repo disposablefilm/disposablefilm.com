@@ -1,6 +1,6 @@
 ---
 layout: singleton
-title: "Guest Post: Adobe Partners with DFF for Storytelling Workshop April 9 - 10"
+title: "Guest Post: Adobe Partners with DFF for Storytelling Workshop April 7 - 10"
 categories:
  - blog
  - events
